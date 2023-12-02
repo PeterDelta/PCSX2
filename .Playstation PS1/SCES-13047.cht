@@ -1,0 +1,7 @@
+# Legend of Dragoon, The (Spain) (Disc 2) SCES-13047
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7054998 00010000

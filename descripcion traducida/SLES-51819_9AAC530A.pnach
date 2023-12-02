@@ -1,0 +1,18 @@
+gametitle=Final Fantasy X-2 (PAL-S) SLES-51819 9AAC530A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=nemesis2000
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,001b49cc,word,3c013f19
+patch=1,EE,001b49d0,word,3421999a
+patch=1,EE,0012369c,word,3c014440 //Render-Fix
+patch=1,EE,00185f7c,word,3c01442b
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00101888,word,24040001 //24040002
+patch=1,EE,0049F18C,word,3CCCCCCD //3D4CCCCD speed move
+patch=1,EE,004B7F88,word,3F800000 //40000000 speed text
+//patch=1,EE,00355FB4,word,00000002 //00000001 speed global

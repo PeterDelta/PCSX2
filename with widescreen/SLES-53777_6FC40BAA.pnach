@@ -1,0 +1,22 @@
+gametitle=Prince of Persia - The Two Thrones (PAL-M5) SLES-53777 6FC40BAA
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,005b8cd0,word,3c013f40 // 00000000 hor fov
+patch=1,EE,005b8cec,word,34210000 // 00000000 hor fov
+patch=1,EE,005b8cf4,word,4481f000 // 00000000
+patch=1,EE,005b8cf8,word,461e1743 // 00000000
+patch=1,EE,005b8d08,word,461eb583 // 3c024000
+patch=1,EE,005b8d0c,word,4600e8c6 // 44821800
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,00A90CF8,word,00000001 //00000002
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Removes the post-processing blur/bloom effect
+patch=0,EE,005AAF2C,word,00000000

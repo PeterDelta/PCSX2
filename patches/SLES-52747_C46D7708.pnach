@@ -1,0 +1,12 @@
+gametitle=Dukes of Hazzard, The - Return of the General Lee (PAL-E) SLES-52747 C46D7708
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,004BC078,extended,00000001
+patch=1,EE,E0010000,extended,00877620
+patch=1,EE,004BC078,extended,00000002
+patch=1,EE,E001D70A,extended,0062CCF4
+patch=1,EE,2062CCF4,extended,3C23D70A
+patch=1,EE,2061C410,extended,3CA3D70A
+patch=1,EE,2061C414,extended,3CA3D70A

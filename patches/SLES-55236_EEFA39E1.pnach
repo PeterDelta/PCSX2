@@ -1,0 +1,11 @@
+gametitle=DreamWorks Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0062B1D4,word,00000001 //00000002
+
+[Disable Filter]
+author=PeterDelta
+description=Disable brown filter and reducing blur.
+patch=1,EE,00579238,word,00000000

@@ -1,0 +1,6 @@
+gametitle=Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,002ECDEC,word,00000000 //1040FFFE

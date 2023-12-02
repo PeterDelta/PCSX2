@@ -1,0 +1,13 @@
+gametitle=Juiced 2 (PAL-M) SLES-54834 6D1B0C02
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,0032FA40,word,34060002
+patch=0,EE,0032B634,word,340501C0
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=0,EE,0032FA40,word,34060050
+patch=0,EE,0032B634,word,340501E0

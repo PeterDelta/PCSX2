@@ -1,0 +1,12 @@
+gametitle=TMNT Teenage Mutant Ninja Turtles (PAL-M5) SLES-54478 D76BF975
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0091E6C8,word,00000001 //00000002
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,0040650C,word,14000012
+//patch=1,EE,0091E600,word,3F555550

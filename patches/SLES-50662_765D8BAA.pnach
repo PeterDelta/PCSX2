@@ -1,0 +1,8 @@
+gametitle=The Shadow of Zorro (PAL-M) SLES-50662 765D8BAA
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,0014825C,word,3C033F40 //3C033F80
+patch=1,EE,001184C8,word,3C013F2C //3C013F80

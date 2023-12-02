@@ -1,0 +1,6 @@
+gametitle=Smuggler's Run (PAL-M) SLES-50061 95416482
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,002C6DA4,word,00000001 //00000002

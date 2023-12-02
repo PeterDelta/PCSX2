@@ -1,0 +1,6 @@
+gametitle=The Incredibles - Rise of the Underminer (PAL-M) SLES-53474 F3AE68FC
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,00101380,word,14C00004

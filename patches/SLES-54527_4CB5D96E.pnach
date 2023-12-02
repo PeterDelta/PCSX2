@@ -1,0 +1,15 @@
+gametitle=DreamWorks Flushed Away (Ratónpolis  in Spain) (PAL-M) SLES-54527 4CB5D96E
+
+[Remove Blackbars]
+author=PeterDelta
+description=Removes black bars in cutscenes
+patch=1,EE,00466630,word,00000000 //00000003
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode on startup at 60 FPS.
+patch=1,EE,003F07DC,extended,00000003
+patch=1,EE,201ADAB8,extended,00000000
+patch=1,EE,E0010001,extended,003F0688
+patch=1,EE,201ADAB8,extended,0C0A9638
+patch=1,EE,003537A4,extended,2405003C

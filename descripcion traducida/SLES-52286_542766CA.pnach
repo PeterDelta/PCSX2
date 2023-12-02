@@ -1,0 +1,13 @@
+gametitle=Tak y el Poder Juju (PAL-S) SLES-52286 542766CA
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00251400,word,3C013FE3 //3C013FAA
+patch=1,EE,00251404,word,3421388E //3421AAAB
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00440738,word,00000001 //00000002

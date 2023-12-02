@@ -1,0 +1,9 @@
+# Time Crisis (Europe) SCES-00657
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70B51A4 00010000
+A70C82DA 00180000
+A70E934A 00180000

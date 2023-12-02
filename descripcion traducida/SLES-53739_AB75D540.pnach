@@ -1,0 +1,13 @@
+gametitle=Disney's Chicken Little (PAL-M) SLES-53739 AB75D540
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,205D27AC,extended,3FE38E32 //3FAAAAAB (Memory Hack)
+patch=1,EE,00287DE0,word,3C014455 //3C014420 Start menu and left status bar (ELF Hack)
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,005294A8,word,00000001 //00000002

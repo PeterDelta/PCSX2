@@ -1,0 +1,10 @@
+gametitle=Kingdom Hearts II (NTSC-U) SLUS-21005 DA0535FD
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00356F4C,extended,00000000
+patch=1,EE,E0010005,extended,0033E784
+patch=1,EE,00356F4C,extended,00000001
+patch=1,EE,20379178,extended,3F800000
+patch=1,EE,2037CE98,extended,3F800000

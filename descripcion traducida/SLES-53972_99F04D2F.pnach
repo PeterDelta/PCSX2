@@ -1,0 +1,7 @@
+gametitle=Stock Car Crash (PAL-E) SLES-53972 99F04D2F
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,00266690,word,3FE38E39

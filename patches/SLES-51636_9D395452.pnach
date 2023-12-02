@@ -1,0 +1,6 @@
+gametitle=XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,201A793C,word,14400004 //10400004

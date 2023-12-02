@@ -1,0 +1,6 @@
+gametitle=SOCOM - U.S. Navy SEALs (PAL-M) SCES-50928 85FEEC45
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003A51FC,extended,00000032

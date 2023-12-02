@@ -1,0 +1,9 @@
+gametitle=Crash Nitro Kart (PAL-M6) SLES-51511 1B09B0E4
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start. karts are speeding up, time ok
+patch=1,EE,00446A74,word,24110000
+patch=1,EE,00446A78,word,24120050
+patch=1,EE,00446A84,word,24130001

@@ -1,0 +1,6 @@
+gametitle=Bad Boys II (PAL-M) SLES-52362 5D0235B7
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0051C4C4,word,42480000 //41C80000

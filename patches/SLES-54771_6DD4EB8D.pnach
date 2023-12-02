@@ -1,0 +1,13 @@
+gametitle=DreamWorks Shrek the Third (PAL-M) SLES-54771 6DD4EB8D
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,004255FC,word,14000008
+patch=1,EE,00425604,word,14000006
+patch=1,EE,00425610,word,14000003
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,004255FC,word,14000008

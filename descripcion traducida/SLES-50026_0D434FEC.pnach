@@ -1,0 +1,18 @@
+gametitle=NBA Live 2001 (PAL-S) SLES-50026 0D434FEC
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+//Ported from SCES-20102 823BFFD3 by Arapapa
+patch=1,EE,00112920,word,08030000
+patch=1,EE,000C0000,word,46093182
+patch=1,EE,000C0004,word,3C013F40
+patch=1,EE,000C0008,word,4481F000
+patch=1,EE,000C000C,word,461E3182
+patch=1,EE,000C0010,word,08044A49
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,003AC008,word,0000003C //0000001E

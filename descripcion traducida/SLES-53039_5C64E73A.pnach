@@ -1,0 +1,29 @@
+gametitle=Champions - Return to Arms (PAL-M) SLES-53039 5C64E73A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0018AAB0,word,3C013F19
+patch=1,EE,001952B4,word,3C013F19
+patch=1,EE,0019A50C,word,3C013FE2 //render fix menu
+patch=1,EE,0019A90C,word,3C013FE2 //render fix
+patch=1,EE,0019A540,word,3C013FE2
+patch=1,EE,0019ADF4,word,3C013FE2
+//patch=1,EE,00168EA8,word,3C013FE2
+//patch=1,EE,0018AA40,word,3C013FE2
+//patch=1,EE,0019BE88,word,3C013FE2
+//patch=1,EE,002A9A64,word,3C013FE2
+//patch=1,EE,002A9A98,word,3C013FE2
+//patch=1,EE,002C9928,word,3C013FE2
+
+[No-Interlacing]
+gsinterlacemode=1
+author=Agrippa
+description=Force frame mode.
+patch=1,EE,20451640,extended,00000000
+patch=1,EE,20451644,extended,00000001
+patch=1,EE,204516B4,extended,00000001
+patch=1,EE,2019E41C,extended,10000010
+patch=1,EE,2019E47C,extended,10000004
+patch=1,EE,2019ED0C,extended,24020001

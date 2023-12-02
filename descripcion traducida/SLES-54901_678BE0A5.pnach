@@ -1,0 +1,30 @@
+gametitle=Spider-Man - Friend or Foe (PAL-M5) SLES-54901 678BE0A5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,003F0E54,word,00000100
+patch=1,EE,00407870,word,00000001
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas
+patch=1,EE,003F0604,extended,00000003
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,0037DF20,word,00000001 //00000002
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,0021DE94,word,0000102D
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0032F2D4,word,24110000
+patch=1,EE,0032F2D8,word,24120050
+patch=1,EE,0032F2E4,word,24130001

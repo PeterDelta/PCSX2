@@ -1,0 +1,22 @@
+gametitle=Midnight Club II (PAL-M) SLES-51054 ACB1989A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0042F134,word,3FC71C65 //3F955553
+//patch=1,EE,001C74E0,word,3C013F77 //3C013F80 map zoom
+//patch=1,EE,001C7E80,word,3C013EC0 //3C013F00 map size
+//patch=1,EE,001C81F4,word,3C013EC5 //3C013F00 map size
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00106F64,word,24070001
+patch=1,EE,00431804,word,3F000000 //3F800000 speed
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start. FMV freezes, gameplay ok
+patch=1,EE,0042F784,word,00000000
+patch=1,EE,0042F1A8,word,000001C0

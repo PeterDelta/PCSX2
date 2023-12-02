@@ -1,0 +1,12 @@
+gametitle=Total Overdose - A Gunslinger's Tale in Mexico (NTSC-U) SLUS-21283 461F9727
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,206927AC,word,3F47AE14 // Zoom
+patch=1,EE,206C62BC,word,3F400000 // Vert fov
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,01B71E70,word,00000001 //00000002

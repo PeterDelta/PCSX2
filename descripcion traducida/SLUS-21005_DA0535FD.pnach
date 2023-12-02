@@ -1,0 +1,41 @@
+gametitle=Kingdom Hearts II (NTSC-U) SLUS-21005 DA0535FD
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00106c70,word,3c013f4c // c480004c
+patch=1,EE,00106c88,word,3421cccc // 4600a7c6
+patch=1,EE,00106c8c,word,4481f800 // 00000000
+patch=1,EE,00106c90,word,461fa503 // 4600a503
+patch=1,EE,00106cb4,word,3c1b3f40 // 00000000 hor fov
+patch=1,EE,00106cc0,word,449bf000 // 00000000
+patch=1,EE,00106cd0,word,461effc2 // 00000000
+patch=1,EE,00106cd4,word,e61f004c // 00000000
+patch=1,EE,20378104,word,43f90000 // 43d00000 optional zoom for cutscenes (hides sudden pop-in)
+patch=1,EE,2037ae44,word,3F400000 // 3F800000 font fix
+patch=1,EE,2037ae48,word,3F400000 // 3F800000
+patch=1,EE,2037ae4c,word,3F400000 // 3F800000
+patch=1,EE,001aae88,word,240a0190 //lower subtitles
+
+[Remove Blackbars]
+author=ElHecht
+description=Elimina las barras negras en las escenas
+patch=1,EE,0014aaf0,word,24050000
+patch=1,EE,0014ab18,word,24050000
+patch=1,EE,0014ab40,word,24050000
+patch=1,EE,0014ab70,word,24050000
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00356F4C,extended,00000000
+patch=1,EE,E0010005,extended,0033E784
+patch=1,EE,00356F4C,extended,00000001
+patch=1,EE,20379178,extended,3F800000
+patch=1,EE,2037CE98,extended,3F800000
+
+[Subtitles off]
+author=ElHecht
+description=Deshabilita los subtitulos durante las escenas
+patch=1,EE,002274cc,word,11E00019

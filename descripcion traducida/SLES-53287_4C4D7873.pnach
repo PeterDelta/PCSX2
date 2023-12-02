@@ -1,0 +1,20 @@
+gametitle=Tom Clancy's Splinter Cell - Chaos Theory (PAL-M) SLES-53287 4C4D7873
+//Main CRC to activate CRCs: DDAEB7A6 called SC3_OFF.ELF and A1C2614A called SC3_ON.ELF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%). Para multiplayer
+
+//[NTSC Mode]
+//author=PeterDelta
+//description=Modo NTSC al iniciar.
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.

@@ -1,0 +1,6 @@
+gametitle=Manhunt 2 (PAL-M) SLES-54819 887AD3A0
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00370EE8,word,24020001 //24020002

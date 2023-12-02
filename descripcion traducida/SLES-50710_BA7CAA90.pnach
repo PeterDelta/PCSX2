@@ -1,0 +1,17 @@
+gametitle=Dr. Muto (PAL-M) SLES-50710 BA7CAA90
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00100464,word,3c013fcc // 3c013f91 hor fov gameplay
+patch=1,EE,00100468,word,3421cccd // 3421361e hor fov gameplay
+patch=1,EE,00101c2c,word,3c013f41 // 3c013f11 hor fov conversations/isotopes/other stuff
+patch=1,EE,00101c30,word,34219d7d // 3421361e hor fov conversations/isotopes/other stuff
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00462630,extended,00000001
+patch=1,EE,E0010000,extended,002AC9CC
+patch=1,EE,00462630,extended,00000002

@@ -1,0 +1,41 @@
+# Resident Evil 3 - Nemesis (Spain) SLES-02532
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70A4DC8 00010000
+A70D649E 00180000
+A70D655E 00180000
+D00A5332 1B15 #for scenes that do not sync
+800A4DC8 0001
+
+[Skip Door Transition]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Skips door scenes every time a room is entered.
+A7099BE0 57C461C0
+A7049CD2 0C012400
+
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS. BETA Missing speeds
+OverrideCPUOverclock = 180
+800101BC 0000FFFF
+10027FB4 00000001
+D0027FB4 00000002
+80027FB4 00000000
+10027240 00000001
+D3027240 00000002
+80027240 00000000
+E00CED60 0000000B
+800101BC 00000001
+E00CED60 0000000E
+800101BC 00000001
+E00CED60 0000000A
+800101BC 00000001
+E00CED60 0000000F
+800101BC 00000001

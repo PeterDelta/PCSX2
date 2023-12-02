@@ -1,0 +1,10 @@
+gametitle=Rune - Viking Warlord (PAL-E) SLES-50335 7DB392C5
+//Main CRC to activate CRC 52638022 called GAME.ELF
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.

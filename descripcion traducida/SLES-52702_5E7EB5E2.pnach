@@ -1,0 +1,18 @@
+gametitle=Psi-Ops - The Mindgate Conspiracy (PAL-M) SLES-52702 5E7EB5E2
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0047015C,word,241102AA //00000000 (Increases hor. axis)
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Intenta deshabilitar la representación entrelazada.
+patch=1,EE,00568624,word,3C051000
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,0017AC9C,word,3C043F20 //3C043FA0

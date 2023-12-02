@@ -1,0 +1,6 @@
+gametitle=Codename - Kids Next Door Operation V.I.D.E.O.G.A.M.E. (PAL-M) SLES-53812 A38C6B77
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00755C20,byte,01 //02

@@ -1,0 +1,12 @@
+gametitle=Test Drive Unlimited (PAL-M) SLES-53753 C2911A79
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%). BETA
+patch=1,EE,201B4DF8,extended,10400022
+patch=1,EE,205E5880,extended,3D088889
+patch=1,EE,21E3D02C,extended,3D088889
+patch=1,EE,E0030101,extended,0061D1F2
+patch=1,EE,201B4DF8,extended,14400022
+patch=1,EE,205E5880,extended,3C88888A
+patch=1,EE,21E3D02C,extended,3C08888A

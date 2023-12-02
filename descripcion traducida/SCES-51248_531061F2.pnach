@@ -1,0 +1,12 @@
+gametitle=Dog's Life (PAL-M) SCES-51248 531061F2
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,00AB51C0,byte,01
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00791350,word,3CA3D70A

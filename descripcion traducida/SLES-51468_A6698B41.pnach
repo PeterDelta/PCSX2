@@ -1,0 +1,17 @@
+gametitle=Freedom Fighters (PAL-F) SLES-51468 A6698B41 FF.ELF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Activer l'écran large natif
+patch=1,EE,0056987C,extended,01
+
+[50/60 FPS]
+author=PeterDelta
+description=Peut nécessiter une augmentation de la fréquence EE (130%).
+patch=1,EE,0056BA08,word,00000000
+
+[NTSC Mode]
+author=PeterDelta
+description=Mode NTSC au démarrage.
+patch=1,EE,0033135C,word,14A2005C

@@ -1,0 +1,6 @@
+gametitle=Splinter Cell - Pandora Tomorrow (NTSC-U) SLUS-20958 0277247B SC2A.ELF
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0018D778,word,24030001 //24030002

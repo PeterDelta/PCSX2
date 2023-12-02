@@ -1,0 +1,6 @@
+gametitle=Sims 2, The (PAL-M) SLES-53718 E626181E
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003EAEF4,word,28820001 //28820002

@@ -1,0 +1,19 @@
+gametitle=Project - Snowblind (PAL-M4) SLES-53124 821A0C40 (BO3GM.ELF) single-player
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,20332BB8,extended,3C013FE3 //3C013FAA hor fov
+patch=1,EE,20332BBC,extended,34218E39 //3421AAAB hor fov
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,002D4D60,word,24630002 //24630001
+//patch=1,EE,002D4D94,word,2C620000 //0062102B old
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Elimina el efecto blur/bloom del posprocesamiento
+patch=1,EE,004E9B28,word,00000000

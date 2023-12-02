@@ -1,0 +1,8 @@
+gametitle=Bratz - Girlz Really Rock (PAL-M) SLES-55357 26847412
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003F4324,extended,46010003
+patch=1,EE,E0010000,extended,004AD52C
+patch=1,EE,003D189C,extended,46010001

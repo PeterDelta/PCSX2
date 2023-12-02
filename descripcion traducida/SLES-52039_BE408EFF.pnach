@@ -1,0 +1,23 @@
+gametitle=Terminator 3 - Rise of the Machines (PAL-S) SLES-52039 BE408EFF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+//Ported from SLUS-20799 by Arapapa
+patch=1,EE,0026D620,word,080BE376
+patch=1,EE,002F8DD8,word,4600A346
+patch=1,EE,002F8DDC,word,3C013F40
+patch=1,EE,002F8DE0,word,4481F000
+patch=1,EE,002F8DE4,word,461E6B42
+patch=1,EE,002F8DE8,word,0809B589 //Target
+patch=1,EE,002870BC,word,080BE37B
+patch=1,EE,002F8DEC,word,461EAD42
+patch=1,EE,002F8DF0,word,E6150000
+patch=1,EE,002F8DF4,word,080A1C30
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,003EED78,word,00000000 //00000001
+patch=1,EE,0013FC9C,word,3C013F00 //3C013F80

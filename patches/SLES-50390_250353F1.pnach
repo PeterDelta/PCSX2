@@ -1,0 +1,6 @@
+gametitle=Driven (PAL-M) SLES-50390 250353F1
+
+[Remove blur]
+author=PeterDelta
+description=Remove blur effect
+patch=1,EE,00816664,word,00000003 //00000002

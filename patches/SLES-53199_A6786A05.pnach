@@ -1,0 +1,6 @@
+gametitle=25 to Life (PAL-E) SLES-53199 A6786A05
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,005F787C,word,00000001 //00000002

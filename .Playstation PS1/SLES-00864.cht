@@ -1,0 +1,11 @@
+# Colony Wars (Spain) (Disc 1) SLES-00864
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+A70743E0 00010000
+A7034AC2 01000200
+A70390B6 01000200
+A7034AC6 00140070
+A70390BA 00140070

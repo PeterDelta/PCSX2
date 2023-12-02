@@ -1,0 +1,6 @@
+gametitle=King of Clubs (PAL-M) SLES-54731 079140D6
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,00301374,word,1460000C //1060000C

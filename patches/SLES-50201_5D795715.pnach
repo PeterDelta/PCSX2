@@ -1,0 +1,6 @@
+gametitle=Evil Twin - Cyprien's Chronicles (PAL-M) SLES-50201 5D795715
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003DDF18,word,14600003

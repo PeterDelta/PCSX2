@@ -1,0 +1,16 @@
+gametitle=Harry Potter - Quidditch World Cup (PAL-M) SLES-51787 62AB6416
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,00464C88,word,00000001
+patch=1,EE,004B5D54,word,00464C80
+patch=1,EE,00358BF0,word,24020000
+patch=1,EE,01DC41E0,word,00000001 //yes, in menu option. Change for 01DF61E0 in usa
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,002B23D8,word,24020050

@@ -1,0 +1,13 @@
+gametitle=Tom Clancy's Splinter Cell - Pandora Tomorrow (PAL-M) SLES-52149 990E57D1 SC2B.ELF Multi
+
+//[Widescreen 16:9]
+//gsaspectratio=16:9
+//author=PeterDelta
+//description=Renders the game in 16:9 aspect ratio. Causes graphic glitches
+//patch=0,EE,0017E880,word,3C023F40
+//patch=0,EE,001E6274,word,3C023FAB
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=0,EE,00337EF0,word,00000000

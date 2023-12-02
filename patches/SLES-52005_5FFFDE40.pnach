@@ -1,0 +1,16 @@
+gametitle=007 - Everything or Nothing (PAL-M) SLES-52005 5FFFDE40
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0030DEE0,word,24020001 //0C04B51A
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,E001000E,extended,003810D4
+patch=1,EE,203810D4,extended,00000000
+patch=1,EE,E0020000,extended,003810D4
+patch=1,EE,E0010001,extended,00815D44
+patch=1,EE,203810D4,extended,1040000E

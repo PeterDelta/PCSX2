@@ -1,0 +1,9 @@
+# Dino Crisis 2 (Spain) SLES-03225
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7090A70 00010000
+A70AB6AA 00180000
+A70AB73A 00180000

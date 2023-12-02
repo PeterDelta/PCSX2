@@ -1,0 +1,14 @@
+gametitle=Half-Life (PAL-S) SLES-50509 F9E3CF90
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=nemesis2000
+description=Renders the game in 16:9 aspect ratio. Select aspect ratio 4:3 in game
+patch=1,EE,002aa624,extended,3c013fe3
+patch=1,EE,002aa628,extended,34218e38
+patch=1,EE,002a9e60,extended,3c013f2b
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,0023CCD8,word,14000011

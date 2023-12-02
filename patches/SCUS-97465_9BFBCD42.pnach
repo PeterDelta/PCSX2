@@ -1,0 +1,6 @@
+gametitle=Ratchet - Deadlocked (NTSC-U) SCUS-97465 9BFBCD42
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,0021DE6C,extended,01

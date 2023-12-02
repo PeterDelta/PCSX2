@@ -1,0 +1,24 @@
+gametitle=The Simpsons Skateboarding (PAL-S) SLES-51361 D3FB54E5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=TESTING, falta render fix
+patch=1,EE,00229C6C,word,081219F4
+patch=1,EE,00229C70,word,00000000
+patch=1,EE,004867D0,word,3C013F40
+patch=1,EE,004867D4,word,4481F000
+patch=1,EE,004867D8,word,46070202
+patch=1,EE,004867DC,word,24430050
+patch=1,EE,004867E0,word,461E4202
+patch=1,EE,004867E4,word,0808A71C
+patch=1,EE,002C8D5C,word,3C020000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0010D820,word,34050050
+patch=1,EE,0010D824,word,24030002
+patch=1,EE,0010D828,word,0000000C
+patch=1,EE,0010D82C,word,03E00008

@@ -1,0 +1,13 @@
+gametitle=Lara Croft Tomb Raider - Anniversary (PAL-M) SLES-54674 A629A376
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,0012795C,word,14400003 //10400003
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,003BECEC,word,00000001
+patch=1,EE,003985A0,word,3F800000
+patch=1,EE,00126E7C,word,240301C0

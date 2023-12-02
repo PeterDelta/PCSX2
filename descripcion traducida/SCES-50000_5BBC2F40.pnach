@@ -1,0 +1,30 @@
+gametitle=Ridge Racer V (PAL-M) SCES-50000 5BBC2F40
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=No.47
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,2033AC94,word,43C6C000 // 44048000 - both fov, bumper camera single player
+patch=1,EE,2033ACB4,word,43960000 // 44048000 - both fov, chase camera (*)
+patch=1,EE,2033B4C4,word,3F1D0364 // 3EEB851F - vertical FOV
+patch=1,EE,2033AC90,word,43951000 // 43C6C000 - both FOV split screen
+patch=1,EE,2033B4D0,word,3F1D0364 // 3EEB851F - vert FOV, top
+patch=1,EE,2033B4D4,word,3F1D0364 // 3EEB851F - vert FOV, bottom
+patch=1,EE,2033B580,word,3F066666 // 3F333333 - horizontal FOV menu
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Intenta deshabilitar la representación entrelazada.
+patch=1,EE,00220738,word,24020000
+//patch=1,EE,002C500C,word,3C050000 //progressive res at 224
+
+[60 FPS]
+author=PeterDelta
+description=Modo HDTV 720p al iniciar
+patch=1,EE,0033D568,word,3C88889A //3CA3D70A
+patch=1,EE,002DE020,word,34050052
+patch=1,EE,002DE024,word,24030002
+patch=1,EE,002DE028,word,0000000C
+patch=1,EE,002DE02C,word,03E00008
+patch=1,EE,00220738,word,24020008

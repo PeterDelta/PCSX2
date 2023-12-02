@@ -1,0 +1,18 @@
+gametitle=Evil Twin - Cyprien's Chronicles (PAL-M) SLES-50201 5D795715
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=necesita la corrección o eliminación de la barra negra en las escenas cinemáticas.
+patch=1,EE,00247644,word,3c013f40 // 00000000 hor fov
+patch=1,EE,00247650,word,4481f000 // 00000000
+patch=1,EE,00247654,word,461ea782 // 00000000
+patch=1,EE,00247664,word,e61e0000 // e6140000
+patch=1,EE,002caa88,word,3c013f40 // 00000000 renderfix
+patch=1,EE,002caa8c,word,4481f000 // 00000000
+patch=1,EE,002caaac,word,461e0542 // 46000546
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,003DDF18,word,14600003

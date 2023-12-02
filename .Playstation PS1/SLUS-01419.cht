@@ -1,0 +1,8 @@
+# Tony Hawk's Pro Skater 3 (USA) SLUS-01419
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 280
+A703D740 00010000

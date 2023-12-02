@@ -1,0 +1,12 @@
+gametitle=Champions of Norrath (PAL-M) SLES-52325 75D86958
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0017F320,word,3C013F19 //3C013F4C
+patch=1,EE,0018A074,word,3C013F19 //3C013F4C
+patch=1,EE,001911BC,word,3C013FE3 //3C013FAA render fix menu
+patch=1,EE,001914FC,word,3C013FE3 //3C013FAA render fix
+patch=1,EE,001911F0,word,3C013FE3 //3C013FAA
+patch=1,EE,001919B8,word,3C013FE3 //3C013FAA

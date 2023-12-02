@@ -1,0 +1,12 @@
+# Overboard! (Europe) SLES-00865
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+OverrideCPUOverclock = 240
+A7075008 00010000
+A7086AAA 01000200
+A7086AAE 00140070
+A7086B3A 01000200
+A7086B3E 00140070

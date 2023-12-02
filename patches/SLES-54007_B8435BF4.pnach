@@ -1,0 +1,17 @@
+gametitle=Disney-Pixar's Cars (PAL-S) SLES-54007 B8435BF4
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,001B1F44,extended,24040001
+patch=1,EE,E0010000,extended,008B86A4
+patch=1,EE,001B1F44,extended,24040002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start. fmv not sync, gameplay ok
+patch=1,EE,00458B0C,word,3C050000
+patch=1,EE,00458B14,word,3C060050
+patch=1,EE,00458B1C,word,3C070001
+patch=1,EE,002DB644,word,3C090010

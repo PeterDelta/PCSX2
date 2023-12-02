@@ -1,0 +1,28 @@
+gametitle=Largo Winch - Empire Under Threat (PAL-M) SLES-51093 1373EB26
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0028029C,word,3C013F2F //3C013F80 Zoom
+patch=1,EE,001ABC40,word,08030000 //Y-Fov
+patch=1,EE,000C0000,word,46070A02
+patch=1,EE,000C0004,word,3C013FA6
+patch=1,EE,000C0008,word,4481F000
+patch=1,EE,000C000C,word,461E4202
+patch=1,EE,000C0010,word,0806AF11
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=0,EE,001017AC,word,24040000
+
+//[NTSC Mode]
+//author=PeterDelta
+//description=Modo NTSC al iniciar.
+//patch=0,EE,0016C834,word,24060002 //ntsc al principio escenas y fmv falta speed, no sync
+//patch=0,EE,001462C4,word,240B01C0
+//patch=0,EE,0014613C,word,240601C0
+//patch=0,EE,0016D7DC,word,240601C0 //scenes
+//patch=0,EE,00157414,word,24060002 //ntsc gameplay falta speed
+//patch=0,EE,00123E44,word,240201C0

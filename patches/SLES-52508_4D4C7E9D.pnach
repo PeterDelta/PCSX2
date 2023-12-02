@@ -1,0 +1,8 @@
+gametitle=ObsCure (PAL-M) SLES-52508 4D4C7E9D
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start. FMV no audio, no sync
+patch=1,EE,0010B1D0,word,24120002
+patch=1,EE,003C9598,word,240201C0
+patch=1,EE,004C506C,word,000001C0

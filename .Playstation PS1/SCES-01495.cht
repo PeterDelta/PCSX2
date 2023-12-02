@@ -1,0 +1,11 @@
+# MediEvil (Spain) SCES-01495
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+A70ECBE8 00010000
+A70F1F26 01000200
+A70F1F2A 00100070
+A70F1F3A 01000200
+A70F1F3E 00100070

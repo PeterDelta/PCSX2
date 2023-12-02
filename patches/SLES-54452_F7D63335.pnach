@@ -1,0 +1,6 @@
+gametitle=Disney Chicken Little - As en Acción (PAL-S) SLES-54452 F7D63335
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00569A78,word,00000001 //00000002

@@ -1,0 +1,11 @@
+gametitle=Silent Hill - Origins (PAL-M) SLES-55147 DC180A6B
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,006B3974,extended,04000001 //04000002
+
+[Disable Noise Effect]
+author=PeterDelta
+description=Disable noise filter in gameplay
+patch=1,EE,001E44AC,word,00000000

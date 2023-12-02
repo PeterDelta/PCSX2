@@ -1,0 +1,6 @@
+gametitle=Simpsons Game, The (PAL-S-I) SLES-54906 565B7E04
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0021591C,word,14800011

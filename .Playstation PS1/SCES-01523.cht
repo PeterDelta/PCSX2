@@ -1,0 +1,11 @@
+# Disney-Pixar Bichos Una Aventura en Miniatura (Spain) SCES-01523
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+A7081148 00010000
+A71CED8E 01000200
+A71CED92 00170070
+A71E3D4A 01000200
+A71E3D4E 00170070

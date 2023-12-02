@@ -1,0 +1,9 @@
+gametitle=Transformers (PAL-M) SLES-52388 E845F252
+
+[50/60 FPS]
+author=PeterDelta
+description=Desbloquea FPS internos.
+patch=1,EE,0025DF90,extended,00000001
+patch=1,EE,E0020002,extended,008FE524
+patch=1,EE,0025DF90,extended,00000000
+patch=1,EE,20C632B0,extended,3F000000

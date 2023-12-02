@@ -1,0 +1,9 @@
+gametitle=Final Fantasy X-2 (PAL-S) SLES-51819 9AAC530A
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00101888,word,24040001 //24040002
+patch=1,EE,0049F18C,word,3CCCCCCD //3D4CCCCD speed move
+patch=1,EE,004B7F88,word,3F800000 //40000000 speed text
+//patch=1,EE,00355FB4,word,00000002 //00000001 speed global

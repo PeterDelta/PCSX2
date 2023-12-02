@@ -1,0 +1,14 @@
+gametitle=Rune - Viking Warlord (PAL-E) SLES-50335 52638022 GAME.ELF
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,001307AC,extended,28420001 //28420002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,00367134,word,24110000
+patch=1,EE,00367138,word,24120050
+patch=1,EE,00367140,word,24130001

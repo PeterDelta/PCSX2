@@ -1,0 +1,6 @@
+gametitle=Delta Force - Black Hawk Down - Team Sabre (PAL-M) SLES-54115 A8DB29DF
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,001D3B28,word,1460000A

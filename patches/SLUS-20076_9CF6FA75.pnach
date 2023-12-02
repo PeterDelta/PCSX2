@@ -1,0 +1,6 @@
+gametitle=Disney's Tarzan - Untamed (NTSC-U) SLUS-20076 9CF6FA75
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,006AD8B8,word,00000000 //00000001

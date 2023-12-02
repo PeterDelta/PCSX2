@@ -1,0 +1,8 @@
+gametitle=Area 51 (PAL-M) SLES-53075 C4ACBCF0
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,00382DB8,extended,28620001
+patch=1,EE,E0010001,extended,005BF0C4
+patch=1,EE,00382DB8,extended,28620002

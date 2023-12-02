@@ -1,0 +1,24 @@
+gametitle=Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa, nemesis2000, PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,002DA664,word,3C013FAB //3C013F80 X-FOV
+patch=1,EE,002DA688,word,3C013FAB //3C013F80 Render Fix
+patch=1,EE,002DAF90,word,00000000 //46000346 turbo fix
+patch=1,EE,002DAF94,word,00000000 //4600A306
+patch=1,EE,002DAF98,word,00000000 //0040F809
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,007B3ADC,word,00000001 //00000002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0049529C,word,24110000
+patch=1,EE,004952A0,word,24120050
+patch=1,EE,004952AC,word,24130001

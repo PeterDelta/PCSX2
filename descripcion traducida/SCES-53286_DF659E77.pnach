@@ -1,0 +1,17 @@
+gametitle=Jak X - Combat Racing (PAL-M) SCES-53286 DF659E77
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,2099B728,extended,002E52E9
+patch=1,EE,0048A3A8,extended,3C033F00
+patch=1,EE,E0010006,extended,002DA6A0 //menu fix
+patch=1,EE,0048A3A8,extended,3C033F16
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,E0010001,extended,001F7C30
+patch=1,EE,0099B72C,extended,002E1705
+patch=1,EE,2099B724,extended,002E2BDD

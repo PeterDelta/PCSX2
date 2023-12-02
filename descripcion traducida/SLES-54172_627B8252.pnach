@@ -1,0 +1,14 @@
+gametitle=Garfield 2 - Tale of Two Kitties (PAL-M) SLES-54172 627B8252
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,002b124c,word,3c023eca //3c023f00 Zoom fix
+patch=1,EE,002b1274,word,3c023f80 //3c023faa X-fov + Zoom
+patch=1,EE,002b1278,word,34420000 //3442aaab
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0021A594,word,14400006 //10400006

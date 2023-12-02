@@ -1,0 +1,24 @@
+gametitle=Spider-Man 3 (PAL-M) SLES-54724 C529B0AD
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,003488C8,word,3C023F1A //3C023F00
+patch=1,EE,0032A974,word,3C023F1A //3C023F00
+patch=1,EE,00C8A278,word,C4342333 //C4412333 black screen transition fix
+patch=1,EE,01A1AFDC,word,3FBFFFDD //3FB19FDD
+patch=1,EE,01A4570C,word,3FBFFFDD //3FB19FDD
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas
+patch=1,EE,01A1AE6C,extended,00000000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,00404B1C,word,3C050000
+patch=1,EE,00404B24,word,3C060050
+patch=1,EE,00404B2C,word,3C070001

@@ -1,0 +1,29 @@
+gametitle=Grand Theft Auto - Vice City (NTSC-U) (v3.00) SLUS-20552 248E6126
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,004BA7BC,extended,00000001
+patch=1,EE,002486BC,extended,3C0242AC
+patch=1,EE,00257E34,extended,3C0242AC
+patch=1,EE,00259F64,extended,3C0242AC
+patch=1,EE,0025A600,extended,3C0242AC
+patch=1,EE,003345D0,extended,3C044040
+patch=1,EE,00334624,extended,3C0240D0
+patch=1,EE,003AE8C4,extended,3C013F80 //scenes zoon
+patch=1,EE,E0010001,extended,004BB3B0
+patch=1,EE,003AE8C4,extended,3C013F40
+patch=1,EE,20246ADC,extended,3C023FC0
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas
+patch=1,EE,0024AE5C,word,3C02F060
+patch=1,EE,0024AECC,word,3C02F060
+patch=1,EE,00278980,word,3C025380
+
+[60 FPS]
+author=Snake356
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,20277B8C,extended,28420001

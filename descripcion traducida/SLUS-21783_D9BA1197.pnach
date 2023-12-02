@@ -1,0 +1,8 @@
+gametitle=Space Chimps (NTSC-U) SLUS-21783 D9BA1197
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00600108,word,00000000 //00000031
+patch=1,EE,00600110,word,000001BF //0000015E

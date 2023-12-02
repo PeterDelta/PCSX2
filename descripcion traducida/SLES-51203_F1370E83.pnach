@@ -1,0 +1,23 @@
+gametitle=Enter the Matrix (PAL-M5) SLES-51203 F1370E83
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,001CFA78,word,A2740BCC //AE600BCC (Increases hor. axis)
+
+[50 FPS]
+author=PeterDelta
+description=Evite saltar escenas entre el juego
+patch=1,EE,201D3518,extended,3C013FA6
+patch=1,EE,201D1A44,extended,3C014270
+patch=1,EE,201B56D4,extended,3C0140C0
+patch=1,EE,E0030000,extended,004A0CD4
+patch=1,EE,201D3518,extended,3C013F26
+patch=1,EE,201D1A44,extended,3C0141F0
+patch=1,EE,201B56D4,extended,3C01400C
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar. FMV se saltan
+patch=1,EE,0051F484,word,00000000

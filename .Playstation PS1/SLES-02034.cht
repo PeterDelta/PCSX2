@@ -1,0 +1,10 @@
+# Star Wars - Episode I - The Phantom Menace (Europe) SLES-02034
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A7077940 00020001
+D0077778 0004
+80077940 0002

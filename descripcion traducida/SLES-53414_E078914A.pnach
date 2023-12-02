@@ -1,0 +1,28 @@
+gametitle=Echo Night - Beyond (PAL-E) SLES-53414 E078914A (spanish 1.0.1)
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas and Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,202b4001,byte,01 //Force turn on Internal Widescreen
+patch=1,EE,00146EA4,word,3C023F1F //3C023F00 Zoom Fix
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%). Select 60 Hz
+patch=1,EE,E001001E,extended,0028A348
+patch=1,EE,0028A348,extended,0000003C
+//patch=1,EE,00143178,word,10000011 //10200011 another fps unlocker
+
+[Disable Flicker Filter]
+author=PeterDelta
+description=Deshabilita el filtro de parpadeo borroso.
+patch=1,EE,00287608,word,00000000
+patch=1,EE,00287610,word,00000000
+patch=1,EE,00287618,word,00000000
+patch=1,EE,00287620,word,00000000
+
+[Performance Fix]
+author=PeterDelta
+description=Elimina las sombras de la linterna mejorando el rendimiento.
+patch=1,EE,001471C4,word,3C020000 //3C023F80

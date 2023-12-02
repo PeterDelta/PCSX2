@@ -1,0 +1,15 @@
+gametitle=Conspiracy - Weapons of Mass Destruction (PAL-M) SLES-53098 D11B52FD
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,003AD8CC,word,00000001
+patch=1,EE,002360D0,word,3C043F40
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,00240E78,word,24060002 //falta corregir parte del fondo del menu, gameplay ok
+patch=1,EE,00240F2C,word,240401C0
+patch=1,EE,00240F4C,word,240401C0

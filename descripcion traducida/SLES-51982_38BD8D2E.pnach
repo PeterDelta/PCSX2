@@ -1,0 +1,7 @@
+gametitle=ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,E0010001,extended,0013B5E8
+patch=1,EE,202994C8,extended,2C420001 //2C420002

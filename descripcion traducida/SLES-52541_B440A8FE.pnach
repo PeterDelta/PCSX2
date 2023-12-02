@@ -1,0 +1,96 @@
+gametitle=Grand Theft Auto - San Andreas (PAL-M5) (v2.01) SLES-52541 B440A8FE
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,007005EF,extended,01
+patch=1,EE,0020C7BC,extended,3C0242A2
+patch=1,EE,0020A4F8,extended,3C0242AC
+patch=1,EE,002081DC,extended,3C0342AC
+patch=1,EE,002ECBE0,extended,3C044040
+patch=1,EE,002ECC30,extended,3C0440D0
+//patch=1,EE,0033DC44,extended,3C013F80 //scenes zoom cause problems
+//patch=1,EE,E0020001,extended,0066C8FC
+//patch=1,EE,0033DC44,extended,3C013F40
+//patch=1,EE,2021EE14,extended,3C023FC0
+//patch=1,EE,2021EE14,extended,3C024000
+patch=1,EE,0026E18C,word,3C084280
+patch=1,EE,00269678,word,3C024280
+patch=1,EE,0026E7A8,word,3C024280
+patch=1,EE,0026EE50,word,3C024280
+patch=1,EE,0026AFA4,word,3C034280
+patch=1,EE,0026EF80,word,3C034280
+patch=1,EE,0026F068,word,3C034280
+patch=1,EE,002ACAF8,word,3C024258
+patch=1,EE,002ACB64,word,3C024270
+patch=1,EE,002ACE98,word,3C0342C6
+patch=1,EE,002ACF30,word,3C0342C6
+patch=1,EE,002ACE4C,word,3C0341E3
+patch=1,EE,002ACEE4,word,3C0341E3
+patch=1,EE,0026E19C,word,3C064280
+patch=1,EE,0026EF8C,word,3C044280
+patch=1,EE,0026F084,word,3C044280
+patch=1,EE,0026E7C4,word,3C024280
+patch=1,EE,0026EE60,word,3C024280
+patch=1,EE,0026AFBC,word,3C034280
+patch=1,EE,002ACB00,word,3C034280
+patch=1,EE,002ACE60,word,3C034280
+patch=1,EE,002ACEAC,word,3C034280
+patch=1,EE,002ACEF8,word,3C034280
+patch=1,EE,002ACF44,word,3C034280
+patch=1,EE,002ACCB4,word,3C0341D4
+patch=1,EE,002ACE00,word,3C034190
+patch=1,EE,002ACE10,word,3C0241E5
+patch=1,EE,0026D290,word,3C023F40
+patch=1,EE,002AA0F4,word,3C024210
+patch=1,EE,002AA034,word,3C024190
+patch=1,EE,002ABC40,word,2405020D
+patch=1,EE,002ABC7C,word,2405020D
+patch=1,EE,00663FC8,word,3E800000
+patch=1,EE,002ABC90,word,2405021F
+patch=1,EE,002ABCCC,word,2405021F
+patch=1,EE,002A9D84,word,3C0242A8
+patch=1,EE,002A9B04,word,2404002F
+patch=1,EE,002A9C04,word,2404002F
+patch=1,EE,002AB71C,word,24050231
+patch=1,EE,002AB760,word,24050231
+patch=1,EE,002AB8B0,word,24050231
+patch=1,EE,002AB8F8,word,24050231
+patch=1,EE,002AD49C,word,C78C8384
+patch=1,EE,002ADA2C,word,3C023F40
+patch=1,EE,002A8A00,word,3C013F40
+patch=1,EE,002A8A04,word,44810000
+patch=1,EE,002A8A08,word,46006302
+patch=1,EE,002A8A0C,word,3C01007C
+patch=1,EE,002A8A10,word,E42C2FA4
+patch=1,EE,002A8A14,word,3C01007C
+patch=1,EE,002A8A18,word,03E00008
+patch=1,EE,002A8A1C,word,E42D2FA8
+
+[Remove ghosting effects]
+author=PeterDelta
+description=Elimina el efecto fantasma manteniendo la radiosidad.
+patch=1,EE,00668D5C,extended,00
+patch=1,EE,00668DE4,extended,00
+patch=1,EE,00668E28,extended,00
+patch=1,EE,00668E2C,extended,00
+patch=1,EE,00668E30,extended,00
+patch=1,EE,00668E34,extended,00
+
+[Remove Color Filter]
+author=Silent
+description=Elimina el filtro de color, haciendo que el juego se parezca más a la versión para PC, sin el tinte amarillo.
+patch=1,EE,20515D58,extended,00000000 // NOP CPostEffects::ColourFilter
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=0,EE,0039B7BC,extended,24040001 //native
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,00358B1C,extended,24020050
+patch=1,EE,0054A06C,extended,00000000

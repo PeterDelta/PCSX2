@@ -1,0 +1,9 @@
+gametitle=Futurama (PAL-M5) SLES-51507 EB25115F
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,003EA94C,word,24110000
+patch=1,EE,003EA950,word,24120050
+patch=1,EE,003EA95C,word,24130001

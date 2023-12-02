@@ -1,0 +1,8 @@
+# Tony Hawk's Skateboarding (Europe) SLES-02055
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 230
+A7026C60 00010000

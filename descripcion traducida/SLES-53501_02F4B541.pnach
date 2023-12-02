@@ -1,0 +1,11 @@
+gametitle=Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541
+//Main CRC to activate CRC B68D35CA called SWBFRNT2.ELF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=nemesis2000 and Arapapa
+description=Renderiza el juego en proporción de 16:9
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).

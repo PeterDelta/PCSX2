@@ -1,0 +1,17 @@
+# Croc - Legend of the Gobbos (Europe) SLES-00593
+[50/60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS. Sometimes it doesn't respond well to the jump
+OverrideCPUOverclock = 200
+A70145EA 14511051
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7073D48 00010000
+A7085072 00180000
+A7085086 00180000

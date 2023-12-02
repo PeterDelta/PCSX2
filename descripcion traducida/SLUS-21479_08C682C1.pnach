@@ -1,0 +1,16 @@
+gametitle=Reservoir Dogs (NTSC-U) SLUS-21479 08C682C1
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,004F1BEC,word,00000001
+patch=1,EE,00397770,word,3C013F25
+patch=1,EE,00377030,word,3C013F25
+patch=1,EE,01DE42C0,word,0000003C
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,003A96F0,word,14800021 //10800021
+patch=1,EE,00310FAC,word,3C013EAB //3C013F80

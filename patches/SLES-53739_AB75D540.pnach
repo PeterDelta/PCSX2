@@ -1,0 +1,6 @@
+gametitle=Disney's Chicken Little (PAL-M) SLES-53739 AB75D540
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,005294A8,word,00000001 //00000002

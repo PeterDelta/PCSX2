@@ -1,0 +1,6 @@
+gametitle=Simpsons Game, The (NTSC-U) SLUS-21665 BBE4D862
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,002158A4,word,14800011

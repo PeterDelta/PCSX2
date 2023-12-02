@@ -1,0 +1,15 @@
+# Die Hard Trilogy (Europe) SLES-00445
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode in Die Hard. Select All borders (Aspect Uncorrected)
+A70900C0 00010000
+A70AB91A 01000200
+A70B9542 01000200
+A70AB91E 00120070
+A70B9546 00120070
+D00AB91E 003A
+800AB91A 0100
+D00AB91E 003A
+800B9542 0100

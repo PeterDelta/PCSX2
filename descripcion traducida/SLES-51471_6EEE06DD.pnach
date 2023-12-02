@@ -1,0 +1,17 @@
+gametitle=Freedom Fighters (PAL-S) SLES-51471 6EEE06DD FF.ELF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,0056967C,extended,01
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0056B808,word,00000000
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,0033128C,word,14A2005C

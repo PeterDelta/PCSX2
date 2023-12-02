@@ -1,0 +1,6 @@
+gametitle=Delta Force - Black Hawk Down - Team Sabre (NTSC-U) SLUS-21414 3115A446
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,001D3BA8,word,1460000A

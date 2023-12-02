@@ -1,0 +1,11 @@
+gametitle=Le Mans 24 Hours (PAL-M) SLES-50131 FEA030CB
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00159E88,extended,24620001
+patch=1,EE,E0020019,extended,0041100C //50hz
+patch=1,EE,E0010003,extended,004115D4
+patch=1,EE,205AFB6C,extended,42480000
+patch=1,EE,E0010002,extended,004115D4 //60hz
+patch=1,EE,205AFB6C,extended,42700000 //Only with this it changes to ntsc, but it does not allow pal

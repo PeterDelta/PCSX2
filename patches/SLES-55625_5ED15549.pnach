@@ -1,0 +1,10 @@
+gametitle=DreamWorks Despicable Me - The Game (PAL-M) SLES-55625 5ED15549
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode on startup at 60 FPS.
+patch=1,EE,0023556C,extended,00000000
+patch=1,EE,00237504,extended,00000000
+patch=1,EE,E0010001,extended,005FC0B4
+patch=1,EE,00237504,extended,00000001
+patch=1,EE,0012FBE4,extended,2402003C

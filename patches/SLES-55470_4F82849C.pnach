@@ -1,0 +1,14 @@
+gametitle=Coraline (PAL-M) SLES-55470 4F82849C
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,001002EC,word,00000000 //46000834
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,003F2B34,word,24110000
+patch=1,EE,003F2B38,word,24120050
+patch=1,EE,003F2B44,word,24130001

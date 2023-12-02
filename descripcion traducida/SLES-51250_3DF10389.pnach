@@ -1,0 +1,13 @@
+gametitle=Shox - Rally Reinvented (PAL-E) SLES-51250 3DF10389
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,0035B978,extended,16280001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,002277C0,word,1440000C
+patch=1,EE,00356E54,word,00000000

@@ -1,0 +1,8 @@
+# Disney-Pixar Toy Story Racer (Europe) SLES-03398
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70A8080 00010000
+A708AE0C 00100000

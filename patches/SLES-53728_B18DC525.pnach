@@ -1,0 +1,6 @@
+gametitle=Harry Potter and the Goblet of Fire (PAL-M) SLES-53728 B18DC525
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,004DC4DC,word,00000000

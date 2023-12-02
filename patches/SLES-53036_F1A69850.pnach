@@ -1,0 +1,6 @@
+gametitle=Tak 2 - The Staff of Dreams (PAL-M) SLES-53036 F1A69850
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0055D0E8,word,00000001 //00000002

@@ -1,0 +1,14 @@
+gametitle=Just Cause (PAL-M) SLES-54137 5CC61637
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,003B860C,word,44800000 //45000010
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,004C4C34,word,24110000
+patch=1,EE,004C4C38,word,24120050
+patch=1,EE,004C4C44,word,24130001

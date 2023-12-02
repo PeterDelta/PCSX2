@@ -1,0 +1,16 @@
+gametitle=Largo Winch - Empire Under Threat (PAL-M) SLES-51093 1373EB26
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=0,EE,001017AC,word,24040000
+
+//[NTSC Mode]
+//author=PeterDelta
+//description=NTSC mode at start. Missing speeds
+//patch=0,EE,0016C834,word,24060002
+//patch=0,EE,001462C4,word,240B01C0
+//patch=0,EE,0014613C,word,240601C0
+//patch=0,EE,0016D7DC,word,240601C0
+//patch=0,EE,00157414,word,24060002
+//patch=0,EE,00123E44,word,240201C0

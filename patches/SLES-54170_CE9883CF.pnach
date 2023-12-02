@@ -1,0 +1,13 @@
+gametitle=Jaws Unleashed (Tiburón) (PAL-M) SLES-54170 CE9883CF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Widescreen fix
+patch=1,EE,004FF810,extended,00000001
+patch=1,EE,005DC94B,extended,00000001
+patch=1,EE,0015A738,extended,3C013F22
+patch=1,EE,0013C564,extended,3C013F22
+patch=1,EE,0013C718,extended,3C013F22
+patch=1,EE,0015A6C4,extended,30420004
+patch=1,EE,0015A7B4,extended,3C020040

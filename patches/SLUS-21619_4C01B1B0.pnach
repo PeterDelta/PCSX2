@@ -1,0 +1,11 @@
+gametitle=Harry Potter and the Order of the Phoenix (NTSC-U) SLUS-21619 4C01B1B0
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00655B84,word,00000001
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,00320B30,word,00000000

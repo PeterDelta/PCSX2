@@ -1,0 +1,6 @@
+gametitle=X-Men 2 - Wolverine's Revenge (PAL-M3) SLES-51548 FBF2383B
+
+[Remove Blur]
+author=PeterDelta
+description=Removes the post-processing blur effect
+patch=1,EE,001699CC,word,00000000

@@ -1,0 +1,22 @@
+gametitle=Ben 10 - Alien Force - Vilgax Attacks (PAL-M) SLES-55592 35C84D80
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,2073DD54,extended,3FE38E38 //3FAAAAAB (Increases hor. axis)
+
+[50/60 FPS]
+author=asasega & PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,201002F4,extended,10000011
+patch=1,EE,E0010001,extended,004D114C
+patch=1,EE,201002F4,extended,45000011
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,00434FD4,word,3C050000
+patch=1,EE,00434FDC,word,3C060050
+patch=1,EE,00434FE4,word,3C070001

@@ -1,0 +1,13 @@
+gametitle=Mace Griffin - Bounty Hunter (PAL-M4) SLES-51653 CBC401C5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Some Chump
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0055C308,word,439991EC //43CCC290
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=0,EE,0010091C,word,24060050

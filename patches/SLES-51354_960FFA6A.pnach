@@ -1,0 +1,6 @@
+gametitle=Jurassic Park - Operation Genesis (PAL-M) SLES-51354 960FFA6A
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00564EE4,word,00000001 //00000002

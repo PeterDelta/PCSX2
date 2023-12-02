@@ -1,0 +1,12 @@
+gametitle=Need for Speed - Undercover (NTSC-U) SLUS-21801 7029F4DB
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Widescreen fix
+patch=1,EE,006533B0,word,3F400000
+
+[Remove Blur]
+author=PeterDelta
+description=Removes the blur effect
+patch=1,EE,0065CA7C,word,00000000

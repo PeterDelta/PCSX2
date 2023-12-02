@@ -1,0 +1,21 @@
+gametitle=Echo Night - Beyond (PAL-E) SLES-53414 E078914A (spanish 1.0.1)
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%). Select 60 Hz
+patch=1,EE,E001001E,extended,0028A348
+patch=1,EE,0028A348,extended,0000003C
+//patch=1,EE,00143178,word,10000011 //10200011 another fps unlocker
+
+[Disable Flicker Filter]
+author=PeterDelta
+description=Disable blurry flicker filter.
+patch=1,EE,00287608,word,00000000
+patch=1,EE,00287610,word,00000000
+patch=1,EE,00287618,word,00000000
+patch=1,EE,00287620,word,00000000
+
+[Performance Fix]
+author=PeterDelta
+description=Removes flashlight shadows improving performance.
+patch=1,EE,001471C4,word,3C020000 //3C023F80

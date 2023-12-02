@@ -1,0 +1,6 @@
+gametitle=Whirl Tour (PAL-M) SLES-51126 FB45FA8E
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,0027B36C,word,42480000

@@ -1,0 +1,7 @@
+gametitle=50 Cent - Bulletproof (PAL-E) SLES-53734 E3F32982
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,001B3CE8,word,3C014270 //3C0141F0
+patch=1,EE,00427FA4,word,3F000000 //3F800000

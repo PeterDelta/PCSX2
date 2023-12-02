@@ -1,0 +1,7 @@
+gametitle=X-Men Legends II - Rise of Apocalypse (PAL-M) SLES-53377 912C8E55
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,0028C6C4,extended,24060050

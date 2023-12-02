@@ -1,0 +1,20 @@
+gametitle=Need for Speed - Most Wanted (NTSC-U) SLUS-21267 270F8C03
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,00AAFDD4,word,00000001
+patch=1,EE,0054BA38,word,3F400000
+
+[Remove Brown Filter]
+author=fobes
+description=Desactiva el filtro de color amarillo parduzco
+patch=1,EE,00550D58,extended,20000001
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto de desenfoque
+patch=0,EE,0055014C,word,00000000
+patch=0,EE,001FEDB8,word,24020000
+patch=0,EE,001FEDBC,word,10620004

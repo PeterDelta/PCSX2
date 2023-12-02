@@ -1,0 +1,6 @@
+gametitle=Great Escape, The (PAL-M) SLES-51315 647D9161
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,002AEBF8,word,2C420001 //2C420002

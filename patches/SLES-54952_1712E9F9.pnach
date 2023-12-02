@@ -1,0 +1,15 @@
+gametitle=Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00268658,word,00000001 //00000002
+patch=1,EE,001637AC,word,3C013F30
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,001BEED4,word,24110000
+patch=1,EE,001BEED8,word,24120050
+patch=1,EE,001BEEE4,word,24130001

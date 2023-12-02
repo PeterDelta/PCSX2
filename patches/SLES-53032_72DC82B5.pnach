@@ -1,0 +1,16 @@
+gametitle=Hitman - Blood Money (PAL-S) SLES-53032 72DC82B5
+
+[50/60 FPS]
+author=PeterDelta & Gabominated
+description=Might need EE Overclock (180%).
+patch=1,EE,0061C020,word,00000001
+patch=1,EE,E0010000,extended,01FECCF4
+patch=1,EE,0061C020,extended,00000002
+
+[480p Mode]
+author=PeterDelta
+description=Any Hz selection will output in 480p.
+patch=1,EE,0049AF94,word,00000003
+
+[Remove the red colors glitch in hardware mode]
+patch=1,EE,002ABF28,word,01E0F807 //01E0F809

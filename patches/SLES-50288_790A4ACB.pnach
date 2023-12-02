@@ -1,0 +1,6 @@
+gametitle=Stuntman (PAL-M) SLES-50288 790A4ACB
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,005C21B4,word,00000001 //00000002

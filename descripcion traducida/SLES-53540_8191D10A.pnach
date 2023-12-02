@@ -1,0 +1,19 @@
+gametitle=Fahrenheit (PAL-M) SLES-53540 8191D10A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=sergx12
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,20836500,extended,3FE38E39 //3FAAAAAB
+
+[50/60 FPS]
+author=Gabominated
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00209688,word,10400004 //14400004
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Elimina el efecto blur/bloom del posprocesamiento
+patch=1,EE,0020DC50,word,00000000
+patch=1,EE,001A9144,word,00000000
+patch=1,EE,001A57D0,word,3C010000

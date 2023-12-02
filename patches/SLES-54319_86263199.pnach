@@ -1,0 +1,17 @@
+gametitle=Biker Mice from Mars (PAL-M) SLES-54319 86263199
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=0,EE,00331678,word,14000002
+patch=0,EE,0032122C,word,240701C0 //24070200 corrige imagen pero tiembla un poco
+//patch=0,EE,0032121C,word,24050001 //otro ntsc
+//patch=1,EE,0044BED8,word,000001C0 //no tiembla pero falta corregir fmv
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start. Might need EE Overclock (130%).
+patch=1,EE,0010DB9C,word,24110000
+patch=1,EE,0010DBA0,word,24120050
+patch=1,EE,0010DBAC,word,24130001

@@ -1,0 +1,7 @@
+gametitle=Rune - Viking Warlord (NTSC-U) SLUS-20109 3A09007C 
+//Main CRC to activate CRC 1259612B called GAME.ELF
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,001305A4,extended,28420001 //28420002

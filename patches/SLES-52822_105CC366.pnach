@@ -1,0 +1,11 @@
+gametitle=Prince of Persia - Warrior Within (PAL-M6) SLES-52822 105CC366
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,007B7554,word,00000001 //00000002
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Removes the post-processing blur/bloom effect
+patch=0,EE,005372EC,word,00000000

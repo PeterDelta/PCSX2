@@ -1,0 +1,19 @@
+gametitle=Max Payne (PAL-M4) SLES-50326 52E0597D
+//Main CRC to activate CRC C669B63C called MAIN_P.RUN
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas & PeterDelta
+description=Renders the game in 16:9 aspect ratio
+
+[Remove Blackbars]
+author=PeterDelta
+description=Removes black bars in cutscenes
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start. Might need EE Overclock (300%).

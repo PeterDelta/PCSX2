@@ -1,0 +1,19 @@
+gametitle=Knight Rider - The Game (PAL-M) SLES-51011 989192FE
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ThirteenAG
+description=Widescreen Fix
+patch=1,EE,003E3600,short,3FE3
+patch=1,EE,003E3604,short,8E39
+patch=1,EE,003EB864,short,3FE3
+patch=1,EE,003EB868,short,8E39
+patch=1,EE,00444108,word,3FE38E39
+patch=1,EE,003EB910,short,3C2C
+patch=1,EE,003EB914,short,52D4
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,E0010011,extended,0079B31C
+patch=1,EE,00367BD4,extended,24020001 //24020002

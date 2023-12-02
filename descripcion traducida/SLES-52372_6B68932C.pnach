@@ -1,0 +1,63 @@
+gametitle=Spider-Man 2 (PAL-M) SLES-52372 6B68932C
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=flameofrecca and CRASHARKI
+description=Renderiza el juego en proporción de 16:9
+//Original NTSC-U pnach by flameofrecca; new zoom value, gauge_hero, some map and the unused boss hud codes found by CRASHARKI
+patch=1,EE,2067ac70,word,3f947ae1  //vertical fov 3f5eb852
+patch=1,EE,2067ac68,word,3c28a2f7  //zoom value 3c0efa35
+patch=1,EE,206db628,word,41580000  // level_500_trick 41900000 - Map Screen HUD, text fixes
+patch=1,EE,206db634,word,41580000  // level_500_trick 41900000
+patch=1,EE,206db768,word,41580000  // level_500_hint 41900000
+patch=1,EE,206db774,word,41580000  // level_500_hint 41900000
+patch=1,EE,206dc328,word,41680000  // level_500_trick_ring_a 41a00000
+patch=1,EE,206dc334,word,41680000  // level_500_trick_ring_a 41a00000
+patch=1,EE,206dc478,word,41680000  // level_500_hint_ring_a 41a00000
+patch=1,EE,206dc484,word,41680000  // level_500_hint_ring_a 41a00000
+patch=1,EE,206dc5c8,word,41880000  // level_500_trick_ring_b 41c00000
+patch=1,EE,206dc5d4,word,41880000  // level_500_trick_ring_b 41c00000
+patch=1,EE,206dc718,word,41880000  // level_500_hint_ring_b 41c00000
+patch=1,EE,206dc724,word,41880000  // level_500_hint_ring_b 41c00000
+patch=1,EE,206df848,word,3f400000  // text_menu_general1 3f800000
+patch=1,EE,206df918,word,3f400000  // text_menu_trick1 3f800000
+patch=1,EE,206df9e8,word,3f400000  // text_menu_missions1 3f800000
+patch=1,EE,206dfab8,word,3f400000  // map_igo_elevation_indicator_text_number 3f800000
+patch=1,EE,206dfbb0,word,3f400000  // text_menu_hint1 3f800000
+patch=1,EE,20720ce0,word,42680000  //gauge_frame 42300000 - Onscreen HUD
+patch=1,EE,20720cf4,word,42680000  //gauge_frame 42300000
+patch=1,EE,20720d08,word,43140000  //gauge_frame 43240000
+patch=1,EE,20720d1c,word,43140000  //gauge_frame 43240000
+patch=1,EE,20720ff4,word,42340000  //gauge_life 42700000
+patch=1,EE,207212b4,word,421c0000  //gauge_charge 42500000
+patch=1,EE,2072177C,word,42340000  //gauge_hero_hitlite 42700000
+patch=1,EE,207223f0,word,42900000  //gauge_icon_spidey 42800000
+patch=1,EE,20722404,word,42900000  //gauge_icon_spidey 42800000
+patch=1,EE,20722418,word,42f40000  //gauge_icon_spidey 42FC0000
+patch=1,EE,2072242c,word,42f40000  //gauge_icon_spidey 43000000
+patch=1,EE,2072a0b0,word,42680000  //gauge_frame_hero 42300000
+patch=1,EE,2072a0c4,word,42680000  //gauge_frame_hero 42300000
+patch=1,EE,2072a0ec,word,43140000  //gauge_frame_hero 43240000
+patch=1,EE,2072a0d8,word,43140000  //gauge_frame_hero 43240000
+patch=1,EE,2072a158,word,42680000  //gauge_frame_hero 42300000
+patch=1,EE,2072a180,word,43140000  //gauge_frame_hero 43240000
+patch=1,EE,2072a194,word,43140000  //gauge_frame_hero 43240000
+patch=1,EE,2072a16c,word,42680000  //gauge_frame_hero 42300000
+patch=1,EE,20723DDC,word,42340000  //gauge_hero_03 42700000
+patch=1,EE,20723FFC,word,42340000  //gauge_hero_02 42700000
+patch=1,EE,2072421C,word,42340000  //gauge_hero_01 42700000
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0060AD20,extended,00000001
+patch=1,EE,E0010002,extended,01907014
+patch=1,EE,0060AD20,extended,00000002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,00578864,word,3C050000
+patch=1,EE,0057886C,word,3C060050
+patch=1,EE,00578874,word,3C070001

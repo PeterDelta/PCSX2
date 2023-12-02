@@ -1,0 +1,6 @@
+gametitle=Tokobot Plus - Mysteries of the Karakuri (PAL-M) SLES-54487 EBD35EC9
+
+[Remove Blackbars]
+author=PeterDelta
+description=Removes black bars in cutscenes
+patch=1,EE,002C823C,extended,00000000

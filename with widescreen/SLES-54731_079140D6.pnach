@@ -1,0 +1,12 @@
+gametitle=King of Clubs (PAL-M) SLES-54731 079140D6
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0037445c,word,3c013f20 //3c013f00
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,00301374,word,1460000C //1060000C

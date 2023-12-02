@@ -1,0 +1,6 @@
+gametitle=Metal Arms - Glitch in the System (NTSC-U) SLUS-20786 E8C504C8
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,004B2C98,word,00000001 //00000002

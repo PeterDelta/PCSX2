@@ -1,0 +1,18 @@
+gametitle=Conflict - Global Storm (PAL-M) SLES-52573 73973370
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,003f028c,word,3c013fe3 //3c013faa X-Fov 4:3 Screen
+patch=1,EE,003f0290,word,34218cc1 //3421a993
+patch=1,EE,003f02b4,word,3c013fe3 //003f02b4 X-Fov fix - Internal Widescreen
+patch=1,EE,003f02b8,word,34218e39 //34213261
+patch=1,EE,003f02c0,word,3c013f80 //3c013f4a Y-Fov fix - Internal Widescreen
+patch=1,EE,003f02c4,word,00000000 //34215ffa
+patch=1,EE,00407fdc,word,3c013f2b //3c013f00 Render fix
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,003E76E8,word,2C420001 //2C420002

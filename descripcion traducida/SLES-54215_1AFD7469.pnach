@@ -1,0 +1,14 @@
+gametitle=Monster House (PAL-M) SLES-54215 1AFD7469
+
+[50/60 FPS]
+author=asasega
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,003D2530,word,00000000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0010E34C,word,24110000
+patch=1,EE,0010E350,word,24120050
+patch=1,EE,0010E35C,word,24130001

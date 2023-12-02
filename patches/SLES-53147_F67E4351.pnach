@@ -1,0 +1,20 @@
+gametitle=4 Fantásticos, Los (PAL-S) SLES-53147 F67E4351
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0031DA70,word,3FB8E369
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,00177A6C,word,24020000 //24020001
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,0026ACEC,word,24110000
+patch=1,EE,0026ACF0,word,24120050
+patch=1,EE,0026ACFC,word,24130001

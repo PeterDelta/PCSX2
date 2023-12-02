@@ -1,0 +1,10 @@
+# Dragon Ball - Final Bout (Spain) SLES-03685
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Renders the game in 16:9 aspect ratio. Background stretched
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A702F988 10001555 #Background
+A703BD80 10000C00 #other A703BDF0

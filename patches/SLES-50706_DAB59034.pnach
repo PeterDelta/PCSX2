@@ -1,0 +1,6 @@
+gametitle=Army Men - RTS (PAL-M) SLES-50706 DAB59034
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003F5974,word,00000000 //00000001

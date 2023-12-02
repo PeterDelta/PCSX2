@@ -1,0 +1,6 @@
+gametitle=Deus Ex (PAL-S) SLES-50808 7070DC2F DEUSEX.ELF
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,0030F8B4,word,28420001 //28420002

@@ -1,0 +1,7 @@
+gametitle=Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,E001D70A,extended,00867780
+patch=1,EE,20867780,extended,3CA3D70A

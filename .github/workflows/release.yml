@@ -1,0 +1,79 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - descripcion traducida/**
+      - patches/**
+      - with widescreen/**
+
+jobs:
+  delete-and-create-release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get previous release
+      id: get_release
+      run: |
+        previous_release=$(gh release list --limit 1 --json tagName -q '.[].tagName')
+        echo "::set-output name=previous_release::$previous_release"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Delete previous release
+      if: steps.get_release.outputs.previous_release != ''
+      run: |
+        gh release delete ${{ steps.get_release.outputs.previous_release }} --yes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Check if previous tag exists
+      id: check_tag
+      run: |
+        if [ ! -z "${{ steps.get_release.outputs.previous_release }}" ] && git rev-parse ${{ steps.get_release.outputs.previous_release }} >/dev/null 2>&1; then
+          echo "tag_exists=true" >> $GITHUB_ENV
+        else
+          echo "tag_exists=false" >> $GITHUB_ENV
+        fi
+
+    - name: Delete previous tag
+      if: env.tag_exists == 'true'
+      run: |
+        git tag -d ${{ steps.get_release.outputs.previous_release }}
+        git push --delete origin ${{ steps.get_release.outputs.previous_release }}
+
+    - name: Set up zip file name
+      run: echo "ZIP_NAME=patches$(date +'%d%m%y').zip" >> $GITHUB_ENV
+
+    - name: Get short SHA
+      id: vars
+      run: echo "::set-output name=short_sha::$(git rev-parse --short HEAD)"
+
+    - name: Create zip file
+      run: zip -r ${{ env.ZIP_NAME }} "descripcion traducida" "patches" "with widescreen"
+
+    - name: Create GitHub release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: latest
+        release_name: latest build
+        draft: false
+        prerelease: false
+
+    - name: Upload release asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ${{ env.ZIP_NAME }}
+        asset_name: ${{ env.ZIP_NAME }}
+        asset_content_type: application/zip

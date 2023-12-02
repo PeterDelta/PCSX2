@@ -1,0 +1,25 @@
+gametitle=Need for Speed - Most Wanted (PAL-M) SLES-53559 CA2A1B04
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,00AAF954,word,00000001
+patch=1,EE,0054BD38,word,3F400000
+
+[Remove Brown Filter]
+author=fobes
+description=Desactiva el filtro de color amarillo parduzco
+patch=1,EE,00551058,extended,20000001
+
+[NTSC Mode]
+author=Felixthecat1970
+description=Modo NTSC al iniciar.
+patch=0,EE,20322DB4,extended,0000102D
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto de desenfoque
+patch=0,EE,00550424,word,00000000
+patch=0,EE,001FEDB8,word,24020000
+patch=0,EE,001FEDBC,word,10620004

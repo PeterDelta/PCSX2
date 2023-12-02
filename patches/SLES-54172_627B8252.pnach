@@ -1,0 +1,6 @@
+gametitle=Garfield 2 - Tale of Two Kitties (PAL-M) SLES-54172 627B8252
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0021A594,word,14400006 //10400006

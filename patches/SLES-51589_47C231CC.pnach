@@ -1,0 +1,7 @@
+gametitle=Resident Evil - Outbreak (PAL-M) SLES-51589 47C231CC
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,002637B4,extended,00000000 //00000001
+patch=1,EE,0032DA0C,extended,01000000 //01000001

@@ -1,0 +1,6 @@
+gametitle=Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541
+//Main CRC to activate CRC B68D35CA called SWBFRNT2.ELF
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).

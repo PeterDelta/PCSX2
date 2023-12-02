@@ -1,0 +1,25 @@
+gametitle=Grand Theft Auto - San Andreas (NTSC-U) (v1.03) SLUS-20946 399A49CA
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,006FF98F,extended,01
+patch=1,EE,0021DFE0,extended,3C0242A2
+patch=1,EE,0020A498,extended,3C0242AC
+patch=1,EE,0020817C,extended,3C0342AC
+patch=1,EE,002EC9C0,extended,3C044040
+patch=1,EE,002ECA10,extended,3C0440D0
+//patch=1,EE,0033D9C4,extended,3C013F80 //scenes zoom cause problems
+//patch=1,EE,E0020001,extended,0066B9F4
+//patch=1,EE,0033D9C4,extended,3C013F40
+//patch=1,EE,2021EDB4,extended,3C023FC0
+//patch=1,EE,2021EDB4,extended,3C024000
+
+[Remove ghosting effects]
+author=PeterDelta
+description=Elimina el efecto fantasma sin afectar la iluminación.
+patch=1,EE,006684DC,extended,00000000
+patch=1,EE,00668568,extended,00000000
+patch=1,EE,E0010100,extended,006FF980
+patch=1,EE,006FF980,extended,00000130

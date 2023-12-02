@@ -1,0 +1,13 @@
+gametitle=Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00510300,byte,01
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at startup.
+patch=1,EE,0055DC28,word,000001C0
+patch=1,EE,004B9C78,word,01848290
+patch=1,EE,004B9F98,word,01848290

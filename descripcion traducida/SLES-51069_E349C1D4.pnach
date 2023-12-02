@@ -1,0 +1,15 @@
+gametitle=RTX - Red Rock (PAL-E) SLES-51069 E349C1D4
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,005F1840,word,3F400000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0018C834,word,24110000
+patch=1,EE,0018C838,word,24120050
+patch=1,EE,0018C844,word,24130001

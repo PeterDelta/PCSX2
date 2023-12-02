@@ -1,0 +1,28 @@
+gametitle=True Crime - New York City (PAL-S) SLES-53618 B2D44C6C TC2.ELF
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%). Unlocked indoors
+patch=1,EE,004A1AE4,extended,24040002
+patch=1,EE,2050549C,extended,3F800000
+patch=1,EE,E0020000,extended,00500338
+patch=1,EE,004A1AE4,extended,24040001
+patch=1,EE,2050549C,extended,3F000000
+//patch=1,EE,E0110001,extended,00500338
+//patch=1,EE,0019409C,extended,3C013F00
+//patch=1,EE,00193980,extended,3C013F00
+//patch=1,EE,001ACCFC,extended,3C013F00
+//patch=1,EE,001AF0E0,extended,3C013F00
+//patch=1,EE,00298B44,extended,3C013F00
+//patch=1,EE,002E550C,extended,3C013F00
+//patch=1,EE,00298F5C,extended,3C013FF0
+//patch=1,EE,0043B160,extended,3C013F00
+//patch=1,EE,00421AFC,extended,3C013F00
+//patch=1,EE,002D54B8,extended,3C013F00
+//patch=1,EE,002E5A8C,extended,3C013F00
+//patch=1,EE,00298EFC,extended,3C013F00
+//patch=1,EE,002DF1F4,extended,3C013F00
+//patch=1,EE,20298FF0,extended,3C013FA0
+//patch=1,EE,202A27B8,extended,3C013FA0
+//patch=1,EE,00170D14,extended,3C013C47
+//patch=1,EE,003C9928,extended,3C013E50

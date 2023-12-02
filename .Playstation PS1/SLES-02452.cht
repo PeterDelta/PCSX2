@@ -1,0 +1,12 @@
+# Tenchu 2 - Birth of the Stealth Assassins (Europe) SLES-02452
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Renders the game in 16:9 aspect ratio
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+E00CCEA0 1000
+A70CCEA0 10000C00
+E00CFF8C 1000
+A70CFF8C 10000C00

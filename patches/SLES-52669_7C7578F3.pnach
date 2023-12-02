@@ -1,0 +1,6 @@
+gametitle=Forgotten Realms - Demon Stone (PAL-M) SLES-52669 7C7578F3
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00322940,word,00000000 //00000001

@@ -1,0 +1,29 @@
+# Mission - Impossible (Europe) SLES-01906
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Renders the game in 16:9 aspect ratio
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A7077CE0 010000C0
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 200
+A708E068 00010000
+A708EB8C 00180000
+A71F79E8 000E0000
+A71F79EA 00180000
+A71F79FC 00000000
+A71F79FE 00180000
+;when values ​​change in intro demo
+A71F79FC 000E0000
+A71F79E8 00080000
+A71F79FC 00080000
+A708EB8C FFE80000
+A71F79EA FFE80000
+A71F79FE FFE80000

@@ -1,0 +1,18 @@
+gametitle=Defender (PAL-M) SLES-50714 8A6875C4
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0010bc34,word,3c013fd5 //3c013fa0
+patch=1,EE,00137940,word,3c013fd5 //3c013fa0
+patch=1,EE,00184ba8,word,3c013fd5 //3c013fa0 Menu
+patch=1,EE,001c9efc,word,3c013fd5 //3c013fa0
+patch=1,EE,001c9fb4,word,3c013fd5 //3c013fa0 Gameplay
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00236C08,extended,24020002
+patch=1,EE,E001001A,extended,0056874C //Avoid menu flickering
+patch=1,EE,00236C08,extended,24020001

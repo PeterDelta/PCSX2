@@ -1,0 +1,11 @@
+# Chase the Express - El Expreso de la Muerte (Spain) (Disc 1) SCES-02816
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70C7BE4 00010000
+A71FDF32 00100000
+A71FDF46 00100000
+A71FDF3E 0000000A
+A71FDF2A 0100010A

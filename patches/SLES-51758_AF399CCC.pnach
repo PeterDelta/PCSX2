@@ -1,0 +1,6 @@
+gametitle=Metal Arms - Glitch in the System (PAL-M) SLES-51758 AF399CCC
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,004BEA90,word,00000001 //00000002

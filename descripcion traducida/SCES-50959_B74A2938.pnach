@@ -1,0 +1,13 @@
+gametitle=Disney's Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00236AE4,word,3C023F1E //3C023F00 Zoom
+patch=1,EE,00236F34,word,3C03BFAC //3C03BF80 Y-FOV
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00628C88,byte,01

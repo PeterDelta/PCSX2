@@ -1,0 +1,6 @@
+gametitle=Tom Clancy's Ghost Recon - Jungle Storm (PAL-M) SLES-51976 FE1720F1
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00159E9C,word,24020000 //24020001

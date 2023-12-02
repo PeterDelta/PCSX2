@@ -1,0 +1,8 @@
+gametitle=Dr. Muto (PAL-M) SLES-50710 BA7CAA90
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00462630,extended,00000001
+patch=1,EE,E0010000,extended,002AC9CC
+patch=1,EE,00462630,extended,00000002

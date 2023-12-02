@@ -1,0 +1,6 @@
+gametitle=Jak and Daxter - The Precursor Legacy (PAL-M) SCES-50361 9C712FF0
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,0079F724,word,001503E4 //0014939C

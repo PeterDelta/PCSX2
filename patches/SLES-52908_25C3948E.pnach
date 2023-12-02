@@ -1,0 +1,6 @@
+gametitle=The Urbz - Sims in the City (PAL-M) SLES-52908 25C3948E
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003AE2F8,word,28820001 //28820002

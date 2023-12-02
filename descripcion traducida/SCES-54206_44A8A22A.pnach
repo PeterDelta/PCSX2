@@ -1,0 +1,17 @@
+gametitle=God of War II (PAL-M) SCES-54206 44A8A22A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ShaolinAssassin
+description=Renderiza el juego en proporción de 16:9
+//Ported from SCUS-97481 by nemesis2000
+patch=1,EE,002348a0,word,46000406
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar. Need to fix fmv
+patch=1,EE,202B5284,extended,24110000
+patch=1,EE,202B5288,extended,24120050
+patch=1,EE,202B5294,extended,24130001
+patch=1,EE,202D7A4C,extended,3F555550

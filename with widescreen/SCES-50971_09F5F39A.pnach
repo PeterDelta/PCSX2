@@ -1,0 +1,47 @@
+gametitle=Kingdom Hearts (PAL-S) SCES-50971 09F5F39A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,00110634,word,3c1b3f40 // 00000000 hor fov gameplay
+patch=1,EE,0011066c,word,449bf800 // 00000000
+patch=1,EE,001106a0,word,461f6e42 // 46006e46
+patch=1,EE,00110670,word,461fe703 // 00000000 renderfix calculation
+patch=1,EE,0026282c,word,3c013f40 // 00000000 matrix hack
+patch=1,EE,00262838,word,44810000 // 00000000
+patch=1,EE,0026283c,word,4600c602 // 00000000
+patch=1,EE,0010b010,word,46000383 // 3c013f80 textbox calculation
+patch=1,EE,0010b014,word,449b6800 // 44816800
+patch=1,EE,0010b030,word,460d7343 // 46006b86
+patch=1,EE,0010b040,word,46007446 // 46006c46
+patch=1,EE,00207a98,word,3c0144fa // 3c014500 position fix weapon select
+patch=1,EE,001eedbc,word,24100020 // 24100018 font fix hud and menu
+patch=1,EE,001f7cd0,word,24090020 // 24090018
+patch=1,EE,001f998c,word,240b0020 // 240b0018 numbers fix
+patch=1,EE,001f9710,word,24030020 // 24030018
+patch=1,EE,0010629c,word,3c071900 // 3c071c08 fmv fix
+patch=1,EE,002a1608,word,70007000 // 74007000
+
+[Remove Blackbars]
+author=ElHecht
+description=Removes black bars in cutscenes
+patch=1,EE,0010430c,word,00000000 // ac510e48
+patch=1,EE,0010442c,word,00000000 // ac450e48
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%). Gumi ship at 25 fps.
+patch=1,EE,002B6ACC,extended,00000000
+patch=1,EE,E0010000,extended,00571954
+patch=1,EE,002B6ACC,extended,00000001
+patch=1,EE,E001100C,extended,002C0618 //marca trio roja (red trinity)
+patch=1,EE,002B6ACC,extended,00000001
+patch=1,EE,E001100E,extended,002C0618 //marca trio verde (green trinity)
+patch=1,EE,002B6ACC,extended,00000001
+patch=1,EE,E0010008,extended,002C0618 //halloween town coffin to transport at other zone
+patch=1,EE,002B6ACC,extended,00000001
+patch=1,EE,E0011008,extended,002C0618
+patch=1,EE,002B6ACC,extended,00000001
+patch=1,EE,E0010009,extended,002C0618
+patch=1,EE,002B6ACC,extended,00000001

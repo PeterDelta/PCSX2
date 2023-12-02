@@ -1,0 +1,6 @@
+gametitle=XIII (PAL-M) SLES-51244 200BC0E6
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00191C64,word,28420001 //28420002

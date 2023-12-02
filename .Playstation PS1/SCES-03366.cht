@@ -1,0 +1,10 @@
+# C-12 - Final Resistance (Europe) (Es,It) SCES-03366
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70AEF6E 8C428C40
+A709DB04 00100000
+D00EFADC 0001
+800AEF6E 8C42

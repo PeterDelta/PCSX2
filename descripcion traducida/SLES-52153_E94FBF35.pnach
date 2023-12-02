@@ -1,0 +1,12 @@
+gametitle=Driv3r (PAL-S) SLES-52153 E94FBF35
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=0,EE,00297810,word,24440002 //24440001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,002862B0,word,14A00006
+patch=0,EE,0029D77C,word,24060002

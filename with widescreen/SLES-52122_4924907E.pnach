@@ -1,0 +1,12 @@
+gametitle=Crime Life - Gang Wars (PAL-M) SLES-52122 4924907E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,004155f8,word,3c043f40 //3c043f80
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,006388D8,word,00000000 //00000001

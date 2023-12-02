@@ -1,0 +1,8 @@
+gametitle=Without Warning (PAL-M) SLES-53716 D9D96321
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,004A739C,extended,00000001
+patch=1,EE,E0010000,extended,004A5868
+patch=1,EE,004A739C,extended,00000002

@@ -1,0 +1,17 @@
+gametitle=Silent Hill 2 (PAL-M) SLES-50382 6B149273
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,210E4C14,extended,43A8F5C3 // 43E147AE X-RES
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,001A3860,word,10400009 //14400009
+
+[Disable Noise Effect]
+author=PeterDelta
+description=Deshablita el efecto de grano de pelicula
+patch=1,EE,002CBC54,byte,00

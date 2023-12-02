@@ -1,0 +1,9 @@
+# Oddworld - Abe's Exoddus (Spain) (Disc 2) SLES-11505
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A708DD54 00010000
+A707E5FA 00180000
+A707EA6A 00180000

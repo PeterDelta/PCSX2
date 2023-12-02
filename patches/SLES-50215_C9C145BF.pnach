@@ -1,0 +1,10 @@
+gametitle=Crazy Taxi (PAL-M) SLES-50215 C9C145BF
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=0,EE,001A342C,word,24060002
+patch=2,EE,00389FAC,word,001BF9FF
+patch=2,EE,00389FD4,word,001BF9FF
+patch=2,EE,003B411C,word,001BF9FF
+patch=2,EE,003B4164,word,00007890

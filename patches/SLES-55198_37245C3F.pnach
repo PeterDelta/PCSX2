@@ -1,0 +1,7 @@
+gametitle=Iron Man (PAL-M) SLES-55198 37245C3F
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,00431D7C,word,4353544E
+patch=1,EE,00431D80,word,52454400

@@ -1,0 +1,22 @@
+gametitle=Driven to Destruction (PAL-M) SLES-52733 3F0D3C94
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,00100620,word,14400003
+
+//[NTSC Mode]
+//author=PeterDelta
+//description=Modo NTSC al iniciar. BETA
+//patch=1,EE,00388698,word,24120002
+//patch=1,EE,003DC87C,word,000001E0
+//patch=1,EE,003DC884,word,000001E0
+//patch=1,EE,0035E450,word,240201E0
+//patch=1,EE,003675FC,word,241101C0
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0035AE38,word,10400007

@@ -1,0 +1,6 @@
+gametitle=Delta Force - Black Hawk Down (PAL-M) SLES-53299 3524C3B8
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,001C52C0,word,1460000A

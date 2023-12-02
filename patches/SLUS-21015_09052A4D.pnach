@@ -1,0 +1,7 @@
+gametitle=DreamWorks Madagascar (NTSC-U) SLUS-21015 09052A4D
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,004B0304,byte,01
+patch=1,EE,003469C4,byte,77

@@ -1,0 +1,6 @@
+gametitle=BloodRayne 2 (PAL-M) SLES-53831 78EF5FF7
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0033E760,word,28630001 //28630002

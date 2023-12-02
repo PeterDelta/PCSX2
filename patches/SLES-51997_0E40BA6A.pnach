@@ -1,0 +1,6 @@
+gametitle=SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00468DC0,word,00000001 //00000002

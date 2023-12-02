@@ -1,0 +1,7 @@
+gametitle=Knight Rider - The Game (PAL-M) SLES-51011 989192FE
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,E0010011,extended,0079B31C
+patch=1,EE,00367BD4,extended,24020001 //24020002

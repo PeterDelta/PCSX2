@@ -1,0 +1,8 @@
+# Disney Atlantis - El Imperio Perdido (Spain) SCES-03541
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70920A4 00010000
+A706C970 00100000

@@ -1,0 +1,18 @@
+gametitle=TY the Tasmanian Tiger (PAL-M) SLES-51220 D59D3252
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,00228FC8,word,3C013F40 //3C013F80
+//patch=1,EE,004024F4,word,3C013FA0 //3C013F80 zoom
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,003F205C,word,28420001 //28420002
+//patch=1,EE,00228374,word,3C013F00 //3C013F80 speed mov ty salta la mitad
+//patch=1,EE,00215D0C,word,3C013F00 //3C013F80 speed animation mov
+//patch=1,EE,0020A934,word,3C013F00 //3C013F80 speed mov avance
+//patch=1,EE,00222BF4,word,3C013F00 //3C013F80 cam?
+//patch=1,EE,00210248,word,3C013F00 //3C013F80 speed animations

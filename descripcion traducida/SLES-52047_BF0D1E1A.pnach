@@ -1,0 +1,18 @@
+gametitle=Sims, The - Bustin' Out (PAL-M) SLES-52047 BF0D1E1A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00293da0,word,3c013fe3 //3c013faa
+patch=1,EE,00293da4,word,34218e2a //3421aaab
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,002A3208,word,28820001 //28820002
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,003B0A70,word,00000000 //0013D020

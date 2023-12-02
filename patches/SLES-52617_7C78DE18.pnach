@@ -1,0 +1,18 @@
+gametitle=Stock Car Speedway (PAL-E) SLES-52617 7C78DE18
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,E0020002,extended,004C4F98
+patch=1,EE,0027C744,extended,3C013F9C
+patch=1,EE,002EA044,extended,3C013F65
+patch=1,EE,E0020003,extended,004C4F98
+patch=1,EE,0027C744,extended,3C013F99
+patch=1,EE,002EA044,extended,3C013FA8
+patch=1,EE,E0020000,extended,004C4F98
+patch=1,EE,0027C744,extended,3C013F97
+patch=1,EE,002EA044,extended,3C013F9B
+patch=1,EE,E0020001,extended,004C4F98
+patch=1,EE,0027C744,extended,3C013F99
+patch=1,EE,002EA044,extended,3C013FAC

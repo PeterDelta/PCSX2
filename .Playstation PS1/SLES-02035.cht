@@ -1,0 +1,10 @@
+# Star Wars - Episode I - La Menace Fantome (France) SLES-02035
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A707795C 00020001
+D0077794 0004
+8007795C 0002

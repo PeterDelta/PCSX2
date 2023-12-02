@@ -1,0 +1,9 @@
+gametitle=Robots (PAL-M) SLES-53052 B860F5B6
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0037B6A8,word,00000019 //00000032
+patch=1,EE,0037B6E0,word,3F99999A //4019999A npc
+patch=1,EE,0037B6C4,word,3F99999A //4019999A jump
+patch=1,EE,0037B6CC,word,3F99999A //4019999A subtitles

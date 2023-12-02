@@ -1,0 +1,15 @@
+gametitle=Army Men - Sarge's War (PAL-M) SLES-52587 95CFD603
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9. Render fix missing
+//patch=1,EE,0026B438,word,3C013F40
+//patch=1,EE,0026B4A8,word,3C013F40 //para que no parpadee menu pausa se pone 4:3
+//patch=1,EE,001976AC,word,46062100 //hud arma
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,003FC680,word,04000001 //04000000
+patch=1,EE,001A5C48,word,3C013F00 //3C013F80 camera

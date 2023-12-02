@@ -1,0 +1,6 @@
+gametitle=Conflict - Global Storm (PAL-M) SLES-52573 73973370
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,003E76E8,word,2C420001 //2C420002

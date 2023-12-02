@@ -1,0 +1,10 @@
+gametitle=SSX 3 (PAL-M) SLES-51697 2326C5C8
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=0,EE,0037BCFC,word,10400002
+patch=1,EE,00620E94,word,000001E0
+patch=1,EE,00620EB8,word,000001E0
+patch=1,EE,E0010029,extended,0044B0D4
+patch=1,EE,2044B14C,extended,000001E0

@@ -1,0 +1,6 @@
+gametitle=Garfield - Lasagna World Tour (PAL-M) SLES-54817 98317385
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0026BBF4,word,00000001 //00000002

@@ -1,0 +1,15 @@
+gametitle=Señor de Los Anillos, El - La Tercera Edad (PAL-S) SLES-52805 614F4CF4
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,20C36980,word,3F400000 //3F800000
+patch=1,EE,20C36990,word,3FB00000 //3F800000
+patch=1,EE,20C36998,word,3FB00000 //3F800000
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,001C36DC,word,00000000 //4501FFF6
+patch=1,EE,00279890,word,3C013F00 //3C013F80 camera

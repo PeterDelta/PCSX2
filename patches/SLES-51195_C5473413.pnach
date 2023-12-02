@@ -1,0 +1,6 @@
+gametitle=Harry Potter y la Cámara Secreta (PAL-S) SLES-51195 C5473413
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=0,EE,001BDAD4,word,241001C0

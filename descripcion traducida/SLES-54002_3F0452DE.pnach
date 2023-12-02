@@ -1,0 +1,22 @@
+gametitle=FlatOut 2 (PAL-M5) SLES-54002 3F0452DE
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,001B21A0,extended,3C013F94 //gameplay
+patch=1,EE,00233F50,extended,3C013F30
+patch=1,EE,00325628,extended,3C013F30
+patch=1,EE,002D5F64,extended,3C013F80 //car selection
+patch=1,EE,0020D4FC,extended,3C013F80
+patch=1,EE,E0020001,extended,00A2D49C
+patch=1,EE,002D5F64,extended,3C013F40
+patch=1,EE,0020D4FC,extended,3C013FAB
+
+[50/60 FPS]
+author=PeterDelta 
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,004A3494,extended,00000001
+patch=1,EE,004CCFD8,extended,00000000
+patch=1,EE,E001FFFE,extended,0041F7C4
+patch=1,EE,004A3494,extended,00000002

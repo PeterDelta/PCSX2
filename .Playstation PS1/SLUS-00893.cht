@@ -1,0 +1,8 @@
+# Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA) SLUS-00893
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 180
+A707AEB0 00020001

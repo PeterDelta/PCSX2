@@ -1,0 +1,18 @@
+gametitle=DreamWorks Open Season (NTSC-U) SLUS-21467 06BBB610
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,003f993c,word,08150c04 X-Fov
+patch=1,EE,00543010,word,46001002
+patch=1,EE,00543014,word,3c013f40
+patch=1,EE,00543018,word,4481f000
+patch=1,EE,0054301c,word,461e0002
+patch=1,EE,00543020,word,080fe650
+patch=1,EE,00291a1c,word,3c034300 //3c034334 Render fix
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00567378,word,00000001 //00000002

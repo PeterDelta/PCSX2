@@ -1,0 +1,19 @@
+gametitle=Ridge Racer V (PAL-M) SCES-50000 5BBC2F40
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Attempts to disable interlaced offset rendering.
+patch=1,EE,00220738,word,24020000
+//patch=1,EE,002C500C,word,3C050000 //progressive 225
+
+[60 FPS]
+gsinterlacemode=1
+author=PeterDelta
+description=Forces progressive scan mode at startup
+patch=1,EE,0033D568,word,3C88889A //3CA3D70A
+patch=1,EE,002DE020,word,34050052
+patch=1,EE,002DE024,word,24030002
+patch=1,EE,002DE028,word,0000000C
+patch=1,EE,002DE02C,word,03E00008
+patch=1,EE,00220738,word,24020008

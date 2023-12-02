@@ -1,0 +1,12 @@
+gametitle=Garfield - Lasagna World Tour (PAL-M) SLES-54817 98317385
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,001c3a74,word,3c033f40 //3c033f80
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0026BBF4,word,00000001 //00000002

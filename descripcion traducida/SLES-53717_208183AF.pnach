@@ -1,0 +1,24 @@
+gametitle=Midnight Club 3 - DUB Edition Remix (PAL-M) SLES-53717 208183AF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=FlatOut
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0061C318,word,3FC71C76
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,001A730C,word,24020001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,0061C4A4,word,00000000
+patch=1,EE,0061C388,word,000001C0
+patch=1,EE,001BE694,word,14A0002F
+
+[Remove Bloom]
+author=PeterDelta
+description=Elimina el efecto bloom del posprocesamiento
+patch=1,EE,001D0EE8,word,3C013FFF

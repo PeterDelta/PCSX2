@@ -1,0 +1,34 @@
+gametitle=Burnout 3 - Takedown (PAL-M) SLES-52584 75BECC18
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrección de pantalla panorámica
+patch=1,EE,0066644D,extended,01
+patch=1,EE,204E0FB8,extended,3FAAAAAB
+patch=1,EE,204E11FC,extended,3FE38E39 //Multi
+
+[50/60 FPS]
+author=PeterDelta 
+description=Puede requerir aumentar la frecuencia del EE.
+patch=1,EE,E0051885,extended,0049B384 //50hz
+patch=1,EE,004E1D5C,extended,00000001
+patch=1,EE,2051C024,extended,00000001
+patch=1,EE,204E2CC0,extended,3CA3D70A
+patch=1,EE,204F561C,extended,3CA3D70A
+patch=1,EE,2051AE34,extended,3CA3D70A
+patch=1,EE,E005177A,extended,0049B384 //60hz
+patch=1,EE,004E1D5C,extended,00000001
+patch=1,EE,2051C024,extended,00000001
+patch=1,EE,204E2CC0,extended,3C888889
+patch=1,EE,204F561C,extended,3C888889
+patch=1,EE,2051AE34,extended,3C88AB85
+
+[480p Mode]
+author=felixthecat1970
+description=Modo SDTV 480p al iniciar.
+patch=0,EE,2021B764,extended,0000182D
+patch=0,EE,20437118,extended,241B0003
+patch=0,EE,20437120,extended,A07B09A4
+patch=0,EE,00228154,extended,24020001
+patch=0,EE,20228170,extended,00000000

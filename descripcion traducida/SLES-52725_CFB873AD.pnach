@@ -1,0 +1,33 @@
+gametitle=Need for Speed - Underground 2 (PAL-M) SLES-52725 CFB873AD
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,004F12DC,byte,01
+
+[50/60 FPS]
+author=asasega
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,201D7FBC,extended,2C420001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,0051715C,word,00000000
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Elimina el efecto blur/bloom del posprocesamiento
+patch=0,EE,001D39D0,word,03E00008
+patch=0,EE,001D39D4,word,00000000
+patch=0,EE,00565E98,word,00000000
+patch=0,EE,001CA25C,word,24020000
+patch=0,EE,00565F78,word,01000100 //bloom
+
+[Widen headlight beam]
+author=PeterDelta
+description=Amplia el haz de luz de los faros como se ve en Underground
+patch=0,EE,00565FE8,word,3E400000
+patch=0,EE,00565A00,word,3F400000
+patch=0,EE,00565FEC,word,3EFA0000

@@ -1,0 +1,24 @@
+gametitle=Incredible Hulk, The - Ultimate Destruction (PAL-M) SLES-53430 6B3D50A5
+
+[HUD Fix]
+author=PeterDelta
+description=Establece el HUD en los lados a 16:9
+patch=0,EE,00513DD4,word,3C013FD9
+patch=0,EE,002345F0,word,3C013F50
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,0046F3D0,word,24020001 //24020002
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,0046F6FC,word,240501C0
+patch=1,EE,0046F708,word,24060002
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0046F6FC,word,240501E0
+patch=1,EE,0046F708,word,24060050

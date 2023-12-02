@@ -1,0 +1,10 @@
+gametitle=Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00220250,extended,28420002
+patch=1,EE,00220270,extended,28420002
+patch=1,EE,E0020000,extended,00526394
+patch=1,EE,00220250,extended,28420001
+patch=1,EE,00220270,extended,28420001

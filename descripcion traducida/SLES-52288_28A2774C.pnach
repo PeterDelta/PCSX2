@@ -1,0 +1,11 @@
+gametitle=Tom Clancy's Rainbow Six 3 (PAL-M) SLES-52288 28A2774C
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,001400ec,word,3c063f40
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00653878,word,00000001 //00000002

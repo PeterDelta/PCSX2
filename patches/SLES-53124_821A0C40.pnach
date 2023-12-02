@@ -1,0 +1,12 @@
+gametitle=Project - Snowblind (PAL-M4) SLES-53124 821A0C40 (BO3GM.ELF) single-player
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,002D4D60,word,24630002 //24630001
+//patch=1,EE,002D4D94,word,2C620000 //0062102B old
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,004E9B28,word,00000000

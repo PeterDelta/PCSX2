@@ -1,0 +1,27 @@
+gametitle=Disney-Pixar's Cars (PAL-S) SLES-54007 B8435BF4
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9. Seleccionar 4:3 en el juego
+patch=1,EE,00116D50,word,3C033CAE //3C033C8E Zoom
+patch=1,EE,00116D54,word,34635555 //3463FA34
+patch=1,EE,00116D48,word,3C023FAB //3C023F80 Y-FOV
+patch=1,EE,001D5D74,word,3C03BFAB //3C03BF80 Render fix
+patch=1,EE,001D5D78,word,3C023FAB //3C023F80
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,001B1F44,extended,24040001
+patch=1,EE,E0010000,extended,008B86A4
+patch=1,EE,001B1F44,extended,24040002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar. fmv not sync, gameplay ok
+patch=1,EE,00458B0C,word,3C050000
+patch=1,EE,00458B14,word,3C060050
+patch=1,EE,00458B1C,word,3C070001
+patch=1,EE,002DB644,word,3C090010

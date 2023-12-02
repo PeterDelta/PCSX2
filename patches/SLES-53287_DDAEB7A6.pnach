@@ -1,0 +1,22 @@
+gametitle=Tom Clancy's Splinter Cell - Chaos Theory (PAL-M) SLES-53287 DDAEB7A6 SC3_OFF.ELF Single
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=0,EE,001F2908,extended,40
+
+//[NTSC Mode]
+//author=PeterDelta
+//description=NTSC mode at start.
+//patch=1,EE,001383DC,extended,02
+//patch=1,EE,E0010200,extended,00D7B410 //solo falta primera pantalla de carga
+//patch=1,EE,20D7B410,extended,000001C0
+//patch=1,EE,E0010200,extended,00F08440
+//patch=1,EE,20F08440,extended,000001C0
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=0,EE,001383DC,extended,50

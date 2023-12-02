@@ -1,0 +1,6 @@
+gametitle=Disney's Tarzan - Freeride (PAL-M) SLES-50350 368E1540
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,006B00B8,word,00000000 //00000001

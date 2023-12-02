@@ -1,0 +1,14 @@
+gametitle=24 - The Game (PAL-M) SCES-53358 D6A99F53
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,002fbf20,word,3c020000 //3c020060 Zoom Fix (When turn on the Widescreen option)
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,205F9908,extended,00000001
+patch=1,EE,E0010001,extended,00631208
+patch=1,EE,205F9908,extended,00000002

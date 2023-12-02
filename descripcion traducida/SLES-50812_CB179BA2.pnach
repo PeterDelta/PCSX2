@@ -1,0 +1,7 @@
+gametitle=Spider-Man - The Movie (PAL-E) SLES-50812 CB179BA2
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,004CCCA0,word,00000001
+patch=1,EE,004CCCA8,word,000001C0

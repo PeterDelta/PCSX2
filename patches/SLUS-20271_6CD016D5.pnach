@@ -1,0 +1,6 @@
+gametitle=Shifters (NTSC-U) SLUS-20271 6CD016D5
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,004C4E9C,word,00000001 //00000002

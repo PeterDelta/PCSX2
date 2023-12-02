@@ -1,0 +1,17 @@
+# Cool Boarders 2 (Europe) SCES-00992
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Renders the game in 16:9 aspect ratio
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A7059288 10000C00
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A704F6F4 00010000
+A702A2F4 00100000

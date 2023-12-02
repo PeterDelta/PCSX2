@@ -1,0 +1,6 @@
+gametitle=True Crime - Streets of L.A. (PAL-M) SLES-51754 29E9D83C TC.ELF
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,001024D0,word,24040001 //24040002

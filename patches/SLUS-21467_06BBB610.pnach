@@ -1,0 +1,6 @@
+gametitle=DreamWorks Open Season (NTSC-U) SLUS-21467 06BBB610
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00567378,word,00000001 //00000002

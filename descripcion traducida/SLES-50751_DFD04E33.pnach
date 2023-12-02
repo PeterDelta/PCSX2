@@ -1,0 +1,12 @@
+gametitle=Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ESPPIRAL
+description=Renderiza el juego en proporción de 16:9. Seleccionar 4:3 en el juego
+patch=1,EE,211F2688,word,3F0CCCCD // 00000000
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,002ECDEC,word,00000000 //1040FFFE

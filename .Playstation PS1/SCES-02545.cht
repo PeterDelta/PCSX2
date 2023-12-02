@@ -1,0 +1,11 @@
+# MediEvil 2 (Europe) SCES-02545
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+A70EDA88 00010000
+A70F482A 01000200
+A70F482E 00100070
+A70F483E 01000200
+A70F4842 00100070

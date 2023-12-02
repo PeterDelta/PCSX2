@@ -1,0 +1,8 @@
+gametitle=Star Wars - Battlefront 2 (PAL-M) SLES-53501 B68D35CA SWBFRNT2.ELF
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00602D1C,extended,00000001
+patch=1,EE,E0010001,extended,0060EABC
+patch=1,EE,00602D1C,extended,00000002

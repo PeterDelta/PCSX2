@@ -1,0 +1,13 @@
+gametitle=The Thing (PAL-M4) SLES-50975 F6F9A91D
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0016EC34,word,3C023FE3 //3C023FAA (Increases hor. axis)
+patch=1,EE,0016EC38,word,34428E38 //3442AAAB
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,009693A8,word,00000001 //00000002

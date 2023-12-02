@@ -1,0 +1,16 @@
+gametitle=Space Chimps (PAL-M) SLES-55340 C423A2DC
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00600188,word,00000000 //0000004B
+patch=1,EE,00600190,word,00000200 //00000169
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,004213B4,word,24110000
+patch=1,EE,004213B8,word,24120050
+patch=1,EE,004213C4,word,24130001

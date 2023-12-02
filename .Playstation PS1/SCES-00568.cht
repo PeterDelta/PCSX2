@@ -1,0 +1,10 @@
+# Cool Boarders (Europe) SCES-00568
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Renders the game in 16:9 aspect ratio
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A7060D58 10000C00
+A70C63EC 10000C00

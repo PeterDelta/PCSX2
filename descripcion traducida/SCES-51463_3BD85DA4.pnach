@@ -1,0 +1,8 @@
+gametitle=Ghosthunter (PAL-M) SCES-51463 3BD85DA4
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,005681E0,extended,00000001
+patch=1,EE,E0010000,extended,0056884C
+patch=1,EE,005681E0,extended,00000002

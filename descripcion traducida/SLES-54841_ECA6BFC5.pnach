@@ -1,0 +1,22 @@
+gametitle=Crash of the Titans (PAL-M) SLES-54841 ECA6BFC5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=CRASHARKI
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,21BD8268,byte,01 //00000000 In-game option
+patch=1,EE,21BD82A2,byte,10 //40 Zoom 1
+patch=1,EE,21BD82A8,word,3F000000 //3F2AAAAA Zoom 2
+
+[50/60 FPS]
+author=IWILLCRAFT
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,204924B8,extended,24020000 //24020001
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0057E904,word,3C050000
+patch=1,EE,0057E90C,word,3C060050
+patch=1,EE,0057E914,word,3C070001

@@ -1,0 +1,9 @@
+# Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 2) SLES-10644
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70A63E4 00010000
+A70D2C1A 00180000
+A70D515A 00180000

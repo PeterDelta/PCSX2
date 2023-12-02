@@ -1,0 +1,16 @@
+gametitle=Spy Hunter - Nowhere to Run (PAL-M) SLES-54130 4731578B
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,005FBC84,word,3FE505E3 //3FA4BC75
+patch=1,EE,004A8ADC,word,3C013F83 //3C013F80 Y-FOV
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00384DE0,word,28630001 //28630002
+patch=1,EE,0068B238,word,3F000000 //3F800000
+patch=1,EE,E0010000,extended,0060410C
+patch=1,EE,2068B238,extended,3F800000

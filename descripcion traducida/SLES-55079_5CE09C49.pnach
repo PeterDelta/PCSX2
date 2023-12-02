@@ -1,0 +1,8 @@
+gametitle=CID the Dummy (PAL-M) SLES-55079 5CE09C49
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0024A8CC,word,24110000
+patch=1,EE,0024A8D0,word,24120050
+patch=1,EE,0024A8DC,word,24130001

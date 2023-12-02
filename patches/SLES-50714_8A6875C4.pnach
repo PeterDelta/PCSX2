@@ -1,0 +1,8 @@
+gametitle=Defender (PAL-M) SLES-50714 8A6875C4
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00236C08,extended,24020002
+patch=1,EE,E001001A,extended,0056874C //Avoid menu flickering
+patch=1,EE,00236C08,extended,24020001

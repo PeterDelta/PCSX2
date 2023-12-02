@@ -1,0 +1,17 @@
+# Resident Evil 2 (Spain) (Disc 1) SLES-00976
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70A42D8 00010000
+A70D6C6E 00180000
+A70D6BD6 00180000
+
+[Skip Door Transition]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Skips door scenes every time a room is entered.
+A709326C 39D4465C
+A7046CE6 0C012400

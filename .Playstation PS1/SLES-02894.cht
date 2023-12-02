@@ -1,0 +1,12 @@
+# Disney Dinosaurio (Spain) SLES-02894
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7069EE0 00010000
+A704F00C 00100000
+A707A922 01000200
+A70A9912 01000200
+A70A9916 00100080
+A707A926 00100080

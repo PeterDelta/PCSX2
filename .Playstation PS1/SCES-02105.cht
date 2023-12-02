@@ -1,0 +1,8 @@
+# CTR - Crash Team Racing (Europe) SCES-02105
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 180
+A7037D80 00020001

@@ -1,0 +1,17 @@
+gametitle=DreamWorks Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,2069520C,extended,3FE38E38 //3FAAAAAB (Increases hor. axis)
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0062B1D4,word,00000001 //00000002
+
+[Disable Filter]
+author=PeterDelta
+description=Disable brown filter and reducing blur.
+patch=1,EE,00579238,word,00000000

@@ -1,0 +1,8 @@
+# Skullmonkeys (Europe) SLES-01090
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A709F4A4 00010000
+A708ACD4 00100000

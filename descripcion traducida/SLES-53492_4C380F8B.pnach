@@ -1,0 +1,21 @@
+gametitle=Total Overdose (PAL-M) SLES-53492 4C380F8B
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,20692A2C,word,3F47AE14 // Zoom
+patch=1,EE,206C64C4,word,3F400000 // Vert fov
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,01B71FC0,word,00000001 //00000002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,005F5F14,word,24110000
+patch=1,EE,005F5F18,word,24120050
+patch=1,EE,005F5F24,word,24130001

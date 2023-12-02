@@ -1,0 +1,23 @@
+gametitle=Harry Potter and the Order of the Phoenix (PAL-M) SLES-54779 01A9BF0E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Corrección de pantalla panorámica
+patch=1,EE,004C42C8,word,24020002 //30420003
+patch=1,EE,00354528,word,3C013F20 //3C013F00 zoom fix
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0065AA04,word,00000001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,005990EC,word,00000000
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Elimina el efecto blur/bloom del posprocesamiento
+patch=1,EE,00324908,word,00000000

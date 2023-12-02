@@ -1,0 +1,27 @@
+gametitle=Champions of Norrath (PAL-M) SLES-52325 75D86958
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0017F320,word,3C013F19 //3C013F4C
+patch=1,EE,0018A074,word,3C013F19 //3C013F4C
+patch=1,EE,001911BC,word,3C013FE3 //3C013FAA render fix menu
+patch=1,EE,001914FC,word,3C013FE3 //3C013FAA render fix
+patch=1,EE,001911F0,word,3C013FE3 //3C013FAA
+patch=1,EE,001919B8,word,3C013FE3 //3C013FAA
+//patch=1,EE,0015E6AC,word,3C013FE3 //3C013FAA
+//patch=1,EE,00181688,word,3C013FE3 //3C013FAA
+//patch=1,EE,00192B44,word,3C013FE3 //3C013FAA
+//patch=1,EE,002A1B40,word,3C013FE3 //3C013FAA
+
+[No-Interlacing]
+gsinterlacemode=1
+author=Agrippa
+description=Force frame mode.
+patch=1,EE,20392EC0,extended,00000000
+patch=1,EE,20392EC4,extended,00000001
+patch=1,EE,20392F30,extended,00000001
+patch=1,EE,20195734,extended,10000010
+patch=1,EE,2019579C,extended,10000006
+patch=1,EE,2019634C,extended,24030001

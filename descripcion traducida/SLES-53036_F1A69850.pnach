@@ -1,0 +1,12 @@
+gametitle=Tak 2 - The Staff of Dreams (PAL-M) SLES-53036 F1A69850
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,205CF4EC,extended,3FE38E38 //3FAAAAAB (Increases hor. axis)
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0055D0E8,word,00000001 //00000002

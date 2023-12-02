@@ -1,0 +1,19 @@
+gametitle=¡Qué pasa Neng! El videojuego (PAL-S) SLES-54604 5A1D79D4
+
+//[NTSC Mode]
+//author=PeterDelta
+//description=Modo NTSC al iniciar. No se ve bien, mejor parche 480p
+//patch=1,EE,0012CBB8,word,24060002
+//patch=1,EE,0012CBEC,word,240700E0
+//patch=1,EE,0016E474,word,24060002
+//patch=1,EE,0016E494,word,240700E0
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,E0010000,extended,0020F948
+patch=1,EE,201C83F8,extended,00069403
+patch=1,EE,E0010001,extended,0020F948
+patch=1,EE,201C83F8,extended,24120050
+patch=1,EE,001C93BC,extended,00000000

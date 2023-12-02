@@ -1,0 +1,30 @@
+gametitle=Syphon Filter - The Omega Strain (PAL-M) SCES-52033 59EB2A95
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+//Ported from SCES-52033 27E54B37 by nemesis2000
+patch=1,EE,003973B0,word,3c043f40 //3C043F80
+patch=1,EE,003973B4,word,44841800 //3C034000
+patch=1,EE,003973B8,word,46030003 //44841800
+patch=1,EE,003973BC,word,460318c3 //44830800
+patch=1,EE,003973C0,word,46031840 //00000000
+patch=1,EE,00397434,word,e603007c //AE04007C
+patch=1,EE,0041901C,word,241016d0 //24127880 FMV fix
+patch=1,EE,00419024,word,24127490 //24100F00
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,20102894,extended,3C050000
+patch=1,EE,2010289C,extended,3C060050
+patch=1,EE,201028A4,extended,3C070001
+patch=1,EE,00103BCC,extended,64420000
+patch=1,EE,E0040001,extended,00543504
+patch=1,EE,20102894,extended,00052C00
+patch=1,EE,2010289C,extended,00063400
+patch=1,EE,201028A4,extended,00073C00
+patch=1,EE,00103BCC,extended,64420008
+patch=1,EE,00543604,extended,64

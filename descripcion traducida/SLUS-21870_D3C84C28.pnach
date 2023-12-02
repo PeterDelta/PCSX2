@@ -1,0 +1,12 @@
+gametitle=DreamWorks Monsters vs. Aliens (NTSC-U) SLUS-21870 D3C84C28
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00179EA0,word,3C023FAB //3C023F80
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,002338EC,word,28420001 //28420002

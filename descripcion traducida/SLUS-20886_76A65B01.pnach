@@ -1,0 +1,14 @@
+gametitle=Sitting Ducks (NTSC-U) SLUS-20886 76A65B01
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,00469CE8,word,3FE38E39
+
+[60 FPS]
+author=PeterDelta
+description=Desbloquea FPS internos.
+patch=1,EE,0067FF58,extended,00000032
+patch=1,EE,E0010001,extended,00469D64
+patch=1,EE,0067FF58,extended,00000019

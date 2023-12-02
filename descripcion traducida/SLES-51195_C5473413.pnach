@@ -1,0 +1,11 @@
+gametitle=Harry Potter y la Cámara Secreta (PAL-S) SLES-51195 C5473413
+
+[50/60 FPS]
+author=asasega
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00544168,word,00000001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,001BDAD4,word,241001C0

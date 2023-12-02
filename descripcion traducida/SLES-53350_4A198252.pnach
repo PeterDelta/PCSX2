@@ -1,0 +1,7 @@
+gametitle=Sonic Gems Collection (PAL-M) SLES-53350 4A198252 Main CRC
+//Corresponds to the main crc to activate the secondary
+
+[Sonic CD 60 FPS]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar Sonic CD
+//Used to enable SLES-53350_82DB1E89.pnach elf: S1.DAT Sonic CD

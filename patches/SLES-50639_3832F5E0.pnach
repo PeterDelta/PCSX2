@@ -1,0 +1,12 @@
+gametitle=Everblue (PAL) SLES-50639 3832F5E0
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Enable progressive interlacing.
+patch=1,EE,001001D4,word,3C050000
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,001001F8,word,24120002

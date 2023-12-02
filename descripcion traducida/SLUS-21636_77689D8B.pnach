@@ -1,0 +1,44 @@
+gametitle=Looney Tunes - ACME Arsenal (NTSC-U) SLUS-21636 77689D8B
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+//patch=1,EE,20468450,extended,40180000 //3FAAAAAB
+//patch=1,EE,20957A24,extended,40120000 //3FE38E39 Menu
+patch=1,EE,208269D0,extended,3F100000
+patch=1,EE,208269E8,extended,3F400000
+patch=1,EE,208269F4,extended,3F160000
+patch=1,EE,2032FFDC,extended,3C054000 //HUD
+patch=1,EE,002EAF1C,extended,3C063F22 //render fix
+patch=1,EE,00826434,extended,00000002 //fix submenu
+patch=1,EE,E0013000,extended,00826710 //fix submenu
+patch=1,EE,00826434,extended,00000001 //fix submenu
+patch=1,EE,E0040001,extended,00666B90
+patch=1,EE,208269D0,extended,3F800000
+patch=1,EE,208269E8,extended,3F800000
+patch=1,EE,208269F4,extended,3F800000
+patch=1,EE,2032FFDC,extended,3C053F80
+patch=1,EE,00826444,extended,00000000 //00000031 Black bands
+patch=1,EE,0082644C,extended,000001BF //0000015E
+
+[Remove Blackbars]
+author=PeterDelta
+description=Imagen original sin barras negras, en proporción de 16:9
+patch=1,EE,00826434,extended,00000002 //fix submenu
+patch=1,EE,E0013000,extended,00826710 //fix submenu
+patch=1,EE,00826434,extended,00000001 //fix submenu
+patch=1,EE,208269D0,extended,3F800000
+patch=1,EE,208269E8,extended,3F800000
+patch=1,EE,208269F4,extended,3F800000
+patch=1,EE,2032FFDC,extended,3C053F80
+patch=1,EE,00826444,extended,00000000 //00000031 Black bands
+patch=1,EE,0082644C,extended,000001BF //0000015E
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0037200C,word,24110000
+patch=1,EE,00372010,word,24120050
+patch=1,EE,0037201C,word,24130001

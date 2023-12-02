@@ -1,0 +1,6 @@
+gametitle=The Mummy Returns (PAL-M) SLES-50510 B9254C98
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00161A38,word,3C01020F //3C01002D

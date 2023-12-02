@@ -1,0 +1,6 @@
+gametitle=Prince of Persia - The Sands of Time (PAL-M5) SLES-51918 4B58A7A8
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,0066CF44,word,00000001 //00000002

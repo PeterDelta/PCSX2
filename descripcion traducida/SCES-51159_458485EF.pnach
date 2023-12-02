@@ -1,0 +1,13 @@
+gametitle=Getaway, The (PAL-M) SCES-51159 458485EF
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,001F0EB8,word,24020001 //24020002
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=1,EE,003A99FC,extended,00000001
+patch=1,EE,D0391E88,extended,00000000
+patch=1,EE,00391E88,extended,00000001

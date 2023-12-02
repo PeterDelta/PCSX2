@@ -1,0 +1,15 @@
+gametitle=Freedom Fighters (PAL-S) SLES-51471 BADCA543
+//Main CRC to activate CRC 6EEE06DD called FF.ELF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Enable native widescreen
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.

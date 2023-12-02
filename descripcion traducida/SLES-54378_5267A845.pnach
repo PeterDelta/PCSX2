@@ -1,0 +1,23 @@
+gametitle=Nickelodeon Barnyard (PAL-M) SLES-54378 5267A845
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00545F70,word,3FB58000 //3F8889A0
+patch=1,EE,00542898,word,3FD50000 //3EAAAAAB
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,0054C22C,extended,00000001
+patch=1,EE,E0010010,extended,004F95B4
+patch=1,EE,0054C22C,extended,00000002
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar. FMV 5% mas rápido
+patch=1,EE,004A99D4,word,24110000
+patch=1,EE,004A99D8,word,24120050
+patch=1,EE,004A99DC,word,24130001

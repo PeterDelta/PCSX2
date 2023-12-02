@@ -1,0 +1,13 @@
+gametitle=Jurassic Park - Operation Genesis (PAL-M) SLES-51354 960FFA6A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,0055a410,word,3ff3aaab //3eaaaaab
+patch=1,EE,0055c1f4,word,3FB60CD0 //3f8889a0
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00564EE4,word,00000001 //00000002

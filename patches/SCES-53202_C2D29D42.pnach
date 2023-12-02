@@ -1,0 +1,16 @@
+gametitle=Tekken 5 (PAL-M5) SCES-53202 C2D29D42 "Devil Within/Arcade" TK5DATA4.BIN
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,E002000F,extended,0012C888 //Devil Within 000F
+patch=1,EE,2041F714,extended,3F400000
+patch=1,EE,202AEED8,extended,3FDDA51A
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start.
+//StarBlade 902D | T3 C884 | T2 0014 | T1 FFF0
+patch=1,EE,E001000F,extended,0012C888
+patch=1,EE,002AEB41,extended,02

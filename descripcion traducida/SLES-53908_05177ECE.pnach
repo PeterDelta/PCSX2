@@ -1,0 +1,29 @@
+gametitle=Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=pgert
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,203921F0,extended,3F800000 // 00000000
+patch=1,EE,203B9080,extended,00000001 // 00000000
+patch=1,EE,2046ED64,extended,3F800000 // 00000000
+patch=1,EE,20977390,extended,00000001 // 00000000
+patch=1,EE,2098EFA0,extended,00000001 // 00000000
+
+[Blackbars/Remove]
+author=pgert
+description=Elimina las barras negras en las escenas
+patch=1,EE,0016C688,word,3C01BF80
+patch=1,EE,0016C694,word,3C013F80
+
+[50/60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=1,EE,00125488,word,14400003 //10400003
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,003B905C,extended,00000001
+patch=1,EE,20392208,extended,3F800000
+patch=1,EE,20124A94,extended,240301C0

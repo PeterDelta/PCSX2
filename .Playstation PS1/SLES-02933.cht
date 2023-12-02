@@ -1,0 +1,15 @@
+# Incredible Crisis (Europe) SLES-02933
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+A716C934 00010000
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7198768 00010000
+A717534C 000A0000

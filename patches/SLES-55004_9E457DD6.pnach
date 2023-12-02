@@ -1,0 +1,6 @@
+gametitle=Need for Speed - ProStreet (PAL-S-I) SLES-55004 9E457DD6
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start.
+patch=1,EE,0041900C,word,0000102D

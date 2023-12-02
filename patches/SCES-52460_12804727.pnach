@@ -1,0 +1,11 @@
+gametitle=Jak 3 (PAL-M) SCES-52460 12804727
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,E0010001,extended,00547B70
+patch=1,EE,007D615C,extended,00144D05
+patch=1,EE,107D6154,extended,00146169
+patch=1,EE,E0016219,extended,001B1D58 //allows choose 50 Hz
+patch=1,EE,107D6154,extended,00146219

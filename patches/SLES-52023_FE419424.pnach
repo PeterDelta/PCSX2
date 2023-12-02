@@ -1,0 +1,6 @@
+gametitle=Manhunt (PAL-M) SLES-52023 FE419424
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,0054A1E0,word,08000001 //08000002

@@ -1,0 +1,20 @@
+gametitle=Garfield (PAL-M) SLES-52843 F8F8CD47
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00377b20,word,3c023f4c //3c023f19 Zoom
+patch=1,EE,00377b24,word,3442cccd //3442999a
+patch=1,EE,00314d78,word,08083bb4  //08083bb4 Y-Fov
+patch=1,EE,0020eed0,word,46020003
+patch=1,EE,0020eed4,word,3c013faa
+patch=1,EE,0020eed8,word,3421aaab
+patch=1,EE,0020eedc,word,4481f000
+patch=1,EE,0020eee0,word,461e0002
+patch=1,EE,0020eee4,word,080c535f
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,005C7D60,word,42700000 //41F00000

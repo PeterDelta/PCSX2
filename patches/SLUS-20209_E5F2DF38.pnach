@@ -1,0 +1,13 @@
+gametitle=Midnight Club II (NTSC-U) SLUS-20209 E5F2DF38
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0042FAB4,word,3FC71C65 //3F955553
+
+[60 FPS]
+author=asasega & PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00106F64,word,24070001
+patch=1,EE,00432164,word,3C888889

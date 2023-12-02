@@ -1,0 +1,7 @@
+gametitle=The Lord of the Rings - The Third Age (NTSC-U) SLUS-21027 EB198738
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,001C36EC,word,00000000
+patch=1,EE,0027A3B8,word,3C013F00

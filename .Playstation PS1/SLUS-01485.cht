@@ -1,0 +1,8 @@
+# Tony Hawk's Pro Skater 4 (USA) SLUS-01485
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 250
+A704054C 00010000

@@ -1,0 +1,8 @@
+gametitle=Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,001D7950,extended,28420002
+patch=1,EE,E0010001,extended,004DBA28
+patch=1,EE,001D7950,extended,28420004

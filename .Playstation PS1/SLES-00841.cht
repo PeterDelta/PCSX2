@@ -1,0 +1,9 @@
+# Oddworld - Abe's Oddysee (Spain) SLES-00841
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A709009C 00010000
+A70824E2 00180000
+A7082952 00180000
