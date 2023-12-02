@@ -1,0 +1,9 @@
+gametitle=Auto Modellista (PAL-M) SLES-51191 692C87AD
+
+[Mode 480p]
+author=PeterDelta
+comment=Force progressive scan when selecting 60hz
+patch=1,EE,E0030001,extended,011E1F9C
+patch=1,EE,20100334,extended,3c050000
+patch=1,EE,2010033C,extended,3c060050
+patch=1,EE,20100344,extended,3c070001
