@@ -1,0 +1,20 @@
+gametitle=Ben 10 - Ultimate Alien - Cosmic Destruction (PAL-M) SLES-55639 F4299325
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+comment=Renders the game in 16:9 aspect ratio
+patch=1,EE,00765154,word,3FE38E38 //3FAAAAAB
+
+[50 FPS]
+author=asasega and PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,E0010000,extended,004F8140
+patch=1,EE,201002F4,extended,10000011
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,0045A394,word,3C050000
+patch=1,EE,0045A39C,word,3C060052
+patch=1,EE,0045A3A4,word,3C070001

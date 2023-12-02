@@ -1,0 +1,9 @@
+gametitle=Final Fantasy X (PAL-S) SCES-50494 941BB7DE
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+patch=1,EE,0011B940,word,24040001 //24040002
+patch=1,EE,0057C7D8,word,3CCCCCCD //3D4CCCCD speed move
+patch=1,EE,0058D448,word,3FC00000 //40400000 speed text
+//patch=1,EE,203038EC,word,00000002 //00000001 speed global

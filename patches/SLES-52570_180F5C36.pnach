@@ -1,0 +1,8 @@
+gametitle=Area 51 (PAL-M) SLES-52570 180F5C36
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00382AD8,word,28620001 //28620002 slti v0,v1,0x0002
+patch=1,EE,E0010001,extended,005BE984
+patch=1,EE,20382AD8,extended,28620002

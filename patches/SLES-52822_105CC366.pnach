@@ -1,0 +1,6 @@
+gametitle=Prince of Persia - Warrior Within (PAL-M6) SLES-52822 105CC366
+
+[50/60 FPS]
+author=PeterDelta
+comment=Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,007B7554,word,00000001 //00000002

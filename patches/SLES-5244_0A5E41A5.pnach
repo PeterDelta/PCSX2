@@ -1,0 +1,11 @@
+gametitle=Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+patch=1,EE,0013A2EC,word,24040001 //24040002
+patch=1,EE,E0010001,extended,0045CDE4 //0045CCA8 more accuracy
+patch=1,EE,2013A2EC,extended,24040002
+patch=1,EE,0021019C,word,3C023F00 //3C023F80 enemy dogs speed
+patch=1,EE,002CE2B8,word,3C023F00 //3C023F80 character speed 
+patch=1,EE,0035B124,word,3F000000 //3F800000 speed golpe con objeto

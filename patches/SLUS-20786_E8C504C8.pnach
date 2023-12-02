@@ -1,0 +1,6 @@
+gametitle=Metal Arms - Glitch in the System (NTSC-U) SLUS-20786 E8C504C8
+
+[60 FPS]
+author=PeterDelta
+comment=Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,004B2C98,word,00000001 //00000002

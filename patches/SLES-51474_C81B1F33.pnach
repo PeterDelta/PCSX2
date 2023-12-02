@@ -1,0 +1,6 @@
+gametitle=BloodRayne (PAL-M) SLES-51474 C81B1F33
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,002CA1B8,word,28630001 //28630002

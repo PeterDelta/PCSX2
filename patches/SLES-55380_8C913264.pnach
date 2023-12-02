@@ -1,0 +1,15 @@
+gametitle=Sonic Unleashed (PAL-M) SLES-55380 8C913264
+
+[60 FPS]
+author=PeterDelta
+comment=480p mode and FPS unlocked. Might need enable EE Overclock to be stable.
+patch=1,EE,0087C3B4,word,00000032 //00000019
+patch=1,EE,00870A2C,word,3F99999A //4019999A
+
+[Mode 480p]
+author=PeterDelta
+comment=Unlocked progressive Mode 480p
+patch=1,EE,00671CFC,word,3C050000
+patch=1,EE,00671D04,word,3C060050
+patch=1,EE,00671D0C,word,3C070001
+patch=1,EE,00671FCC,word,3C090010
