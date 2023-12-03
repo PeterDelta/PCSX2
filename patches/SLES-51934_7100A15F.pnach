@@ -1,0 +1,6 @@
+gametitle=Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00510300,byte,0001

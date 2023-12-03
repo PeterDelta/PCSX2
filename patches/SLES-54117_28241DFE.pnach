@@ -1,0 +1,10 @@
+gametitle=Torrente 3 - The Protector (PAL-E) SLES-54117 28241DFE
+
+[Mode 480p]
+author=PeterDelta
+comment=Forces progressive scan mode 480p at startup.
+patch=1,EE,20102CD8,extended,00069403
+patch=1,EE,20A87D90,extended,000001E0
+patch=1,EE,E0020000,extended,0056FA3C
+patch=1,EE,20102CD8,extended,24120050
+patch=1,EE,20A87D90,extended,00000200

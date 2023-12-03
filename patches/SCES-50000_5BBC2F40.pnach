@@ -1,0 +1,10 @@
+gametitle=Ridge Racer V (PAL-M) SCES-50000 5BBC2F40
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,0033D568,word,3C88889A //3CA3D70A
+patch=1,EE,002DE020,word,34050052
+patch=1,EE,002DE024,word,24030002
+patch=1,EE,002DE028,word,0000000C
+patch=1,EE,002DE02C,word,03E00008

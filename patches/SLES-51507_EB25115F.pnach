@@ -1,0 +1,8 @@
+gametitle=Futurama (PAL-M5) SLES-51507 EB25115F
+
+[Mode 480p]
+author=PeterDelta
+comment=Forces progressive scan mode 480p at startup
+patch=1,EE,003EA94C,word,24110000
+patch=1,EE,003EA950,word,24120050
+patch=1,EE,003EA95C,word,24130001

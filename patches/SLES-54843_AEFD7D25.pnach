@@ -1,0 +1,8 @@
+gametitle=Crash of the Titans (PAL-R) SLES-54843 AEFD7D25
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan mode at startup
+patch=1,EE,0057E9D4,word,3C050000
+patch=1,EE,0057E9DC,word,3C060052
+patch=1,EE,0057E9E4,word,3C070001

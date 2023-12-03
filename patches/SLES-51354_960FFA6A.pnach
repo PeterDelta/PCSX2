@@ -1,0 +1,6 @@
+gametitle=Jurassic Park - Operation Genesis (PAL-M) SLES-51354 960FFA6A
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00564EE4,word,00000001 //00000002

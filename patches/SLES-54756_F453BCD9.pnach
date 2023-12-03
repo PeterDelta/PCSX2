@@ -1,0 +1,13 @@
+gametitle=Transformers - The Game (PAL-S-F) SLES-54756 F453BCD9
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+comment=Widescreen Hack native
+patch=1,EE,0043E3F0,word,24020002 //30420003
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,00382DA8,word,28420001 //28420002 
+patch=1,EE,00434EBC,word,3C013F00 //3C013F80

@@ -1,0 +1,13 @@
+gametitle=Ghostbusters (PAL-M) SCES-55571 7030A01C
+
+[50 FPS]
+author=PeterDelta
+comment=Requires having a save game before enabling it. Might need enable 300% EE Overclock.
+patch=1,EE,003194C0,word,00000000
+
+[Mode 480p]
+author=PeterDelta
+comment=Forces progressive scan mode 480p at startup
+patch=1,EE,00412E2C,word,3C050000
+patch=1,EE,00412E34,word,3C060050
+patch=1,EE,00412E3C,word,3C070001

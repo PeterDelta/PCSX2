@@ -1,0 +1,8 @@
+gametitle=XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00205404,word,1040FFFA
+patch=1,EE,E0010000,extended,01FFE32C
+patch=1,EE,20205404,extended,00000000

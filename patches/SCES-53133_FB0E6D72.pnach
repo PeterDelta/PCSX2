@@ -1,0 +1,9 @@
+gametitle=God of War (PAL-M) SCES-53133 FB0E6D72
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps. Need to fix fmv
+patch=1,EE,2027A474,extended,24110000
+patch=1,EE,2027A478,extended,24120052
+patch=1,EE,2027A484,extended,24130001
+patch=1,EE,2029D284,extended,3F555550

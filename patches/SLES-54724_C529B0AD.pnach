@@ -1,0 +1,8 @@
+gametitle=Spider-Man 3 (PAL-M) SLES-54724 C529B0AD
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,00404B1C,word,3C050000
+patch=1,EE,00404B24,word,3C060052
+patch=1,EE,00404B2C,word,3C070001
