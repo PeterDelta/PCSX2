@@ -1,0 +1,6 @@
+gametitle=Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,0049AAB8,word,0000003C

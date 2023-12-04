@@ -1,0 +1,7 @@
+gametitle=Echo Night - Beyond (PAL-E) SLES-53414 E078914A (spanish 1.0.1)
+
+[60 FPS]
+author=PeterDelta
+comment=Select 60 Hz to unlock fps. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,E001001E,extended,0028A348
+patch=1,EE,0028A348,extended,0000003C

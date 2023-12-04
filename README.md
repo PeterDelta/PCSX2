@@ -1,4 +1,5 @@
-### I will be publishing the list of patches that I have created or fixed to give a second life to these wonderful games that give us so much nostalgia. I publish those that are more advanced exposing what remains and what I am investigating, where I do not put anything in principle they are complete
+I will be compiling the list of patches that I have created or fixed to give a second life to these wonderful games that give us so much nostalgia.
+I publish those that are more advanced, exposing what remains and what I am investigating, where I do not put anything in principle they are complete.
 
 ## **(#)**
 - ¡Qué pasa Neng! El videojuego (PAL-S) SLES-54604 5A1D79D4
@@ -37,6 +38,7 @@
 ## **(D)**
 - Dark Angel (PAL-M) SLES-51333 5BE3F481 (NSTC-U) SLUS-20379 29BA2F04
 - Death by Degrees (PAL-M) SCES-52586 59683BB0
+- Defender (PAL-M) SLES-50714 8A6875C4
 - Destroy All Humans (PAL-M) SLES-53196 E3E8E893
 - Destroy All Humans 2 - Make War not Love (PAL-M) SLES-54384 743E10C2
 - Deus Ex (PAL-S) SLES-50808 3AC738AA secondary 7070DC2F
@@ -50,6 +52,7 @@
 - Driv3r (PAL-M) SLES-52153 E94FBF35
 - Driver - Parallel Lines (PAL-M) SLES-53556 D720770D
 ## **(E)**
+- Echo Night - Beyond (PAL-E) SLES-53414 BBF8C3D6 (PAL-E) SLES-53414 E078914A (spanish translation 1.0.1)
 - Enter the Matrix (PAL-M5) SLES-51203 F1370E83
 ## **(F)**
 - Ferrari Challenge - Trofeo Pirelli (PAL-M) SLES-55294 5EEFD8C0
@@ -59,7 +62,7 @@
 - Freedom Fighters (PAL-S) SLES-51471 6EEE06DD (PAL-I) SLES-51470 (PAL-E) SLES-51467 (PAL-G) SLES-51469 (PAL-F) SLES-51468
 - Futurama (PAL-M5) SLES-51507 EB25115F
 ## **(G)**
-- Ghostbusters (PAL-M) SCES-55571 7030A01C Valid for NTSC version
+- Ghostbusters (PAL-M) SCES-55571 7030A01C - Valid for NTSC version
 - Ghosthunter (PAL-M) SCES-51463 3BD85DA4
 - Ghost Rider (PAL-M) SLES-54317 F9DD17AA
 - Gift (PAL-S) SLES-50299 212D709B
@@ -69,7 +72,7 @@
 - Getaway (PAL-M) SCES-51159 458485EF
 - God of War (PAL-M) SCES-53133 FB0E6D72 ``Need to fix fmv, gameplay ok``
 - God of War II (PAL-M) SCES-54206 44A8A22A ``Need to fix fmv, gameplay ok``
-- GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC Valid for NTSC version
+- GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC - Valid for NTSC version
 - Gran Turismo 3 (PAL-M) SCES-50294 B590CE04
 - Gran Turismo 4 (PAL-M) SCES-51719 44A61C8F ``Need: speed IA more exact``
 - Gun (PAL-M) SLES-53523 98D7BF5E
@@ -137,6 +140,7 @@
 - Ratchet & Clank - El tamaño importa (Size Matters) (PAL-M) SCES-55019 FCB981D5
 - Red Dead Revolver (PAL-M) SLES-52478 E2E67E23
 - Red Faction (PAL-M) SLES-50277 12526265
+- Red Faction II (PAL-M3) SLES-51133 1629D655
 - Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9 ``Need: more speeds``
 - Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 (PAL-E) SLES-51449 461C79A5
 - Ridge Racer V (PAL-M) SCES-50000 5BBC2F40 
@@ -144,9 +148,11 @@
 - Rogue Trooper (PAL-M) SLES-52921 03C8EA64
 - Rune - Viking Warlord (PAL-S) SLES-50339 7DB392C5 secondary D51BA097 (PAL-E) SLES-50335 52638022 (NTSC-U) SLUS-20109
 ## **(S)**
+- Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
 - Señor de los Anillos - Comunidad del anillo (Lord of the Rings: Fellowship of the Ring) (PAL-M) SLES-50988 4C3F192D
 - Señor de los Anillos - El Retorno del Rey (Lord of the Rings: The Return of the King) (PAL-S) SLES-52020 9771C478
 - Señor de los Anillos - La Tercera Edad (Lord of the Rings: The Third Age) (PAL-S) SLES-52805 614F4CF4
+- ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
 - Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5 ``Need: more speeds``
 - Simpsons Game, The (PAL-S-I) SLES-54906 565B7E04
@@ -165,7 +171,8 @@
 - Star Wars - Episode III - La venganza de los Sith (Revenge of the Sith) (PAL-M3) SLES-53155 99AD19EE
 - Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, image a few pixels down``
 - Suffering, The - Los lazos que nos unen (Ties that Bind) (PAL-M) SLES-53527 AC4B758C
-- Swords of Destiny (PAL-M) SLES-53699 54D6BEE3 ``Speeds missing``
+- SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
+- Swords of Destiny (PAL-M) SLES-53699 54D6BEE3 ``Need: Speeds missing``
 ## **(T)**
 - Terminator 3 - Rise Of The Machines (PAL-S) SLES-52039 BE408EFF
 - Test Drive Unlimited (PAL-M) SLES-53753 C2911A79 ``Need: more speeds``
@@ -186,7 +193,10 @@
 - True Crime - New York City (PAL-S) SLES-53618 B1AC3BEB secondary B2D44C6C
 - TY the Tasmanian Tiger (PAL-M) SLES-51220 D59D3252 ``Need: more speed modifiers`
 - TY the Tasmanian Tiger 2 - Bush Rescue (PAL-M) SLES-52709 B9FDB9EE
+- TY the Tasmanian Tiger 3 - Night of the Quinkan (PAL-M) SLES-53636 64E8F1DC
 ## **(W)**
+- Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
+- Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
 - Warriors, The (PAL-M) SLES-53443 FA3C1346 ``Need ?:fps increases but the change is not very noticeable``
 ## **(X)**
 - XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452 (NTSC-U) SLUS-20632 56B36513

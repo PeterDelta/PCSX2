@@ -1,0 +1,6 @@
+gametitle=Defender (PAL-M) SLES-50714 8A6875C4
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00228DC0,word,00000000 //1040FFFD
