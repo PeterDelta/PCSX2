@@ -1,0 +1,6 @@
+gametitle=XIII (PAL-M) SLES-51244 200BC0E6
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00191C64,word,28420001 //28420002

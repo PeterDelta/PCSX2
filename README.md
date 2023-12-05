@@ -4,6 +4,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 
 ## **(#)**
 - ¡Qué pasa Neng! El videojuego (PAL-S) SLES-54604 5A1D79D4
+- 007 - Everything or Nothing (PAL-M) SLES-52005 5FFFDE40 ``In progress``
 - 4 Fantastic (PAL-S) SLES-53147 F67E4351 (PAL-E) SLES-53143 CC14A552
 - 24 - The Game (PAL-M) SCES-53358 D6A99F53
 ## **(A)**
@@ -161,22 +162,23 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sonic Unleashed (PAL-M) SLES-55380 8C913264 ``Review``
 - Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
 - Spider-Man 3 (PAL-M) SLES-54724 C529B0AD ``Review``
+- Spider-Man - Friend or Foe (PAL-M) SLES-54901 678BE0A5
 - Spiderwick Chronicles, The (PAL-M) SLES-55109 D5D1D002
 - Splashdown (PAL-M) SLES-50486 E9C544F7
 - Spy Hunter - Nowhere to Run (PAL-M) SLES-54130 4731578B ``Need: fix speed ocean``
 - Star Wars - Battlefront (PAL-M) SLES-52545 503BF9E1
 - Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541 secondary B68D35CA
-- Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
 - Star Wars - Episode III - Revenge of the Sith (PAL-M3) SLES-53155 99AD19EE
+- Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
 - Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, image a few pixels down``
 - Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 - SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
 - Swords of Destiny (PAL-M) SLES-53699 54D6BEE3 ``Need: Speeds missing``
 ## **(T)**
-- Terminator 3 - Rise Of The Machines (PAL-S) SLES-52039 BE408EFF
-- Test Drive Unlimited (PAL-M) SLES-53753 C2911A79 ``Need: more speeds``
 - Tak - The Power of Juju (PAL-S) SLES-52286 542766CA (PAL-E) SLES-52011 D9B62DD3
 - Tak 2 - The Staff of Dreams (PAL-M) SLES-53036 F1A69850
+- Terminator 3 - Rise Of The Machines (PAL-S) SLES-52039 BE408EFF
+- Test Drive Unlimited (PAL-M) SLES-53753 C2911A79 ``Need: more speeds``
 - Teenage Mutant Ninja Turtles (PAL-M5) SLES-54478 D76BF975
 - Teenage Mutant Ninja Turtles 2 - Battle Nexus (PAL-M5) SLES-53017 C7375C85
 - Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (PAL-M) SLES-53850 3692A951
@@ -199,3 +201,4 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Warriors, The (PAL-M) SLES-53443 FA3C1346 ``Need ?:fps increases but the change is not very noticeable``
 ## **(X)**
 - XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452 (NTSC-U) SLUS-20632 56B36513
+- XIII (PAL-M) SLES-51244 200BC0E6
