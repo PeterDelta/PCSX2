@@ -1,4 +1,5 @@
-I will be compiling the list of patches that I have created or fixed to give a second life to these wonderful games that give us so much nostalgia.
+Compilation of the 50/60 fps patches for PS2 that I have created or fixed, to give a second life to these wonderful games that give us so much nostalgic and keep them organized.
+
 I publish those that are more advanced, exposing what remains and what I am investigating, where I do not put anything in principle they are complete.
 
 ## **(#)**
