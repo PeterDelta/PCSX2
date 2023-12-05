@@ -4,7 +4,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 
 ## **(#)**
 - ¡Qué pasa Neng! El videojuego (PAL-S) SLES-54604 5A1D79D4
-- 4 Fantásticos (Fantastic four) (PAL-S) SLES-53147 F67E4351 (PAL-E) SLES-53143 CC14A552
+- 4 Fantastic (PAL-S) SLES-53147 F67E4351 (PAL-E) SLES-53143 CC14A552
 - 24 - The Game (PAL-M) SCES-53358 D6A99F53
 ## **(A)**
 - Aeon Flux (PAL-M) SLES-54169 761CABB3
@@ -30,11 +30,9 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Conflict - Global Storm (PAL-M) SLES-52573 73973370
 - Coraline (PAL-M) SLES-55470 4F82849C
 - Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
-- Crónicas de Narnia - El León, La Bruja y El Armario (Lion Witch and The Wardrobe) (PAL-S) SLES-53710 F59EA4FB
-- Crónicas de Narnia - El Principe Caspian (Chronicles of Narnia - Prince Caspian) (PAL-M) SLES-55144 63A8E32A
-- Chronicles of Narnia - The Lion Witch and The Wardrobe (NTSC-U) SLUS-21082 7A9723B8
-- Chronicles of Narnia - Prince Caspian (NTSC-U) SLUS-21756 E43E46E6
-- Crash of the Titans (PAL-M) SLES-54841 ECA6BFC5 (PAL-M) SLES-54842 (PAL-R) SLES-54843 ``Need: image a few pixels down.``
+- Chronicles of Narnia - The Lion Witch and The Wardrobe (PAL-S) SLES-53710 F59EA4FB (NTSC-U) SLUS-21082
+- Chronicles of Narnia - Prince Caspian (PAL-M) SLES-55144 63A8E32A (NTSC-U) SLUS-21756
+- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843 ``Need: image a few pixels down``
 - Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 ## **(D)**
 - Dark Angel (PAL-M) SLES-51333 5BE3F481 (NSTC-U) SLUS-20379 29BA2F04
@@ -103,6 +101,9 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Lara Croft Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
 - Looney Tunes Space Race (PAL-M) SLES-50487 5E641834
 - Looney Tunes Back in Action (PAL-M) SLES-51794 26F6F521
+- Lord of the Rings: Fellowship of the Ring (PAL-M) SLES-50988 4C3F192D
+- Lord of the Rings: The Return of the King (PAL-S) SLES-52020 9771C478
+- Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4
 ## **(M)**
 - Madagascar (PAL-S) SLES-53246 D3051E54 (PAL-E) SLES-53225 D3051E54
 - Manhunt (PAL-M) SLES-52023 FE419424
@@ -127,18 +128,18 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Need for Speed - Underground 2 (PAL-M) SLES-52725 CFB873AD
 - Need for Speed - Most Wanted (PAL-M) SLES-53559 CA2A1B04
 - Need for Speed - Carbono (PAL-S-I) SLES-54323 4078F8F1
-- Need for Speed - ProStreet (PAL-S-I) SLES-55004
+- Need for Speed - ProStreet (PAL-S-I) SLES-55004 9E457DD6
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
 - Portal Runner (PAL-M) SLES-50444 802EBFF7
-- Prince of Persia - Las arenas del tiempo (The Sands of Time) (PAL-M5) SLES-51918 4B58A7A8
-- Prince of Persia - Las dos coronas (The Two Thrones) (PAL-M5) SLES-53777 6FC40BAA
-- Prince of Persia - El alma del guerrero (Warrior Within) (PAL-M6) SLES-52822 105CC366
+- Prince of Persia - The Sands of Time (PAL-M5) SLES-51918 4B58A7A8
+- Prince of Persia - The Two Thrones (PAL-M5) SLES-53777 6FC40BAA
+- Prince of Persia - Warrior Within (PAL-M6) SLES-52822 105CC366
 - Psi-Ops - The Mindgate Conspiracy (PAL-M) SLES-52702 5E7EB5E2
 - Psychonauts (PAL-M) SLES-53830 6B97BBC8
 - Power Rangers - Super Legends (PAL-M) SLES-54835 3E1661EF
 ## **(R)**
-- Ratchet & Clank - El tamaño importa (Size Matters) (PAL-M) SCES-55019 FCB981D5
+- Ratchet & Clank - Size Matters (PAL-M) SCES-55019 FCB981D5
 - Red Dead Revolver (PAL-M) SLES-52478 E2E67E23
 - Red Faction (PAL-M) SLES-50277 12526265
 - Red Faction II (PAL-M3) SLES-51133 1629D655
@@ -147,12 +148,9 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Ridge Racer V (PAL-M) SCES-50000 5BBC2F40 
 - Robots (PAL-M) SLES-53052 B860F5B6
 - Rogue Trooper (PAL-M) SLES-52921 03C8EA64
-- Rune - Viking Warlord (PAL-S) SLES-50339 7DB392C5 secondary D51BA097 (PAL-E) SLES-50335 52638022 (NTSC-U) SLUS-20109
+- Rune - Viking Warlord (PAL-S) SLES-50339 7DB392C5 secondary D51BA097 (PAL-E) SLES-50335 (NTSC-U) SLUS-20109
 ## **(S)**
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
-- Señor de los Anillos - Comunidad del anillo (Lord of the Rings: Fellowship of the Ring) (PAL-M) SLES-50988 4C3F192D
-- Señor de los Anillos - El Retorno del Rey (Lord of the Rings: The Return of the King) (PAL-S) SLES-52020 9771C478
-- Señor de los Anillos - La Tercera Edad (Lord of the Rings: The Third Age) (PAL-S) SLES-52805 614F4CF4
 - ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
 - Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5 ``Need: more speeds``
@@ -168,21 +166,21 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Spy Hunter - Nowhere to Run (PAL-M) SLES-54130 4731578B ``Need: fix speed ocean``
 - Star Wars - Battlefront (PAL-M) SLES-52545 503BF9E1
 - Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541 secondary B68D35CA
-- Star Wars - El poder de la fuerza (The Force Unleashed) (PAL-M) SLES-54659 DAF2145C
-- Star Wars - Episode III - La venganza de los Sith (Revenge of the Sith) (PAL-M3) SLES-53155 99AD19EE
+- Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
+- Star Wars - Episode III - Revenge of the Sith (PAL-M3) SLES-53155 99AD19EE
 - Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, image a few pixels down``
-- Suffering, The - Los lazos que nos unen (Ties that Bind) (PAL-M) SLES-53527 AC4B758C
+- Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 - SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
 - Swords of Destiny (PAL-M) SLES-53699 54D6BEE3 ``Need: Speeds missing``
 ## **(T)**
 - Terminator 3 - Rise Of The Machines (PAL-S) SLES-52039 BE408EFF
 - Test Drive Unlimited (PAL-M) SLES-53753 C2911A79 ``Need: more speeds``
-- Tak y el Poder Juju (PAL-S) SLES-52286 542766CA (The Power of Juju) (PAL-E) SLES-52011 D9B62DD3
-- Tak 2 - El bastón de los sueños (The Staff of Dreams) (PAL-M) SLES-53036 F1A69850
+- Tak - The Power of Juju (PAL-S) SLES-52286 542766CA (PAL-E) SLES-52011 D9B62DD3
+- Tak 2 - The Staff of Dreams (PAL-M) SLES-53036 F1A69850
 - Teenage Mutant Ninja Turtles (PAL-M5) SLES-54478 D76BF975
 - Teenage Mutant Ninja Turtles 2 - Battle Nexus (PAL-M5) SLES-53017 C7375C85
 - Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (PAL-M) SLES-53850 3692A951
-- The Thing (PAL-M4) SLES-50975 F6F9A91D
+- Thing, The (PAL-M4) SLES-50975 F6F9A91D
 - Tom Clancy's Rainbow Six 3 (PAL-M) SLES-52288 28A2774C
 - Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903 ``Need: speed IA more exact``
 - Torrente 3 - El Protector (PAL-S) SLES-53979 E71273AC (PAL-E) SLES-54117 28241DFE
