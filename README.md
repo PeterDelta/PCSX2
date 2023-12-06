@@ -4,7 +4,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 
 ## **(#)**
 - ¡Qué pasa Neng! El videojuego (PAL-S) SLES-54604 5A1D79D4
-- 007 - Everything or Nothing (PAL-M) SLES-52005 5FFFDE40 ``In progress``
+- 007 - Everything or Nothing (PAL-M) SLES-52005 5FFFDE40 ``playable but incomplete``
 - 4 Fantastic (PAL-S) SLES-53147 F67E4351 (PAL-E) SLES-53143 CC14A552
 - 24 - The Game (PAL-M) SCES-53358 D6A99F53
 ## **(A)**
@@ -14,6 +14,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Area 51 (PAL-M) SLES-52570 180F5C36 (PAL-M) SLES-53075 C4ACBCF0
 - Army Men - RTS (PAL-M) SLES-50706 DAB59034 (PAL-E) SLES-50434 EBB067E7
 - Army Men - Sarge's War (PAL-M) SLES-52587 95CFD603
+- Ant Bully, The (PAL-M) SLES-54152 802F7B69
 - Astro Boy (PAL-M) SLES-52486 3751BD05
 - Auto Modellista (PAL-M) SLES-51191 692C87AD
 ## **(B)**
@@ -43,10 +44,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Destroy All Humans 2 - Make War not Love (PAL-M) SLES-54384 743E10C2
 - Deus Ex (PAL-S) SLES-50808 3AC738AA secondary 7070DC2F
 - Disney Chicken Little (PAL-M) SLES-53739 AB75D540
-- Disney Chicken Little - As en Acción (PAL-S) SLES-54452 F7D63335
-- Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
-- Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029 
+- Disney Chicken Little - Ace in action (PAL-S) SLES-54452 F7D63335
+- Disney Meet the Robinsons (PAL-M) SLES-54510 C76031E8
 - Disney G-Force (PAL-M) SLES-55499 AB761209 (PAL-R) SLES-55502 09BF522A
+- Disney Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
+- Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
+- Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029
 - Dragon Quest VIII (PAL-M) SLES-53974 945FBF31
 - Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 - Driv3r (PAL-M) SLES-52153 E94FBF35
@@ -79,7 +82,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(H)**
 - Half-Life (PAL-S) SLES-50509 F9E3CF90
 - Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
-- Hobbit, The (PAL-M) SLES-51723 554A62A4
+- Hobbit, The (PAL-M) SLES-51723 554A62A4 (PAL-R) SLES-52247
 ## **(I)**
 - Incredible Hulk, The - Ultimate Destruction (PAL-M) SLES-53430 6B3D50A5
 ## **(J)**
@@ -100,6 +103,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(L)**
 - Lara Croft Tomb Raider - Anniversary (PAL-M) SLES-54674 A629A376
 - Lara Croft Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
+- Lemony Snicket's A Series of Unfortunate Events (PAL-S) SLES-52825 43A02228
 - Looney Tunes Space Race (PAL-M) SLES-50487 5E641834
 - Looney Tunes Back in Action (PAL-M) SLES-51794 26F6F521
 - Lord of the Rings: Fellowship of the Ring (PAL-M) SLES-50988 4C3F192D
@@ -145,10 +149,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Red Faction (PAL-M) SLES-50277 12526265
 - Red Faction II (PAL-M3) SLES-51133 1629D655
 - Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9 ``Need: more speeds``
-- Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 (PAL-E) SLES-51449 461C79A5
+- Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 (PAL-E) SLES-51449
 - Ridge Racer V (PAL-M) SCES-50000 5BBC2F40 
 - Robots (PAL-M) SLES-53052 B860F5B6
 - Rogue Trooper (PAL-M) SLES-52921 03C8EA64
+- Rugrats Royal Ransom (PAL-S) SLES-51385 4603820E
 - Rune - Viking Warlord (PAL-S) SLES-50339 7DB392C5 secondary D51BA097 (PAL-E) SLES-50335 (NTSC-U) SLUS-20109
 ## **(S)**
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
@@ -172,6 +177,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
 - Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, image a few pixels down``
 - Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
+- Surf's Up (PAL-M) SLES-54583 904A9089
 - SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
 - Swords of Destiny (PAL-M) SLES-53699 54D6BEE3 ``Need: Speeds missing``
 ## **(T)**
