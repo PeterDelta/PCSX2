@@ -1,0 +1,10 @@
+gametitle=Ultimate Spiderman (PAL-M) SLES-53391 FDD12792
+
+[50 FPS]
+author=PeterDelta and asasega
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00311F18,word,00000000
+patch=1,EE,0069FE20,word,00000001
+patch=1,EE,E0020001,extended,01C83460
+patch=1,EE,20311F18,extended,4501FFE5
+patch=1,EE,2069FE20,extended,00000002

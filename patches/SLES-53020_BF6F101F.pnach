@@ -1,0 +1,6 @@
+gametitle=Ghost in the Shell - Stand Alone Complex (PAL-M) SLES-53020 BF6F101F
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,0039117C,word,00000001 //00000002

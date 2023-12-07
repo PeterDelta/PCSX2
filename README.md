@@ -18,6 +18,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Astro Boy (PAL-M) SLES-52486 3751BD05
 - Auto Modellista (PAL-M) SLES-51191 692C87AD
 ## **(B)**
+- Bad Boys II (PAL-M) SLES-52362 5D0235B7
 - Batman - Rise of Sin Tzu (PAL-M) SLES-51756 AAA40B75
 - Battlefield 2 - Modern Combat (PAL-M) SLES-53729 0BC3B265
 - Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9 ``Need: 60fps, image a few pixels down.``
@@ -67,6 +68,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(G)**
 - Ghostbusters (PAL-M) SCES-55571 7030A01C - Valid for NTSC version
 - Ghosthunter (PAL-M) SCES-51463 3BD85DA4
+- Ghost in the Shell - Stand Alone Complex (PAL-M) SLES-53020 BF6F101F
 - Ghost Rider (PAL-M) SLES-54317 F9DD17AA
 - Gift (PAL-S) SLES-50299 212D709B
 - Garfield (PAL-M) SLES-52843 F8F8CD47
@@ -120,7 +122,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Metal Arms - Glitch in the System (PAL-M) SLES-51758 AF399CCC (NTSC-U) SLUS-20786 E8C504C8
 - Metal Gear Solid 2 - Sons Of Liberty (PAL-S) SLES-50385 A633A4BF
 - Metal Gear Solid 2 Substance (PAL-M) SLES-82009 093E7D52
-- Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93
+- Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93 - Valid for other PAL versions
 - Midnight Club - Street Racing (PAL-M) SLES-50071 831078BD
 - Midnight Club II (PAL-M) SLES-51054 ACB1989A
 - Midnight Club 3 - DUB Edition (PAL-M) SLES-52942 EBE1972D
@@ -198,9 +200,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - TriggerMan (PAL-M) SLES-53076 C92321FF
 - True Crime - Streets of L.A. (PAL-M) SLES-51754 6B9AEA0D secondary 29E9D83C
 - True Crime - New York City (PAL-S) SLES-53618 B1AC3BEB secondary B2D44C6C
-- TY the Tasmanian Tiger (PAL-M) SLES-51220 D59D3252 ``Need: more speed modifiers`
+- TY the Tasmanian Tiger (PAL-M) SLES-51220 D59D3252 ``Need: more speed modifiers``
 - TY the Tasmanian Tiger 2 - Bush Rescue (PAL-M) SLES-52709 B9FDB9EE
 - TY the Tasmanian Tiger 3 - Night of the Quinkan (PAL-M) SLES-53636 64E8F1DC
+## **(U)**
+- Ultimate Spiderman (PAL-M) SLES-53391 FDD12792
 ## **(W)**
 - Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
 - Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
