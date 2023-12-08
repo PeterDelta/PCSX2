@@ -1,0 +1,6 @@
+gametitle=Whirl Tour (PAL-M) SLES-51126 FB45FA8E
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,0027B36C,word,42480000

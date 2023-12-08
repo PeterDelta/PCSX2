@@ -28,6 +28,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - BloodRayne (PAL-M) SLES-51474 C81B1F33
 - BloodRayne 2 (PAL-M) SLES-53831 78EF5FF7
 ## **(C)**
+- Call of Duty 2 - Big Red One (PAL-M3) SLES-53416 DFB26142
+- Call of Duty 3 (PAL-M3) SLES-54167 247F025E
 - Codename - Kids Next Door Operation V.I.D.E.O.G.A.M.E. SLES-53812 A38C6B77
 - Commandos - Strike Force (PAL-M) SLES-52768 5E1161DF
 - Conflict - Global Storm (PAL-M) SLES-52573 73973370
@@ -51,6 +53,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Disney Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
 - Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
 - Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029
+- Dog's Life (PAL-M) SCES-51248 531061F2
 - Dragon Quest VIII (PAL-M) SLES-53974 945FBF31
 - Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 - Driv3r (PAL-M) SLES-52153 E94FBF35
@@ -82,7 +85,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Gran Turismo 4 (PAL-M) SCES-51719 44A61C8F ``Need: speed IA more exact``
 - Gun (PAL-M) SLES-53523 98D7BF5E
 ## **(H)**
-- Half-Life (PAL-S) SLES-50509 F9E3CF90
+- Half-Life (PAL-S) SLES-50509 F9E3CF90 - Valid for other PAL versions
 - Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
 - Hobbit, The (PAL-M) SLES-51723 554A62A4 (PAL-R) SLES-52247
 ## **(I)**
@@ -124,8 +127,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Metal Gear Solid 2 Substance (PAL-M) SLES-82009 093E7D52
 - Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93 - Valid for other PAL versions
 - Midnight Club - Street Racing (PAL-M) SLES-50071 831078BD
-- Midnight Club II (PAL-M) SLES-51054 ACB1989A
-- Midnight Club 3 - DUB Edition (PAL-M) SLES-52942 EBE1972D
+- Midnight Club II (PAL-M) SLES-51054 ACB1989A (NTSC-U) SLUS-20209 E5F2DF38
+- Midnight Club 3 - DUB Edition (PAL-M) SLES-52942 EBE1972D (NTSC-U) SLUS-21029 4A0E5B3A v1 0DD3417A v2
 - MTV Pimp My Ride (PAL-M) SLES-54632 CB15F3F3
 - Mummy Returns, The (PAL-M) SLES-50510 B9254C98
 ## **(N)**
@@ -204,11 +207,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - TY the Tasmanian Tiger 2 - Bush Rescue (PAL-M) SLES-52709 B9FDB9EE
 - TY the Tasmanian Tiger 3 - Night of the Quinkan (PAL-M) SLES-53636 64E8F1DC
 ## **(U)**
-- Ultimate Spiderman (PAL-M) SLES-53391 FDD12792
+- Ultimate Spiderman (PAL-M) SLES-53391 FDD12792 - Valid for other PAL versions and NTSC
 ## **(W)**
 - Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
 - Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
 - Warriors, The (PAL-M) SLES-53443 FA3C1346 ``Need ?:fps increases but the change is not very noticeable``
+- Whirl Tour (PAL-M) SLES-51126 FB45FA8E
 ## **(X)**
 - XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452 (NTSC-U) SLUS-20632 56B36513
 - XIII (PAL-M) SLES-51244 200BC0E6
