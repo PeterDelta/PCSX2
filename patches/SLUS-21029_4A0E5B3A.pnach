@@ -4,7 +4,7 @@ gametitle=Midnight Club 3 - DUB Edition (NTSC-U) SLUS-21029 4A0E5B3A v1.0
 gsaspectratio=16:9
 author=PeterDelta
 comment=Renders the game in 16:9 aspect ratio
-patch=1,EE,00617AB0,word,3FC77774 //3F955554
+patch=1,EE,00617AB0,word,3FC71CEB //3F955554
 
 [60 FPS]
 author=PeterDelta
