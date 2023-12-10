@@ -21,7 +21,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Bad Boys II (PAL-M) SLES-52362 5D0235B7
 - Batman - Rise of Sin Tzu (PAL-M) SLES-51756 AAA40B75
 - Battlefield 2 - Modern Combat (PAL-M) SLES-53729 0BC3B265
-- Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9 ``Need: 60fps, image a few pixels down.``
+- Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9 ``Need: 60fps, move image down``
 - Ben 10 - Alien Force - Vilgax Attacks (PAL-M) SLES-55592 35C84D80
 - Ben 10 - Ultimate Alien - Cosmic Destruction (PAL-M) SLES-55639 F4299325
 - Black (PAL-M) SLES-53886 ADDFF505
@@ -37,7 +37,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
 - Chronicles of Narnia - The Lion Witch and The Wardrobe (PAL-S) SLES-53710 F59EA4FB (NTSC-U) SLUS-21082
 - Chronicles of Narnia - Prince Caspian (PAL-M) SLES-55144 63A8E32A (NTSC-U) SLUS-21756
-- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843 ``Need: image a few pixels down``
+- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843 ``Need: move image down``
 - Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 ## **(D)**
 - Dark Angel (PAL-M) SLES-51333 5BE3F481 (NSTC-U) SLUS-20379 29BA2F04
@@ -139,6 +139,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Need for Speed - Most Wanted (PAL-M) SLES-53559 CA2A1B04
 - Need for Speed - Carbono (PAL-S-I) SLES-54323 4078F8F1
 - Need for Speed - ProStreet (PAL-S-I) SLES-55004 9E457DD6
+## **(O)**
+- Open Season (Colegas en el bosque) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467 06BBB610
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
 - Portal Runner (PAL-M) SLES-50444 802EBFF7
@@ -164,6 +166,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
 - ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
+- Silent Hill 2 - Director's Cut (PAL-M) SLES-51156 6BBD4932
 - Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5 ``Need: more speeds``
 - Simpsons Game, The (PAL-S-I) SLES-54906 565B7E04
 - Smuggler's Run (PAL-M) SLES-50061 95416482
@@ -180,7 +183,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541 secondary B68D35CA
 - Star Wars - Episode III - Revenge of the Sith (PAL-M3) SLES-53155 99AD19EE
 - Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
-- Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, image a few pixels down``
+- Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, move image down``
 - Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 - Surf's Up (PAL-M) SLES-54583 904A9089
 - SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
@@ -211,7 +214,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(W)**
 - Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
 - Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
-- Warriors, The (PAL-M) SLES-53443 FA3C1346 ``Need ?:fps increases but the change is not very noticeable``
+- Warriors, The (PAL-M) SLES-53443 FA3C1346 - Valid for NTSC version
 - Whirl Tour (PAL-M) SLES-51126 FB45FA8E
 ## **(X)**
 - XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452 (NTSC-U) SLUS-20632 56B36513
