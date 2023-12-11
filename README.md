@@ -27,6 +27,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Black (PAL-M) SLES-53886 ADDFF505
 - BloodRayne (PAL-M) SLES-51474 C81B1F33
 - BloodRayne 2 (PAL-M) SLES-53831 78EF5FF7
+- Blowout (PAL-E) SLES-52989 0158297B
+- Brave - The Search for Spirit Dancer (PAL-M) SCES-51635 27D961D2 (NTSC-U) SLUS-21127 17E7E24E
 ## **(C)**
 - Call of Duty 2 - Big Red One (PAL-M3) SLES-53416 DFB26142
 - Call of Duty 3 (PAL-M3) SLES-54167 247F025E
@@ -118,6 +120,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Madagascar (PAL-S) SLES-53246 D3051E54 (PAL-E) SLES-53225 D3051E54
 - Manhunt (PAL-M) SLES-52023 FE419424
 - Manhunt 2 (PAL-M) SLES-54819 887AD3A0
+- Marc Ecko's Getting Up - Contents Under Pressure (PAL-M) SLES-53459 F73AC0A0 (NTSC-U) SLUS-21032
 - Matrix - Path of Neo (PAL-M) SLES-53799 13D5330A
 - Max Payne (PAL-M) SLES-50326 52E0597D secondary C669B63C MAIN_P.RUN
 - Max Payne 2 - Fall of Max Payne (PAL-S) SLES-52256 D13BEF2C (PAL-E) SLES-51954 564F352C
@@ -140,7 +143,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Need for Speed - Carbono (PAL-S-I) SLES-54323 4078F8F1
 - Need for Speed - ProStreet (PAL-S-I) SLES-55004 9E457DD6
 ## **(O)**
-- Open Season (Colegas en el bosque) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467 06BBB610
+- Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467 06BBB610
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
 - Portal Runner (PAL-M) SLES-50444 802EBFF7

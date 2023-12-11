@@ -1,0 +1,6 @@
+gametitle=Marc Ecko's Getting Up - Contents Under Pressure (PAL-M) SLES-53459 F73AC0A0
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001CC7A8,word,00000001 //00000002
