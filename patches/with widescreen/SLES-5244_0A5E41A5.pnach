@@ -1,0 +1,23 @@
+gametitle=Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht, Pelvicthrustman and nemesis2000
+comment=Renders the game in 16:9 aspect ratio
+patch=1,EE,001485c4,word,3c013f40 // 00000000 hor fov By ElHecht
+patch=1,EE,001485d0,word,4481f000 // 00000000
+patch=1,EE,00148600,word,461ed683 // 4600d647
+patch=1,EE,00148614,word,4600d647 // 00000000
+patch=1,EE,002f9e44,word,3c0203c0 // 3c020008 FMV top By Pelvicthrustman
+patch=1,EE,002f9e7c,word,340201a4 // 2662ffe0 FMV bottom
+patch=1,EE,001a9980,word,24030000 // 24030001 Black borders fix By Nemesis2000
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+patch=1,EE,0013A2EC,word,24040001 //24040002
+patch=1,EE,E0010001,extended,0045CDE4 //0045CCA8 more accuracy
+patch=1,EE,2013A2EC,extended,24040002
+patch=1,EE,0021019C,word,3C023F00 //3C023F80 enemy dogs speed
+patch=1,EE,002CE2B8,word,3C023F00 //3C023F80 character speed 
+patch=1,EE,0035B124,word,3F000000 //3F800000 speed golpe con objeto

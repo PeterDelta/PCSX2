@@ -21,6 +21,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Bad Boys II (PAL-M) SLES-52362 5D0235B7
 - Batman - Rise of Sin Tzu (PAL-M) SLES-51756 AAA40B75
 - Battlefield 2 - Modern Combat (PAL-M) SLES-53729 0BC3B265
+- Battlestar Galactica (PAL-M) SLES-51702 6062787F
 - Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9 ``Need: 60fps, move image down``
 - Ben 10 - Alien Force - Vilgax Attacks (PAL-M) SLES-55592 35C84D80
 - Ben 10 - Ultimate Alien - Cosmic Destruction (PAL-M) SLES-55639 F4299325
@@ -158,7 +159,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Red Dead Revolver (PAL-M) SLES-52478 E2E67E23
 - Red Faction (PAL-M) SLES-50277 12526265
 - Red Faction II (PAL-M3) SLES-51133 1629D655
-- Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9 ``Need: more speeds``
+- Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9 (A5434CCF spanish 1.0) ``Need: more speeds``
 - Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 (PAL-E) SLES-51449
 - Ridge Racer V (PAL-M) SCES-50000 5BBC2F40 
 - Robots (PAL-M) SLES-53052 B860F5B6

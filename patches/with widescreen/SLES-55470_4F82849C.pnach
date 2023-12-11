@@ -1,0 +1,15 @@
+gametitle=Coraline (PAL-M) SLES-55470 4F82849C
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+comment=Renders the game in 16:9 aspect ratio
+patch=1,EE,0026432C,word,3C014440 //3C014480 (Increases horiz. axis)
+patch=1,EE,001A6548,word,3C013C2E //3C013C0E Render fix
+patch=1,EE,00225ea8,word,3c014000 //3c014299 Get rid of black bar
+patch=1,EE,00225eac,word,00000000 //3421999a
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001002EC,word,00000000 //46000834

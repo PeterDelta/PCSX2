@@ -4,7 +4,7 @@ gametitle=Freedom Fighters (PAL-F) SLES-51468 BADCA543 secondary A6698B41
 gsaspectratio=16:9
 author=PeterDelta
 comment=Enable native widescreen
-patch=1,EE,0056987C,word,00000001
+patch=1,EE,0056987C,byte,01
 
 [60 FPS]
 author=PeterDelta
