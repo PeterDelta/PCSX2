@@ -8,6 +8,11 @@ patch=1,EE,21BD8268,byte,01 //00000000 In-game option
 patch=1,EE,21BD82A2,byte,10 //40 Zoom 1
 patch=1,EE,21BD82A8,word,3F000000 //3F2AAAAA Zoom 2
 
+[50 FPS]
+author=IWILLCRAFT
+description=Patches the game to run at 50 FPS (Might need 180% EE Overclock to be stable).
+patch=1,EE,204924B8,extended,24020000 //24020001
+
 [60 FPS]
 author=PeterDelta
 comment=Forces progressive scan mode at startup
