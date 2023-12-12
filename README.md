@@ -49,6 +49,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Destroy All Humans (PAL-M) SLES-53196 E3E8E893
 - Destroy All Humans 2 - Make War not Love (PAL-M) SLES-54384 743E10C2
 - Deus Ex (PAL-S) SLES-50808 3AC738AA secondary 7070DC2F
+- Disney Bolt (PAL-M) SLES-55429 841CF939 (PAL-M) SLES-55430 F77BF348
 - Disney Chicken Little (PAL-M) SLES-53739 AB75D540
 - Disney Chicken Little - Ace in action (PAL-S) SLES-54452 F7D63335
 - Disney Meet the Robinsons (PAL-M) SLES-54510 C76031E8
@@ -187,6 +188,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541 secondary B68D35CA
 - Star Wars - Episode III - Revenge of the Sith (PAL-M3) SLES-53155 99AD19EE
 - Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
+- Stuntman (PAL-M) SLES-50288 790A4ACB
+- Stuntman Ignition (PAL-M) SLES-54820 9454F864
 - Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, move image down``
 - Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 - Surf's Up (PAL-M) SLES-54583 904A9089
