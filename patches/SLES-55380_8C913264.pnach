@@ -6,10 +6,10 @@ comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
 patch=1,EE,0087C3B4,word,00000032 //00000019
 patch=1,EE,00870A2C,word,3F99999A //4019999A
 
-[Mode 480p]
+[60 FPS]
 author=PeterDelta
-comment=Unlocked progressive Mode 480p
+comment=Forces progressive scan mode at 60 fps
 patch=1,EE,00671CFC,word,3C050000
-patch=1,EE,00671D04,word,3C060050
+patch=1,EE,00671D04,word,3C060052
 patch=1,EE,00671D0C,word,3C070001
 patch=1,EE,00671FCC,word,3C090010

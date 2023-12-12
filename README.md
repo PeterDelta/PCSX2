@@ -175,10 +175,10 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Simpsons Game, The (PAL-S-I) SLES-54906 565B7E04
 - Smuggler's Run (PAL-M) SLES-50061 95416482
 - Sniper Elite (PAL-M) SLES-51820 EF47C233
-- Sonic Heroes (PAL-M) SLES-51950 B7CF071A ``Review``
-- Sonic Unleashed (PAL-M) SLES-55380 8C913264 ``Review``
+- Sonic Heroes (PAL-M) SLES-51950 B7CF071A
+- Sonic Unleashed (PAL-M) SLES-55380 8C913264
 - Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
-- Spider-Man 3 (PAL-M) SLES-54724 C529B0AD ``Review``
+- Spider-Man 3 (PAL-M) SLES-54724 C529B0AD ``Need: move image down``
 - Spider-Man - Friend or Foe (PAL-M) SLES-54901 678BE0A5
 - Spiderwick Chronicles, The (PAL-M) SLES-55109 D5D1D002
 - Splashdown (PAL-M) SLES-50486 E9C544F7
