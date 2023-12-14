@@ -205,6 +205,9 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Teenage Mutant Ninja Turtles 2 - Battle Nexus (PAL-M5) SLES-53017 C7375C85
 - Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (PAL-M) SLES-53850 3692A951
 - Thing, The (PAL-M4) SLES-50975 F6F9A91D
+- Tom Clancy's Ghost Recon (PAL-M) SLES-51181 11DB467D
+- Tom Clancy's Ghost Recon - Jungle Storm (PAL-M) SLES-51976 FE1720F1
+- Tom Clancy's Ghost Recon 2 (PAL-M) SLES-52646 CE64E328
 - Tom Clancy's Rainbow Six 3 (PAL-M) SLES-52288 28A2774C
 - Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903 ``Need: speed IA more exact``
 - Torrente 3 - El Protector (PAL-S) SLES-53979 E71273AC (PAL-E) SLES-54117 28241DFE
