@@ -1,0 +1,20 @@
+gametitle=Spider-Man (PAL-S) SLES-50965 CCF57297
+
+[Mode 480p]
+author=PeterDelta
+comment=Forces progressive scan when selecting 60hz
+patch=1,EE,E00401BF,extended,004CD4EC
+patch=1,EE,204BD360,extended,34050050
+patch=1,EE,204BD364,extended,24030002
+patch=1,EE,204BD368,extended,0000000C
+patch=1,EE,204BD36C,extended,03E00008
+patch=1,EE,E00401FF,extended,004CD4EC
+patch=1,EE,204BD360,extended,24030002
+patch=1,EE,204BD364,extended,0000000C
+patch=1,EE,204BD368,extended,03E00008
+patch=1,EE,204BD36C,extended,00000000
+patch=1,EE,E0040001,extended,00511D00
+patch=1,EE,204BD360,extended,24030002
+patch=1,EE,204BD364,extended,0000000C
+patch=1,EE,204BD368,extended,03E00008
+patch=1,EE,204BD36C,extended,00000000

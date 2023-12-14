@@ -179,6 +179,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sonic Heroes (PAL-M) SLES-51950 B7CF071A
 - Sonic Unleashed (PAL-M) SLES-55380 8C913264
 - Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
+- Spider-Man (PAL-S) SLES-50965 CCF57297
 - Spider-Man 2 (PAL-M) SLES-52372 6B68932C
 - Spider-Man 3 (PAL-M) SLES-54724 C529B0AD ``Need: move image down``
 - Spider-Man - Friend or Foe (PAL-M) SLES-54901 678BE0A5

@@ -10,7 +10,7 @@ patch=1,EE,00277af8,word,34428e38
 
 [Mode 480p]
 author=PeterDelta
-comment=Force progressive scan when selecting 60hz
+comment=Forces progressive scan when selecting 60hz
 patch=1,EE,E0030001,extended,011E1F9C
 patch=1,EE,20100334,extended,3c050000
 patch=1,EE,2010033C,extended,3c060050
