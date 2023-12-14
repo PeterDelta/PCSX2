@@ -58,6 +58,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
 - Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029
 - Dog's Life (PAL-M) SCES-51248 531061F2
+- Dr. Muto (PAL-M) SLES-50710 BA7CAA90 ``Need: Find the speed when start walking``
 - Dragon Quest VIII (PAL-M) SLES-53974 945FBF31
 - Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 - Driv3r (PAL-M) SLES-52153 E94FBF35
@@ -178,6 +179,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sniper Elite (PAL-M) SLES-51820 EF47C233
 - Sonic Heroes (PAL-M) SLES-51950 B7CF071A
 - Sonic Unleashed (PAL-M) SLES-55380 8C913264
+- Sonic Gems Collection (PAL-M) SLES-53350
 - Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
 - Spider-Man (PAL-S) SLES-50965 CCF57297
 - Spider-Man 2 (PAL-M) SLES-52372 6B68932C
