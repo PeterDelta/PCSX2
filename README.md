@@ -149,6 +149,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467 06BBB610
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
+- Plan, Th3 (PAL-S) SLES-53914 D65DF63F (PAL-E) SLES-53965 ACE7A856
 - Portal Runner (PAL-M) SLES-50444 802EBFF7
 - Prince of Persia - The Sands of Time (PAL-M5) SLES-51918 4B58A7A8
 - Prince of Persia - The Two Thrones (PAL-M5) SLES-53777 6FC40BAA
@@ -171,6 +172,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(S)**
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
 - ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
+- Shield - The Game, The (PAL-M) SLES-54720 55AFBD7E
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
 - Silent Hill 2 - Director's Cut (PAL-M) SLES-51156 6BBD4932
 - Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5 ``Need: more speeds``
