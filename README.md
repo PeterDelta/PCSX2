@@ -173,6 +173,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
 - ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
 - Shield - The Game, The (PAL-M) SLES-54720 55AFBD7E
+- Shifters (PAL-S-I) SLES-50645 C8F64115 (PAL-E) SLES-50644 (NTSC-U) SLUS-20271
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
 - Silent Hill 2 - Director's Cut (PAL-M) SLES-51156 6BBD4932
 - Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5 ``Need: more speeds``
