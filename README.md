@@ -88,8 +88,10 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - God of War (PAL-M) SCES-53133 FB0E6D72 ``Need to fix fmv, gameplay ok``
 - God of War II (PAL-M) SCES-54206 44A8A22A ``Need to fix fmv, gameplay ok``
 - GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC - Valid for NTSC-U
+- Graffiti Kingdom (PAL-M) SLES-53311 F28709A1
 - Gran Turismo 3 (PAL-M) SCES-50294 B590CE04
 - Gran Turismo 4 (PAL-M) SCES-51719 44A61C8F ``Need: speed IA more exact``
+- Great Escape, The (PAL-M) SLES-51315 647D9161
 - Gun (PAL-M) SLES-53523 98D7BF5E
 ## **(H)**
 - Half-Life (PAL-S) SLES-50509 F9E3CF90 - Valid for other PAL
