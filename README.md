@@ -1,4 +1,4 @@
-Compilation of the 50/60 fps patches for PS2 that I have created or fixed, to give a second life to these wonderful games that give us so much nostalgic and keep them organized.
+Compilation of the 50/60 fps and widescreen patches for PS2 that I have created or fixed, to give a second life to these wonderful games that give us so much nostalgic and keep them organized.
 
 I publish those that are more advanced, exposing what remains and what I am investigating, where I do not put anything in principle they are complete.
 
@@ -76,7 +76,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Freedom Fighters (PAL-S) SLES-51471 6EEE06DD (PAL-I) SLES-51470 (PAL-E) SLES-51467 (PAL-G) SLES-51469 (PAL-F) SLES-51468
 - Futurama (PAL-M5) SLES-51507 EB25115F
 ## **(G)**
-- Ghostbusters (PAL-M) SCES-55571 7030A01C - Valid for NTSC version
+- Ghostbusters (PAL-M) SCES-55571 7030A01C - Valid for NTSC-U
 - Ghosthunter (PAL-M) SCES-51463 3BD85DA4
 - Ghost in the Shell - Stand Alone Complex (PAL-M) SLES-53020 BF6F101F
 - Ghost Rider (PAL-M) SLES-54317 F9DD17AA
@@ -87,12 +87,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Getaway (PAL-M) SCES-51159 458485EF
 - God of War (PAL-M) SCES-53133 FB0E6D72 ``Need to fix fmv, gameplay ok``
 - God of War II (PAL-M) SCES-54206 44A8A22A ``Need to fix fmv, gameplay ok``
-- GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC - Valid for NTSC version
+- GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC - Valid for NTSC-U
 - Gran Turismo 3 (PAL-M) SCES-50294 B590CE04
 - Gran Turismo 4 (PAL-M) SCES-51719 44A61C8F ``Need: speed IA more exact``
 - Gun (PAL-M) SLES-53523 98D7BF5E
 ## **(H)**
-- Half-Life (PAL-S) SLES-50509 F9E3CF90 - Valid for other PAL versions
+- Half-Life (PAL-S) SLES-50509 F9E3CF90 - Valid for other PAL
 - Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
 - Hobbit, The (PAL-M) SLES-51723 554A62A4 (PAL-R) SLES-52247
 ## **(I)**
@@ -122,7 +122,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Lord of the Rings: The Return of the King (PAL-S) SLES-52020 9771C478
 - Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4
 ## **(M)**
-- Madagascar (PAL-S) SLES-53246 D3051E54 (PAL-E) SLES-53225 D3051E54
+- Madagascar (PAL-S) SLES-53246 D3051E54 - Valid for other PAL (NTSC-U) SLUS-21015 09052A4D
 - Manhunt (PAL-M) SLES-52023 FE419424
 - Manhunt 2 (PAL-M) SLES-54819 887AD3A0
 - Marc Ecko's Getting Up - Contents Under Pressure (PAL-M) SLES-53459 F73AC0A0 (NTSC-U) SLUS-21032
@@ -130,16 +130,22 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Max Payne (PAL-M) SLES-50326 52E0597D secondary C669B63C MAIN_P.RUN
 - Max Payne 2 - Fall of Max Payne (PAL-S) SLES-52256 D13BEF2C (PAL-E) SLES-51954 564F352C
 - Mercenaries - Playground of Destruction (PAL-S-I) SLES-53008 CBA0623D
+- Mercenaries 2 - World in Flames (PAL-S) SLES-55001 A97C9BFD - Valid for other PAL
 - Metal Arms - Glitch in the System (PAL-M) SLES-51758 AF399CCC (NTSC-U) SLUS-20786 E8C504C8
 - Metal Gear Solid 2 - Sons Of Liberty (PAL-S) SLES-50385 A633A4BF
 - Metal Gear Solid 2 Substance (PAL-M) SLES-82009 093E7D52
-- Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93 - Valid for other PAL versions
+- Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93 - Valid for other PAL
 - Midnight Club - Street Racing (PAL-M) SLES-50071 831078BD
 - Midnight Club II (PAL-M) SLES-51054 ACB1989A (NTSC-U) SLUS-20209 E5F2DF38
 - Midnight Club 3 - DUB Edition (PAL-M) SLES-52942 EBE1972D (NTSC-U) SLUS-21029 4A0E5B3A v1 0DD3417A v2
 - MTV Pimp My Ride (PAL-M) SLES-54632 CB15F3F3
+- Motocross Mania 3 (PAL-M) SLES-53092 D536E4BA
 - Mummy Returns, The (PAL-M) SLES-50510 B9254C98
 ## **(N)**
+- NASCAR '06 (PAL-E) SLES-53635 CF3A1D37
+- NASCAR '07 (PAL-E) SLES-54223 8AE96AEE
+- NASCAR '08 (PAL-E) SLES-54813 2E98C05B
+- NASCAR '09 (PAL-E) SLES-55199 CB0AEC6F
 - NBA Live 2001 (PAL-S) SLES-50026 0D434FEC (PAL-E) SLES-50022 0D434FEC
 - Need for Speed - Hot Pursuit 2 (PAL-M) SLES-50731 1D2818AF
 - Need for Speed - Underground (PAL-M7) SLES-51967 FDA10318
@@ -151,6 +157,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467 06BBB610
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
+- Pirates of the Caribbean - The Legend of Jack Sparrow (PAL-M) SLES-54237 E6C2F211
 - Plan, Th3 (PAL-S) SLES-53914 D65DF63F (PAL-E) SLES-53965 ACE7A856
 - Portal Runner (PAL-M) SLES-50444 802EBFF7
 - Prince of Persia - The Sands of Time (PAL-M5) SLES-51918 4B58A7A8
@@ -172,6 +179,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Rugrats Royal Ransom (PAL-S) SLES-51385 4603820E
 - Rune - Viking Warlord (PAL-S) SLES-50339 7DB392C5 secondary D51BA097 (PAL-E) SLES-50335 (NTSC-U) SLUS-20109
 ## **(S)**
+- Serious Sam - Next Encounter (PAL-M) SLES-52450 2CC13DED
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
 - ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
 - Shield - The Game, The (PAL-M) SLES-54720 55AFBD7E
@@ -229,11 +237,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - TY the Tasmanian Tiger 2 - Bush Rescue (PAL-M) SLES-52709 B9FDB9EE
 - TY the Tasmanian Tiger 3 - Night of the Quinkan (PAL-M) SLES-53636 64E8F1DC
 ## **(U)**
-- Ultimate Spiderman (PAL-M) SLES-53391 FDD12792 - Valid for other PAL versions and NTSC
+- Ultimate Spiderman (PAL-M) SLES-53391 FDD12792 - Valid for other PAL and NTSC-U
 ## **(W)**
 - Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
 - Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
-- Warriors, The (PAL-M) SLES-53443 FA3C1346 - Valid for NTSC version
+- Warriors, The (PAL-M) SLES-53443 FA3C1346 - Valid for NTSC-U
 - Whirl Tour (PAL-M) SLES-51126 FB45FA8E
 ## **(X)**
 - XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452 (NTSC-U) SLUS-20632 56B36513
