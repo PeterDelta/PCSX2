@@ -63,6 +63,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Dr. Muto (PAL-M) SLES-50710 BA7CAA90 ``Need: Find the speed when start walking``
 - Dragon Quest VIII (PAL-M) SLES-53974 945FBF31
 - Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
+- DreamWorks Bee Movie Game (PAL-M) SLES-55016 9D6AA1B8 - Valid for NTSC-U
+- DreamWorks Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
+- DreamWorks Madagascar (PAL-S) SLES-53246 D3051E54 - Valid for other PAL (NTSC-U) SLUS-21015 09052A4D
+- DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895 (NTSC-U) SLUS-21870
+- DreamWorks Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467
 - Driv3r (PAL-M) SLES-52153 E94FBF35
 - Driver - Parallel Lines (PAL-M) SLES-53556 D720770D
 ## **(E)**
@@ -113,7 +118,6 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Kingdom Hearts II (PAL-S) SLES-54235 C398F477
 - Knight Rider (PAL-M) SLES-51011 989192FE
 - Knight Rider 2 (PAL-M) SLES-52836 37C182D7
-- Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
 ## **(L)**
 - Lara Croft Tomb Raider - Anniversary (PAL-M) SLES-54674 A629A376
 - Lara Croft Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
@@ -124,7 +128,6 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Lord of the Rings: The Return of the King (PAL-S) SLES-52020 9771C478
 - Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4
 ## **(M)**
-- Madagascar (PAL-S) SLES-53246 D3051E54 - Valid for other PAL (NTSC-U) SLUS-21015 09052A4D
 - Manhunt (PAL-M) SLES-52023 FE419424
 - Manhunt 2 (PAL-M) SLES-54819 887AD3A0
 - Marc Ecko's Getting Up - Contents Under Pressure (PAL-M) SLES-53459 F73AC0A0 (NTSC-U) SLUS-21032
@@ -155,8 +158,6 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Need for Speed - Most Wanted (PAL-M) SLES-53559 CA2A1B04
 - Need for Speed - Carbono (PAL-S-I) SLES-54323 4078F8F1
 - Need for Speed - ProStreet (PAL-S-I) SLES-55004 9E457DD6
-## **(O)**
-- Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467 06BBB610
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
 - Pirates of the Caribbean - The Legend of Jack Sparrow (PAL-M) SLES-54237 E6C2F211

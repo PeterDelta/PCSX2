@@ -1,0 +1,12 @@
+gametitle=DreamWorks Bee Movie Game (PAL-M) SLES-55016 9D6AA1B8
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+comment=Renders the game in 16:9 aspect ratio
+patch=1,EE,001E2660,word,3C023FAB //3C023F80
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,00209798,word,28420001 //28420002
