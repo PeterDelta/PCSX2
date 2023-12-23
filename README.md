@@ -66,7 +66,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - DreamWorks Bee Movie Game (PAL-M) SLES-55016 9D6AA1B8 - Valid for NTSC-U
 - DreamWorks Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
 - DreamWorks Madagascar (PAL-S) SLES-53246 D3051E54 - Valid for other PAL (NTSC-U) SLUS-21015 09052A4D
-- DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895 (NTSC-U) SLUS-21870
+- DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895 (NTSC-U) SLUS-21870 D3C84C28
 - DreamWorks Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467
 - Driv3r (PAL-M) SLES-52153 E94FBF35
 - Driver - Parallel Lines (PAL-M) SLES-53556 D720770D
@@ -74,9 +74,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Echo Night - Beyond (PAL-E) SLES-53414 BBF8C3D6 (PAL-E) SLES-53414 E078914A (spanish translation 1.0.1)
 - Enter the Matrix (PAL-M5) SLES-51203 F1370E83
 ## **(F)**
+- Fairly OddParents, The - Shadow Showdown (PAL-M) SLES-52857 38351989
 - Ferrari Challenge - Trofeo Pirelli (PAL-M) SLES-55294 5EEFD8C0
 - Final Fantasy X (PAL-S) SCES-50494 941BB7DE ``Need: more speeds``
 - Final Fantasy X-2 (PAL-S) PAL-Spain SLES-51819 9AAC530A ``Need: more speeds``
+- Flintstones, The - Bedrock Racing (PAL-M) SLES-54473 8B0725D5
 - Forgotten Realms - Demon Stone (PAL-M) SLES-52669 7C7578F3
 - Freedom Fighters (PAL-S) SLES-51471 6EEE06DD (PAL-I) SLES-51470 (PAL-E) SLES-51467 (PAL-G) SLES-51469 (PAL-F) SLES-51468
 - Futurama (PAL-M5) SLES-51507 EB25115F
