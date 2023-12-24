@@ -124,6 +124,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Lara Croft Tomb Raider - Anniversary (PAL-M) SLES-54674 A629A376
 - Lara Croft Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
 - Lemony Snicket's A Series of Unfortunate Events (PAL-S) SLES-52825 43A02228
+- London Racer - Destruction Madness (PAL-M) SLES-53654 2E66AAEA
+- London Racer 2 (PAL-M) SLES-50955 0CEB8F2F
 - Looney Tunes Space Race (PAL-M) SLES-50487 5E641834
 - Looney Tunes Back in Action (PAL-M) SLES-51794 26F6F521
 - Lord of the Rings: Fellowship of the Ring (PAL-M) SLES-50988 4C3F192D
@@ -153,7 +155,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - NASCAR '07 (PAL-E) SLES-54223 8AE96AEE
 - NASCAR '08 (PAL-E) SLES-54813 2E98C05B
 - NASCAR '09 (PAL-E) SLES-55199 CB0AEC6F
-- NBA Live 2001 (PAL-S) SLES-50026 0D434FEC (PAL-E) SLES-50022 0D434FEC
+- NBA Live 2001 (PAL-S) SLES-50026 0D434FEC - Valid for other PAL
 - Need for Speed - Hot Pursuit 2 (PAL-M) SLES-50731 1D2818AF
 - Need for Speed - Underground (PAL-M7) SLES-51967 FDA10318
 - Need for Speed - Underground 2 (PAL-M) SLES-52725 CFB873AD
@@ -172,6 +174,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Psychonauts (PAL-M) SLES-53830 6B97BBC8
 - Power Rangers - Super Legends (PAL-M) SLES-54835 3E1661EF
 ## **(R)**
+- Rayman Revolution (PAL-M) SLES-50044 55EDA5A0 - Valid for NTSC-U
 - Ratchet & Clank - Size Matters (PAL-M) SCES-55019 FCB981D5
 - Red Dead Revolver (PAL-M) SLES-52478 E2E67E23
 - Red Faction (PAL-M) SLES-50277 12526265
