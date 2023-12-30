@@ -1,0 +1,22 @@
+gametitle=DreamWorks Despicable Me - The Game (PAL-M) SLES-55625 5ED15549
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+comment=Renders the game in 16:9 aspect ratio
+patch=1,EE,00119874,word,00000000 //46140034
+patch=1,EE,001198bc,word,3c014235 //3c014265
+patch=1,EE,001198c0,word,3421e327 //34212ee1
+
+[50 FPS]
+author=PeterDelta
+comment=BETA
+patch=1,EE,003FB95C,word,00000000 //00031A38
+patch=1,EE,0012FBE4,word,2402003C //2402001E
+
+[Mode 480p]
+author=PeterDelta
+comment=Forces progressive scan mode 480p at startup
+patch=1,EE,004006E4,word,3C050000 //00052C00
+patch=1,EE,004006EC,word,3C060050 //00063400
+patch=1,EE,004006F4,word,3C070001 //00073C00

@@ -69,9 +69,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Dragon Quest VIII (PAL-M) SLES-53974 945FBF31
 - Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 - DreamWorks Bee Movie Game (PAL-M) SLES-55016 9D6AA1B8 - Valid for NTSC-U
+- DreamWorks Despicable Me - The Game (PAL-M) SLES-55625 5ED15549 ``Need: Find appropriate fps unlocker``
 - DreamWorks Flushed Away (PAL-M) SLES-54527 4CB5D96E
 - DreamWorks Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
 - DreamWorks Madagascar (PAL-S) SLES-53246 D3051E54 - Valid for other PAL (NTSC-U) SLUS-21015 09052A4D
+- DreamWorks Madagascar 2 (PAL-M) SLES-55374 76B70CCE
 - DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895 (NTSC-U) SLUS-21870 D3C84C28
 - DreamWorks Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467
 - Driv3r (PAL-M) SLES-52153 E94FBF35
@@ -86,7 +88,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Final Fantasy X-2 (PAL-S) PAL-Spain SLES-51819 9AAC530A ``Need: more speeds``
 - Flintstones, The - Bedrock Racing (PAL-M) SLES-54473 8B0725D5
 - Forgotten Realms - Demon Stone (PAL-M) SLES-52669 7C7578F3
-- Freedom Fighters (PAL-S) SLES-51471 6EEE06DD (PAL-I) SLES-51470 (PAL-E) SLES-51467 (PAL-G) SLES-51469 (PAL-F) SLES-51468
+- Freedom Fighters (PAL-S) SLES-51471 - Valid for other PAL (PAL-F) SLES-51468
 - Futurama (PAL-M5) SLES-51507 EB25115F
 ## **(G)**
 - Ghostbusters (PAL-M) SCES-55571 7030A01C - Valid for NTSC-U
