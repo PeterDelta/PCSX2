@@ -11,6 +11,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - 50 Cent - Bulletproof (PAL-E) SLES-53734 E3F32982
 ## **(A)**
 - Aeon Flux (PAL-M) SLES-54169 761CABB3
+- Alias (PAL-M) SLES-51821 83466553
 - Alien Hominid (PAL-M) SLES-53139 14274DC3
 - Alone in the Dark (PAL-M) SLES-55207 68FC3CF9
 - Area 51 (PAL-M) SLES-52570 180F5C36 (PAL-M) SLES-53075 C4ACBCF0
@@ -31,6 +32,10 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - BloodRayne (PAL-M) SLES-51474 C81B1F33
 - BloodRayne 2 (PAL-M) SLES-53831 78EF5FF7
 - Blowout (PAL-E) SLES-52989 0158297B
+- Bratz - Rock Angelz (PAL-M) SLES-53575 82CA3505
+- Bratz - Forever Diamondz (PAL-M) SLES-54343 A90A973D
+- Bratz - The Movie (PAL-M) SLES-54989 FD4FE026
+- Bratz - Girlz Really Rock (PAL-M) SLES-55357 26847412
 - Brave - The Search for Spirit Dancer (PAL-M) SCES-51635 27D961D2 (NTSC-U) SLUS-21127 17E7E24E
 ## **(C)**
 - Call of Duty 2 - Big Red One (PAL-M3) SLES-53416 DFB26142
@@ -64,6 +69,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Dragon Quest VIII (PAL-M) SLES-53974 945FBF31
 - Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 - DreamWorks Bee Movie Game (PAL-M) SLES-55016 9D6AA1B8 - Valid for NTSC-U
+- DreamWorks Flushed Away (PAL-M) SLES-54527 4CB5D96E
 - DreamWorks Kung Fu Panda (PAL-S) SLES-55236 EEFA39E1
 - DreamWorks Madagascar (PAL-S) SLES-53246 D3051E54 - Valid for other PAL (NTSC-U) SLUS-21015 09052A4D
 - DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895 (NTSC-U) SLUS-21870 D3C84C28
@@ -162,6 +168,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Need for Speed - Most Wanted (PAL-M) SLES-53559 CA2A1B04
 - Need for Speed - Carbono (PAL-S-I) SLES-54323 4078F8F1
 - Need for Speed - ProStreet (PAL-S-I) SLES-55004 9E457DD6
+- NHL 2K7 (PAL-M) SLES-54211 1AD6EFD1
 ## **(P)**
 - Pac-Man Rally (PAL-M) SLES-54584 BE97B315
 - Pirates of the Caribbean - The Legend of Jack Sparrow (PAL-M) SLES-54237 E6C2F211
@@ -236,6 +243,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903 ``Need: speed IA more exact``
 - Torrente 3 - El Protector (PAL-S) SLES-53979 E71273AC (PAL-E) SLES-54117 28241DFE
 - Total Overdose (PAL-M) SLES-53492 4C380F8B (NTSC-U) SLUS-21283 461F9727
+- Top Gear Daredevil (PAL-E) SLES-50069 FD8F4257
 - Transformers (PAL-M) SLES-52388 E845F252
 - Transformers - The Game (PAL-S-F) SLES-54756 F453BCD9 (PAL-E) SLES-54755 2609B672
 - TriggerMan (PAL-M) SLES-53076 C92321FF
@@ -246,6 +254,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - TY the Tasmanian Tiger 3 - Night of the Quinkan (PAL-M) SLES-53636 64E8F1DC
 ## **(U)**
 - Ultimate Spiderman (PAL-M) SLES-53391 FDD12792 - Valid for other PAL and NTSC-U
+- Unreal Tournament (PAL-E) SLES-50074 4A805DF1
 ## **(W)**
 - Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
 - Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
