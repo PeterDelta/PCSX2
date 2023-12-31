@@ -17,6 +17,6 @@ patch=1,EE,0012FBE4,word,2402003C //2402001E
 [Mode 480p]
 author=PeterDelta
 comment=Forces progressive scan mode 480p at startup
-patch=1,EE,004006E4,word,3C050000 //00052C00
-patch=1,EE,004006EC,word,3C060050 //00063400
-patch=1,EE,004006F4,word,3C070001 //00073C00
+patch=1,EE,004006E4,word,3C050000
+patch=1,EE,004006EC,word,3C060050
+patch=1,EE,004006F4,word,3C070001
