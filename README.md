@@ -84,7 +84,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(F)**
 - Fairly OddParents, The - Shadow Showdown (PAL-M) SLES-52857 38351989
 - Ferrari Challenge - Trofeo Pirelli (PAL-M) SLES-55294 5EEFD8C0
-- Final Fantasy X (PAL-S) SCES-50494 941BB7DE ``Need: more speeds``
+- Final Fantasy X (PAL-S) SCES-50494 941BB7DE ``playable but incomplete``
 - Final Fantasy X-2 (PAL-S) PAL-Spain SLES-51819 9AAC530A ``Need: more speeds``
 - Flintstones, The - Bedrock Racing (PAL-M) SLES-54473 8B0725D5
 - Forgotten Realms - Demon Stone (PAL-M) SLES-52669 7C7578F3
