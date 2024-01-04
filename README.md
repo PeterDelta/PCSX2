@@ -211,6 +211,10 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sonic Unleashed (PAL-M) SLES-55380 8C913264
 - Sonic Gems Collection (PAL-M) SLES-53350
 - Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
+- Sims, The - Bustin' Out (PAL-M) SLES-52047 BF0D1E1A
+- Sims in the City - The Urbz (PAL-M) SLES-52908 25C3948E
+- Sims 2, The (PAL-M) SLES-53718 E626181E
+- Sims 2, The - Pets (PAL-M) SLES-54347 774E8455
 - Spider-Man (PAL-S) SLES-50965 CCF57297
 - Spider-Man 2 (PAL-M) SLES-52372 6B68932C
 - Spider-Man 3 (PAL-M) SLES-54724 C529B0AD ``Need: move image down``
