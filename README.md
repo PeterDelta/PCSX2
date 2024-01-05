@@ -62,6 +62,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Disney Meet the Robinsons (PAL-M) SLES-54510 C76031E8
 - Disney G-Force (PAL-M) SLES-55499 AB761209 (PAL-R) SLES-55502 09BF522A
 - Disney Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
+- Disney Piglet - El Gran Juego (PAL-S) SLES-51666 1BD0A97E
 - Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
 - Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029
 - Dog's Life (PAL-M) SCES-51248 531061F2
@@ -140,6 +141,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Lord of the Rings: The Return of the King (PAL-S) SLES-52020 9771C478
 - Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4
 ## **(M)**
+- Mafia (PAL-S) SLES-52282 7E9B5698
 - Manhunt (PAL-M) SLES-52023 FE419424
 - Manhunt 2 (PAL-M) SLES-54819 887AD3A0
 - Marc Ecko's Getting Up - Contents Under Pressure (PAL-M) SLES-53459 F73AC0A0 (NTSC-U) SLUS-21032
@@ -266,6 +268,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Wallace & Gromit - The Curse of the Were-Rabbit (PAL-M) SLES-53621 7C211BF9
 - Warriors, The (PAL-M) SLES-53443 FA3C1346 - Valid for NTSC-U
 - Whirl Tour (PAL-M) SLES-51126 FB45FA8E
+- Without Warning (PAL-M) SLES-53716 D9D96321
 ## **(X)**
 - XGRA - Extreme G Racing Association (PAL-M) SLES-51636 9D395452 (NTSC-U) SLUS-20632 56B36513
 - XIII (PAL-M) SLES-51244 200BC0E6

@@ -1,0 +1,7 @@
+gametitle=Mafia (PAL-S) SLES-52282 7E9B5698
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 300% EE Overclock to be stable.
+patch=1,EE,0046F354,word,2C410001 //0052082B
+patch=1,EE,002A7748,word,8F889800 //8E284204
