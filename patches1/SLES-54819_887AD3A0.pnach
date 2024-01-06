@@ -1,0 +1,6 @@
+gametitle=Manhunt 2 (PAL-M) SLES-54819 887AD3A0
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00370EE8,word,24020001 //24020002
