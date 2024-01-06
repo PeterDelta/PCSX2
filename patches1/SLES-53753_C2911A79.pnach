@@ -1,0 +1,16 @@
+gametitle=Test Drive Unlimited (PAL-M) SLES-53753 C2911A79
+
+[50/60 FPS]
+author=PeterDelta
+comment=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,005E5880,word,3C088889 //3D088889
+patch=1,EE,001b4e7c,word,54800000 //5480FFF3 FPS
+patch=1,EE,01E3D02C,word,3C088889 //3D088889 menu fluido
+patch=1,EE,E0030000,extended,00AA5E80
+patch=1,EE,205E5880,extended,3D088889
+patch=1,EE,201b4e7c,extended,5480FFF3
+patch=1,EE,21E3D02C,extended,3D088889
+patch=1,EE,E0030002,extended,01EF64A8
+patch=1,EE,205E5880,extended,3D088889
+patch=1,EE,201b4e7c,extended,5480FFF3
+patch=1,EE,21E3D02C,extended,3D088889
