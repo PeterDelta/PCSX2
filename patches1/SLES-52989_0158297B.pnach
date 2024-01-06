@@ -1,0 +1,6 @@
+gametitle=Blowout (PAL-E) SLES-52989 0158297B
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,002B13B8,word,28630001 //28630002
