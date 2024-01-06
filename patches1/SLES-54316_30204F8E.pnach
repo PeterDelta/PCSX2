@@ -1,0 +1,6 @@
+gametitle=DreamWorks Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00567F18,word,00000001 //00000002
