@@ -1,0 +1,17 @@
+gametitle=Suffering, The (PAL-M) SLES-52439 FB680748
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001F92C0,extended,28420002
+patch=1,EE,001F92E0,extended,28420002
+patch=1,EE,E0020000,extended,00476E44
+patch=1,EE,001F92C0,extended,28420001
+patch=1,EE,001F92E0,extended,28420001
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,00418544,word,24110000
+patch=1,EE,00418548,word,24120052
+patch=1,EE,00418554,word,24130001
