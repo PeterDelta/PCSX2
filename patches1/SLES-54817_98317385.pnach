@@ -1,0 +1,6 @@
+gametitle=Garfield - Lasagna World Tour (PAL-M) SLES-54817 98317385
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,0026BBF4,word,00000001 //00000002
