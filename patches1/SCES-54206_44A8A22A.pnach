@@ -1,0 +1,9 @@
+gametitle=God of War II (PAL-M) SCES-54206 44A8A22A
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps. Need to fix fmv
+patch=1,EE,202B5284,extended,24110000
+patch=1,EE,202B5288,extended,24120052
+patch=1,EE,202B5294,extended,24130001
+patch=1,EE,202D7A4C,extended,3F555550
