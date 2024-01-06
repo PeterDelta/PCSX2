@@ -1,0 +1,8 @@
+gametitle=The Hobbit (PAL-M) SLES-51723 554A62A4
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,20404B8C,extended,00000001
+patch=1,EE,E0010000,extended,003E9610
+patch=1,EE,20404B8C,extended,00000002
