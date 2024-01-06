@@ -1,0 +1,10 @@
+gametitle=Need for Speed - Underground (PAL-M7) SLES-51967 FDA10318
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,003AF874,word,24110000
+patch=1,EE,003AF878,word,24120052
+patch=1,EE,003AF884,word,24130001
+patch=1,EE,004FEFF8,word,3C888889
+patch=1,EE,0042EE04,word,0000001E
