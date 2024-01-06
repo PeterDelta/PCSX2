@@ -1,0 +1,6 @@
+gametitle=Señor de Los Anillos, El - El Retorno del Rey (PAL-S) SLES-52020 9771C478
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,0014B318,word,10000013 //14400003
