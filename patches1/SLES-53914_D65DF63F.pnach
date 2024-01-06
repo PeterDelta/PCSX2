@@ -1,0 +1,18 @@
+gametitle=Plan, Th3 (PAL-S) SLES-53914 D65DF63F
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+comment=Renders the game in 16:9 aspect ratio
+patch=1,EE,0010E324,word,3C033F40 //3C033F80
+patch=1,EE,001719A8,word,3C013F40 //hud cross x-fov
+patch=1,EE,0025CF18,word,3C023F40 //hud cross y-fov
+patch=1,EE,0026C0B8,word,3C023FA0 //hud health
+//patch=1,EE,0011CD90,word,3C033EEC //hud partial
+//patch=1,EE,0011CD94,word,3C053F40 //hud partial
+//patch=1,EE,0011CDB8,word,C4800008 //hud center
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001B1B68,word,24040001 //24040002
