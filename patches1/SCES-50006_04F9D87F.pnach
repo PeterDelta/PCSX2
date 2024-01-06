@@ -1,0 +1,8 @@
+gametitle=Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001D7950,word,28420001 //28420004 
+patch=1,EE,E0010001,extended,004DBA28
+patch=1,EE,201D7950,extended,28420004
