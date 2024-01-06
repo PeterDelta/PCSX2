@@ -1,0 +1,7 @@
+gametitle=Metal Gear Solid 2 - Sons Of Liberty (PAL-S) SLES-50385 A633A4BF
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS in cutscenes.
+patch=1,EE,E0010002,extended,0018DB74
+patch=1,EE,0018DB74,extended,00000000
