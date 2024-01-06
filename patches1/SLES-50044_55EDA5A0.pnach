@@ -1,0 +1,6 @@
+gametitle=Rayman Revolution (PAL-M) SLES-50044 55EDA5A0
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001011FC,word,24030000 //24030001
