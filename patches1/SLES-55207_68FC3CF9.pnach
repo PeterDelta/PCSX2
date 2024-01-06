@@ -1,0 +1,11 @@
+gametitle=Alone in the Dark (PAL-M) SLES-55207 68FC3CF9
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,006CC358,word,02058290
+patch=1,EE,006CC380,word,02058290
+patch=1,EE,00117B60,word,34050052
+patch=1,EE,00117B64,word,24030002
+patch=1,EE,00117B68,word,0000000C
+patch=1,EE,00117B6C,word,03E00008
