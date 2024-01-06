@@ -1,0 +1,6 @@
+gametitle=Silent Hill 2 (PAL-M) SLES-50382 6B149273
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,001A3860,word,10000009 //14400009
