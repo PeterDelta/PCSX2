@@ -1,0 +1,6 @@
+gametitle=Just Cause (PAL-M) SLES-54137 5CC61637
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,003B860C,word,44800000 //45000010
