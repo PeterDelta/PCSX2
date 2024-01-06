@@ -1,0 +1,6 @@
+gametitle=Disney's Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
+
+[50 FPS]
+author=PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,00628C88,byte,01
