@@ -1,0 +1,8 @@
+gametitle=24 - The Game (PAL-M) SCES-53358 D6A99F53
+
+[50/60 FPS]
+author=PeterDelta
+comment=Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.
+patch=1,EE,205F9908,extended,00000001
+patch=1,EE,E0010001,extended,00631208
+patch=1,EE,205F9908,extended,00000002
