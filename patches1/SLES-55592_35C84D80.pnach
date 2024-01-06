@@ -1,0 +1,15 @@
+gametitle=Ben 10 - Alien Force - Vilgax Attacks (PAL-M) SLES-55592 35C84D80
+
+[50 FPS]
+author=asasega and PeterDelta
+comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,201002F4,extended,10000011
+patch=1,EE,E0010001,extended,004D114C
+patch=1,EE,201002F4,extended,45000011
+
+[60 FPS]
+author=PeterDelta
+comment=Forces progressive scan and run at 60 fps
+patch=1,EE,00434FD4,word,3C050000
+patch=1,EE,00434FDC,word,3C060052
+patch=1,EE,00434FE4,word,3C070001
