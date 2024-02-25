@@ -8,15 +8,15 @@ patch=1,EE,21BD74E8,byte,01 //00000000 In-game option
 patch=1,EE,21BD7522,byte,10 //40 Zoom 1
 patch=1,EE,21BD7528,word,3F000000 //3F2AAAAA Zoom 2
 
-[50 FPS]
+[Unlock FPS]
 author=CRASHARKI
-description=Unlocked FPS. Might need 180% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (180%).
 patch=1,EE,20491CC8,extended,24020000 //24020001
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,0057E114,word,3C050000
 patch=1,EE,0057E11C,word,3C060050
 patch=1,EE,0057E124,word,3C070001
