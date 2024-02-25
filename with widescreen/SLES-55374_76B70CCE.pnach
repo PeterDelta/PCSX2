@@ -6,10 +6,10 @@ author=Arapapa
 description=Renders the game in 16:9 aspect ratio
 patch=1,EE,001ff07c,word,3c023f1e //3c023f00
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,00465124,word,3C050000
 patch=1,EE,0046512C,word,3C060050
 patch=1,EE,00465134,word,3C070001
