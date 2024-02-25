@@ -6,16 +6,16 @@ author=PeterDelta
 description=Renders the game in 16:9 aspect ratio
 patch=1,EE,00765154,word,3FE38E38 //3FAAAAAB
 
-[50 FPS]
-author=asasega and PeterDelta
-description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
+[Unlock FPS]
+author=asasega & PeterDelta
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,E0010000,extended,004F8140
 patch=1,EE,201002F4,extended,10000011
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,0045A394,word,3C050000
 patch=1,EE,0045A39C,word,3C060050
 patch=1,EE,0045A3A4,word,3C070001
