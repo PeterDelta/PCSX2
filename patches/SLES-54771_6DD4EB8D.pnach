@@ -1,9 +1,9 @@
 gametitle=DreamWorks Shrek the Third (PAL-M) SLES-54771 6DD4EB8D
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,004B4674,word,24110000
 patch=1,EE,004B4678,word,24120050
 patch=1,EE,004B4684,word,24130001
