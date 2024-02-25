@@ -9,15 +9,15 @@ patch=1,EE,001A6548,word,3C013C2E //3C013C0E Render fix
 patch=1,EE,00225ea8,word,3c014000 //3c014299 Get rid of black bar
 patch=1,EE,00225eac,word,00000000 //3421999a
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,001002EC,word,00000000 //46000834
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,003F2B34,word,24110000
 patch=1,EE,003F2B38,word,24120050
 patch=1,EE,003F2B44,word,24130001
