@@ -1,5 +1,15 @@
 gametitle=Lara Croft Tomb Raider - Anniversary (PAL-M) SLES-54674 A629A376
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=pgert
+description=Native Widescreen activation hack.
+patch=1,EE,20398590,extended,3F800000 // 00000000
+patch=1,EE,203BED10,extended,00000001 // 00000000
+patch=1,EE,20992524,extended,00000001 // 00000000
+patch=1,EE,0016F374,word,3C01BF80 // Removes the Blackbars
+patch=1,EE,0016F380,word,3C013F80
+
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (180%).
