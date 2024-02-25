@@ -7,10 +7,10 @@ description=Renders the game in 16:9 aspect ratio
 patch=1,EE,004f6ee8,word,3c033f80 //Zoom fix (Internal Widescreen)
 patch=1,EE,004f6ef0,word,34630000
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,005346A4,word,24110000
 patch=1,EE,005346A8,word,24120050
 patch=1,EE,005346B4,word,24130001
