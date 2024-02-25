@@ -2,8 +2,9 @@ gametitle=Ghostbusters (PAL-M) SCES-55571 7030A01C
 
 [Unlock FPS]
 author=PeterDelta
-description=Might need EE Overclock to be stable (300%). Save a profile before enabling it.
-patch=1,EE,003194C0,word,00000000 //1440FFF5
+description=Might need EE Overclock to be stable (300%).
+patch=1,EE,E0010001,extended,00700EA0 //to avoid a bug if there is no profile
+patch=1,EE,203194C0,extended,00000000 //1440FFF5
 
 [480p Mode]
 gsinterlacemode=1

@@ -13,8 +13,9 @@ patch=1,EE,0031d1f4,word,3c013f80 //3c014000 remove black bars in cut-scenes
 
 [Unlock FPS]
 author=PeterDelta
-description=Might need EE Overclock to be stable (300%). Save a profile before enabling it.
-patch=1,EE,003194C0,word,00000000 //1440FFF5
+description=Might need EE Overclock to be stable (300%).
+patch=1,EE,E0010001,extended,00700EA0 //to avoid a bug if there is no profile
+patch=1,EE,203194C0,extended,00000000 //1440FFF5
 
 [480p Mode]
 gsinterlacemode=1
