@@ -124,6 +124,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
 - Hobbit, The (PAL-M) SLES-51723 554A62A4 (PAL-R) SLES-52247
 ## **(I)**
+- Ice Age 2 (PAL-M) SLES-53984 2EC49E65
+- Ice Age 3 (PAL-M) SLES-55487 61E4C8E7
 - Incredible Hulk, The - Ultimate Destruction (PAL-M) SLES-53430 6B3D50A5
 ## **(J)**
 - Jak and Daxter - La frontera perdida (The Lost Frontier) (PAL-M) SCES-55510 71583CA9
