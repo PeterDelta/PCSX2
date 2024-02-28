@@ -31,6 +31,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Black (PAL-M) SLES-53886 ADDFF505
 - BloodRayne (PAL-M) SLES-51474 C81B1F33
 - BloodRayne 2 (PAL-M) SLES-53831 78EF5FF7
+- Blood Will Tell - Tezuka Osamu's Dororo (PAL-M) SLES-52755 D78D3D1F
 - Blowout (PAL-E) SLES-52989 0158297B
 - Bratz - Rock Angelz (PAL-M) SLES-53575 82CA3505
 - Bratz - Forever Diamondz (PAL-M) SLES-54343 A90A973D
