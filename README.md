@@ -150,6 +150,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - London Racer 2 (PAL-M) SLES-50955 0CEB8F2F
 - Looney Tunes Space Race (PAL-M) SLES-50487 5E641834
 - Looney Tunes Back in Action (PAL-M) SLES-51794 26F6F521
+- Looney Tunes - ACME Arsenal (PAL-M) SLES-54931 91C2DF01
 - Lord of the Rings: Fellowship of the Ring (PAL-M) SLES-50988 4C3F192D
 - Lord of the Rings: The Return of the King (PAL-S) SLES-52020 9771C478
 - Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4 (NTSC-U) SLUS-21027 EB198738
