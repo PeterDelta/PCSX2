@@ -5,7 +5,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(#)**
 - ¡Qué pasa Neng! El videojuego (PAL-S) SLES-54604 5A1D79D4
 - 007 - Everything or Nothing (PAL-M) SLES-52005 5FFFDE40 ``playable but incomplete``
-- 4 Fantastic (PAL-S) SLES-53147 F67E4351 (PAL-E) SLES-53143 CC14A552
+- 4 Fantastic (PAL-S) SLES-53147 F67E4351  - Valid for other PAL
 - 24 - The Game (PAL-M) SCES-53358 D6A99F53
 - 25 to Life (PAL-E) SLES-53199 A6786A05
 - 50 Cent - Bulletproof (PAL-E) SLES-53734 E3F32982
