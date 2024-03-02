@@ -9,7 +9,7 @@ patch=1,EE,0031DA70,word,3FB8E369
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (180%).
-patch=1,EE,00177A70,word,1000000C //1462000C
+patch=1,EE,00177A6C,word,24020000 //24020001
 
 [480p Mode]
 gsinterlacemode=1
