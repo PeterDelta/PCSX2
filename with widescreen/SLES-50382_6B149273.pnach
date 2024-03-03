@@ -9,4 +9,4 @@ patch=1,EE,210E4C14,extended,43A8F5C3 // 43E147AE X-RES
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,001A3860,word,10000009 //14400009
+patch=1,EE,001A3860,word,10400009 //14400009

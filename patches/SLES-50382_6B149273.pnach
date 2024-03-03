@@ -3,4 +3,4 @@ gametitle=Silent Hill 2 (PAL-M) SLES-50382 6B149273
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,001A3860,word,10000009 //14400009
+patch=1,EE,001A3860,word,10400009 //14400009

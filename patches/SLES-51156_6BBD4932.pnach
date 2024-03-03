@@ -3,4 +3,4 @@ gametitle=Silent Hill 2 - Director's Cut (PAL-M) SLES-51156 6BBD4932
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,001A7060,word,10000009 //14400009
+patch=1,EE,001A7060,word,10400009 //14400009
