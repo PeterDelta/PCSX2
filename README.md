@@ -123,6 +123,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(H)**
 - Half-Life (PAL-S) SLES-50509 F9E3CF90 - Valid for other PAL
 - Herdy Gerdy (PAL-M) SLES-50751 DFD04E33
+- Hitman - Blood Money (PAL-S) SLES-53032 72DC82B5
 - Hobbit, The (PAL-M) SLES-51723 554A62A4 (PAL-R) SLES-52247
 ## **(I)**
 - Ice Age 2 (PAL-M) SLES-53984 2EC49E65
