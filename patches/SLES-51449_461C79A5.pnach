@@ -1,6 +1,0 @@
-gametitle=Return to Castle Wolfenstein - Operation Resurrection (PAL-E) SLES-51449 461C79A5
-
-[Unlock FPS]
-author=PeterDelta
-description=Might need EE Overclock to be stable (130%).
-patch=1,EE,00174394,word,2C420001 //2C420002
