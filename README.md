@@ -44,6 +44,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Champions of Norrath (PAL-S) SLES-52373 D18EF711
 - Codename - Kids Next Door Operation V.I.D.E.O.G.A.M.E. SLES-53812 A38C6B77
 - Commandos - Strike Force (PAL-M) SLES-52768 5E1161DF
+- Constantine (PAL-M) SLES-52872 715AD5FD
 - Conflict - Global Storm (PAL-M) SLES-52573 73973370
 - Coraline (PAL-M) SLES-55470 4F82849C
 - Crash Nitro Kart (PAL-M6) SLES-51511 1B09B0E4
@@ -106,7 +107,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Ghosthunter (PAL-M) SCES-51463 3BD85DA4
 - Ghost in the Shell - Stand Alone Complex (PAL-M) SLES-53020 BF6F101F
 - Ghost Rider (PAL-M) SLES-54317 F9DD17AA
-- Gift (PAL-S) SLES-50299 212D709B
+- Gift (PAL-S) SLES-50299 212D709B - Valid for other PAL (PAL-E) SLES-50276 CC76CD02
 - Garfield (PAL-M) SLES-52843 F8F8CD47
 - Garfield - Lasagna World Tour (PAL-M) SLES-54817 98317385
 - Garfield 2 - Tale of Two Kitties (PAL-M) SLES-54172 627B8252
@@ -211,7 +212,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Red Faction II (PAL-M3) SLES-51133 1629D655
 - Reservoir Dogs (PAL-M) SLES-53775 36C11474 (NTSC-U) SLUS-21479 08C682C1
 - Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9 (A5434CCF spanish 1.0) ``Need: more speeds``
-- Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 (PAL-E) SLES-51449
+- Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 - Valid for other PAL
 - Ridge Racer V (PAL-M) SCES-50000 5BBC2F40 
 - Robots (PAL-M) SLES-53052 B860F5B6
 - Rogue Trooper (PAL-M) SLES-52921 03C8EA64
@@ -221,7 +222,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Scaler (PAL-M) SLES-52918 E54D237D
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
 - Serious Sam - Next Encounter (PAL-M) SLES-52450 2CC13DED
-- ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
+- ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E - Valid for NTSC-U
 - Shield - The Game, The (PAL-M) SLES-54720 55AFBD7E
 - Shifters (PAL-S-I) SLES-50645 C8F64115 (PAL-E) SLES-50644 (NTSC-U) SLUS-20271
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
@@ -272,6 +273,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Tom Clancy's Ghost Recon 2 (PAL-M) SLES-52646 CE64E328
 - Tom Clancy's Rainbow Six 3 (PAL-M) SLES-52288 28A2774C
 - Tom Clancy's Splinter Cell - Pandora Tomorrow (PAL-M) SLES-52149 80FAC91D (NTSC-U) SLUS-20958 0277247B
+- Tom Clancy's Splinter Cell - Chaos Theory (PAL-M) SLES-53287 DDAEB7A6
 - Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903 ``Need: speed IA more exact``
 - Torrente 3 - El Protector (PAL-S) SLES-53979 E71273AC (PAL-E) SLES-54117 28241DFE
 - Total Overdose (PAL-M) SLES-53492 4C380F8B (NTSC-U) SLUS-21283 461F9727
