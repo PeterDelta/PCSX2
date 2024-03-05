@@ -3,6 +3,6 @@ gametitle=XGRA - Extreme G Racing Association (NTSC-U) SLUS-20632 56B36513
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,002052C4,word,1040FFFA
+patch=1,EE,002052B4,extended,30420004
 patch=1,EE,E0010000,extended,01FFE32C
-patch=1,EE,202052C4,extended,00000000
+patch=1,EE,002052B4,extended,30420008
