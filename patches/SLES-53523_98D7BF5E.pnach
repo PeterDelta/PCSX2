@@ -3,4 +3,4 @@ gametitle=Gun (PAL-M) SLES-53523 98D7BF5E
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,0028E9E8,word,1000000B //1040000B
+patch=1,EE,0028E9C4,word,16000019 //12000019
