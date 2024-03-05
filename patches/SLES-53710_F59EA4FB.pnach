@@ -3,4 +3,4 @@ gametitle=Crónicas de Narnia, Las - El León, La Bruja y El Armario (PAL-S) SLE
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,001721DC,word,00000000
+patch=1,EE,001721D8,word,28420001 //28420002
