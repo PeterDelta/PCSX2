@@ -3,7 +3,7 @@ gametitle=Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (180%).
-patch=1,EE,001030F0,word,1602FFFB //1202FFFB
+patch=1,EE,00125488,word,14400003 //10400003
 
 [480p Mode]
 gsinterlacemode=1
