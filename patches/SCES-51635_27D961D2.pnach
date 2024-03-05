@@ -3,9 +3,9 @@ gametitle=Brave - The Search for Spirit Dancer (PAL-M) SCES-51635 27D961D2
 [Unlock FPS]
 author=PeterDelta
 description=Might need EE Overclock to be stable (130%).
-patch=1,EE,2033A784,extended,00000000
+patch=1,EE,0033A774,extended,30420008
 patch=1,EE,E0010000,extended,003C66C8
-patch=1,EE,2033A784,extended,1040FFFA
+patch=1,EE,0033A774,extended,30420004
 
 [NTSC Mode]
 author=PeterDelta
