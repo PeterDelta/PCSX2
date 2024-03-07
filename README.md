@@ -233,6 +233,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sims 2, The (PAL-M) SLES-53718 E626181E
 - Sims 2, The - Pets (PAL-M) SLES-54347 774E8455
 - Simpsons Game, The (PAL-S-I) SLES-54906 565B7E04
+- Sled Storm (PAL-M) SLES-50683 26BD4CDC
+- Smash Cars (PAL-M) SLES-51800 7FE15107
 - Smuggler's Run (PAL-M) SLES-50061 95416482
 - Sniper Elite (PAL-M) SLES-51820 EF47C233
 - Sonic Heroes (PAL-M) SLES-51950 B7CF071A
