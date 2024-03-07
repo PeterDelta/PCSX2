@@ -3,12 +3,12 @@ gametitle=Gran Turismo 3 (PAL-M) SCES-50294 B590CE04
 [No-Interlacing]
 gsinterlacemode=1
 author=PeterDelta
-comment=Attempts to disable interlaced offset rendering.
+description=Enable progressive interlacing.
 patch=1,EE,0028F81C,word,3C050000
 
 [60 FPS]
 author=PeterDelta
-comment=Forces progressive scan and run at 60 fps
+description=Forces progressive scan and run at 60 fps
 patch=1,EE,2028F840,extended,24120052
 patch=1,EE,2035163C,extended,3C888889 //3CA3D70A speed flags 
 patch=1,EE,20351F1C,extended,3C888889 //3CA3D70A speed cars
