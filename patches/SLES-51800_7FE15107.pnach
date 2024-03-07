@@ -1,0 +1,28 @@
+gametitle=Smash Cars (PAL-M) SLES-51800 7FE15107
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=sergx12 & PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,0012696C,word,3C023CAC //3C023C8E fov singleplayer
+patch=1,EE,00126974,word,3442A2D8 //3442FA35
+patch=1,EE,001269B4,word,3C023CAC
+patch=1,EE,001269BC,word,3442A2D8
+patch=1,EE,00126B4C,word,3C023CAC // fov multiplayer
+patch=1,EE,00126B54,word,3442A2D8
+patch=1,EE,00126BA8,word,3C023CAC
+patch=1,EE,00126BB0,word,3442A2D8
+patch=1,EE,001b363c,word,3C033FAC //3C033F80 vert fov
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Enable progressive interlacing.
+patch=1,EE,001020C4,word,3C050000
+
+[Unlock FPS]
+author=PeterDelta
+description=Might need EE Overclock to be stable (130%).
+patch=1,EE,201C8124,extended,1460FFFA
+patch=1,EE,E0010000,extended,003985B0
+patch=1,EE,201C8124,extended,1060FFFA
