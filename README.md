@@ -130,9 +130,10 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Ice Age 2 (PAL-M) SLES-53984 2EC49E65
 - Ice Age 3 (PAL-M) SLES-55487 61E4C8E7
 - Incredible Hulk, The - Ultimate Destruction (PAL-M) SLES-53430 6B3D50A5
+- IndyCar Series 2005 (PAL-M) SLES-52298 30C406CE
 ## **(J)**
 - Jak and Daxter - La frontera perdida (The Lost Frontier) (PAL-M) SCES-55510 71583CA9
-- Judge Dredd - Dredd vs. Death (PAL-M) SLES-51649 6E900957
+- Judge Dredd - Dredd vs. Death (PAL-M) SLES-51649 6E900957 (NTSC-U) SLUS-20869 759F05CB
 - Juiced 2 (PAL-M) SLES-54834 6D1B0C02
 - Jumanji (PAL-M) SLES-54382 0CA21A7F (PAL-M) SLES-54427 72A2D46E
 - Jurassic Park - Operation Genesis (PAL-M) SLES-51354 960FFA6A
