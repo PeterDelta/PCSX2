@@ -1,0 +1,10 @@
+gametitle=The Incredibles - Rise of the Underminer (PAL-M) SLES-53474 F3AE68FC
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Forces progressive scan mode 480p at startup.
+patch=1,EE,00106C20,word,34050050
+patch=1,EE,00106C24,word,24030002
+patch=1,EE,00106C28,word,0000000C
+patch=1,EE,00106C2C,word,03E00008
