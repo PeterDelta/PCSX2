@@ -9,7 +9,7 @@ patch=1,EE,0047015C,word,241102AA //00000000 (Increases hor. axis)
 [No-Interlacing]
 gsinterlacemode=1
 author=PeterDelta
-description=Attempts to disable interlaced offset rendering.
+description=Enable progressive interlacing.
 patch=1,EE,00568624,word,3C051000
 
 [Unlock FPS]
