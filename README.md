@@ -129,6 +129,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(I)**
 - Ice Age 2 (PAL-M) SLES-53984 2EC49E65
 - Ice Age 3 (PAL-M) SLES-55487 61E4C8E7
+- The Incredibles (PAL-S) SLES-52816 197641AA
+- The Incredibles 2 (PAL-M) SLES-53474 F3AE68FC
 - Incredible Hulk, The - Ultimate Destruction (PAL-M) SLES-53430 6B3D50A5
 - IndyCar Series 2005 (PAL-M) SLES-52298 30C406CE
 ## **(J)**
