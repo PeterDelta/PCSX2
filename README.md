@@ -66,10 +66,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Disney Bolt (PAL-M) SLES-55429 841CF939 (PAL-M) SLES-55430 F77BF348
 - Disney Chicken Little (PAL-M) SLES-53739 AB75D540
 - Disney Chicken Little - Ace in action (PAL-S) SLES-54452 F7D63335
-- Disney Meet the Robinsons (PAL-M) SLES-54510 C76031E8
 - Disney G-Force (PAL-M) SLES-55499 AB761209 (PAL-R) SLES-55502 09BF522A
-- Disney Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
+- Disney Meet the Robinsons (PAL-M) SLES-54510 C76031E8
 - Disney Piglet - El Gran Juego (PAL-S) SLES-51666 1BD0A97E
+- Disney Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
+- Disney Treasure Planet (PAL-M) SCES-51177 E6A57677
 - Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
 - Disney-Pixar Ratatouille (PAL-S-P) SLES-54747 4FE9650B
 - Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029
@@ -243,7 +244,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sonic Heroes (PAL-M) SLES-51950 B7CF071A
 - Sonic Unleashed (PAL-M) SLES-55380 8C913264
 - Sonic Gems Collection (PAL-M) SLES-53350
-- Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
+- Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9 (NTSC-U) SLUS-20707 B7E7D66F
 - Spider-Man (PAL-S) SLES-50965 CCF57297
 - Spider-Man 2 (PAL-M) SLES-52372 6B68932C
 - Spider-Man 3 (PAL-M) SLES-54724 C529B0AD
