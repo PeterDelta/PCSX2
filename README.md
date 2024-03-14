@@ -87,6 +87,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895 (NTSC-U) SLUS-21870 D3C84C28
 - DreamWorks Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54316 30204F8E (NTSC-U) SLUS-21467
 - DreamWorks Shrek the Third (PAL-M) SLES-54771 6DD4EB8D
+- Driven (PAL-M) SLES-50390 250353F1
+- Driven to Destruction (PAL-M) SLES-52733 3F0D3C94 ``Need: fix resolution in ntsc mode``
 - Driv3r (PAL-M) SLES-52153 E94FBF35
 - Driver - Parallel Lines (PAL-M) SLES-53556 D720770D
 ## **(E)**
