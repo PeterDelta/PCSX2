@@ -9,7 +9,11 @@ patch=1,EE,0037e550,word,3421a5ef //3421bc76 hor fov gameplay / ver fov cut-scen
 patch=1,EE,002d1594,word,3c014158 //3c014190 zoom cut-scenes
 patch=1,EE,0037d694,word,3c013fa4 //3c013faa zoom fix
 patch=1,EE,0037d698,word,3421bc76 //3421aaab zoom fix
-patch=1,EE,0031d1f4,word,3c013f80 //3c014000 remove black bars in cut-scenes
+
+[Remove Blackbars]
+author=ElHecht
+description=Remove black bars in cutscenes
+patch=1,EE,0031d1f4,word,3c013f80 //3c014000
 
 [Unlock FPS]
 author=PeterDelta
