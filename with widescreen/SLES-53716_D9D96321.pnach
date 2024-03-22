@@ -15,7 +15,11 @@ patch=1,EE,001486c8,word,46016303
 patch=1,EE,00148318,word,0c0521ab
 patch=1,EE,00197d6c,word,0c0521ab
 patch=1,EE,00197d88,word,0c0521ab
-patch=1,EE,0017f6ec,word,3c013f80 //black borders fix
+
+[Remove Blackbars]
+author=nemesis2000
+description=Remove black bars in cutscenes
+patch=1,EE,0017f6ec,word,3c013f80
 
 [Unlock FPS]
 author=PeterDelta
