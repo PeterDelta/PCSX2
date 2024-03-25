@@ -2,7 +2,7 @@ gametitle=Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=Arapapa, Nemesis, PeterDelta
+author=Arapapa, nemesis2000, PeterDelta
 description=Renders the game in 16:9 aspect ratio
 patch=1,EE,002DA664,word,3C013FAB //3C013F80 X-FOV
 patch=1,EE,002DA688,word,3C013FAB //3C013F80 Render Fix
