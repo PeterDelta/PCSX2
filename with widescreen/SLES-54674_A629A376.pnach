@@ -7,7 +7,11 @@ description=Native Widescreen activation hack.
 patch=1,EE,20398590,extended,3F800000 // 00000000
 patch=1,EE,203BED10,extended,00000001 // 00000000
 patch=1,EE,20992524,extended,00000001 // 00000000
-patch=1,EE,0016F374,word,3C01BF80 // Removes the Blackbars
+
+[Blackbars/Remove]
+author=pgert
+description=Removes the Blackbars
+patch=1,EE,0016F374,word,3C01BF80
 patch=1,EE,0016F380,word,3C013F80
 
 [Unlock FPS]
@@ -21,3 +25,4 @@ author=PeterDelta
 description=Forces progressive scan mode 480p at startup.
 patch=1,EE,003BECEC,word,00000001
 patch=1,EE,003985A0,word,3F800000
+patch=1,EE,00126E7C,word,240301C0
