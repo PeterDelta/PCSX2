@@ -1,0 +1,12 @@
+gametitle=SSX On Tour (PAL-M) SLES-53552 686B786E
+
+[Unlock FPS]
+author=PeterDelta
+description=Might need EE Overclock to be stable (130%).
+patch=1,EE,0031338C,word,26310002 //26310001
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Forces progressive scan mode 480p at startup.
+patch=1,EE,003503C4,word,24020050
