@@ -3,7 +3,7 @@ gametitle=Driven to Destruction (PAL-M) SLES-52733 3F0D3C94
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,00100620,word,14400003
 
 //[NTSC Mode]

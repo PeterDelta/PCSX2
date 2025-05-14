@@ -3,7 +3,7 @@ gametitle=Just Cause (PAL-M) SLES-54137 5CC61637
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,207BEE08,extended,3FAAAAAB //3f800000
 
 [50/60 FPS]

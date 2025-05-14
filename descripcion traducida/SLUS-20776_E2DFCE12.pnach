@@ -1,13 +1,20 @@
-gametitle=Spider-Man 2 (PAL-M) SLES-52372 6B68932C
+gametitle=Spider-Man 2 (NTSC-U) SLUS-20776 E2DFCE12
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=flameofrecca and CRASHARKI
-description=Renders the game in 16:9 aspect ratio
-//Original NTSC-U pnach by flameofrecca; new zoom value, gauge_hero, some map and the unused boss hud codes found by CRASHARKI
-patch=1,EE,2067ac70,word,3f947ae1  //vertical fov 3f5eb852
-patch=1,EE,2067ac68,word,3c28a2f7  //zoom value 3c0efa35
-patch=1,EE,206db628,word,41580000  // level_500_trick 41900000 - Map Screen HUD, text fixes
+author=flameofrecca, PeterDelta & CRASHARKI
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,0067A910,word,3F947AE1 //vertical fov 3f5eb852
+patch=1,EE,0067A908,word,3C28A2F7 //zoom value 3c0efa35
+patch=1,EE,00661DD8,word,3F860A8A //textures fix by PeterDelta
+patch=1,EE,00661DE8,word,3F860A8A
+patch=1,EE,00661DEC,word,3F800000
+
+//Map Screen HUD, text fixes
+//search the 206d**** address range for more map screen hud fixes
+//patch=1,EE,206d8034,word,425c0000  // map_igo_compass 42680000 - this breakes the compass in map menu
+//patch=1,EE,206d8048,word,42fa0000  // map_igo_compass 42f40000 - this breakes the compass in map menu
+patch=1,EE,206db628,word,41580000  // level_500_trick 41900000
 patch=1,EE,206db634,word,41580000  // level_500_trick 41900000
 patch=1,EE,206db768,word,41580000  // level_500_hint 41900000
 patch=1,EE,206db774,word,41580000  // level_500_hint 41900000
@@ -24,7 +31,9 @@ patch=1,EE,206df918,word,3f400000  // text_menu_trick1 3f800000
 patch=1,EE,206df9e8,word,3f400000  // text_menu_missions1 3f800000
 patch=1,EE,206dfab8,word,3f400000  // map_igo_elevation_indicator_text_number 3f800000
 patch=1,EE,206dfbb0,word,3f400000  // text_menu_hint1 3f800000
-patch=1,EE,20720ce0,word,42680000  //gauge_frame 42300000 - Onscreen HUD
+
+//Onscreen HUD
+patch=1,EE,20720ce0,word,42680000  //gauge_frame 42300000
 patch=1,EE,20720cf4,word,42680000  //gauge_frame 42300000
 patch=1,EE,20720d08,word,43140000  //gauge_frame 43240000
 patch=1,EE,20720d1c,word,43140000  //gauge_frame 43240000
@@ -46,18 +55,3 @@ patch=1,EE,2072a16c,word,42680000  //gauge_frame_hero 42300000
 patch=1,EE,20723DDC,word,42340000  //gauge_hero_03 42700000
 patch=1,EE,20723FFC,word,42340000  //gauge_hero_02 42700000
 patch=1,EE,2072421C,word,42340000  //gauge_hero_01 42700000
-
-[50/60 FPS]
-author=PeterDelta
-description=Might need EE Overclock (130%).
-patch=1,EE,0060AD20,extended,00000001
-patch=1,EE,E0010002,extended,01907014
-patch=1,EE,0060AD20,extended,00000002
-
-[480p Mode]
-gsinterlacemode=1
-author=PeterDelta
-description=SDTV 480p mode at start.
-patch=1,EE,00578864,word,3C050000
-patch=1,EE,0057886C,word,3C060050
-patch=1,EE,00578874,word,3C070001

@@ -3,7 +3,7 @@ gametitle=NBA Live 2005 (PAL-S) SLES-52727 3DF16621
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,20811428,extended,3FD55555
 patch=1,EE,0081505C,extended,00000000
 

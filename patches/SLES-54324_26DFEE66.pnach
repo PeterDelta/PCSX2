@@ -3,7 +3,7 @@ gametitle=Need for Speed - Carbon (PAL-R) SLES-54324 26DFEE66
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Widescreen fix
+description=Corrects display cropping to 16:9.
 patch=1,EE,E0010000,extended,00A6E514
 patch=1,EE,00A6E514,extended,00000001
 patch=1,EE,2061E978,extended,3F400000

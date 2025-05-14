@@ -3,7 +3,7 @@ gametitle=TMNT Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (PAL-M) SLES-53
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0028ff90,word,3c023fe3 // 3c023faa ver fov
 patch=1,EE,0028ff98,word,34428e38 // 3442aaab ver fov
 patch=1,EE,0028fe50,word,3c013f40 // 00000000 zoom

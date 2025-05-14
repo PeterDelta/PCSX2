@@ -3,7 +3,7 @@ gametitle=Dark Angel (PAL-M) SLES-51333 5BE3F481
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=0,EE,002504BC,word,3C013F30
 patch=0,EE,0034AB30,word,3C013F1A
 patch=0,EE,00280878,word,3C013FE3

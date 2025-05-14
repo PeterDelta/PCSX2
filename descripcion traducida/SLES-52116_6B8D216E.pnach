@@ -3,7 +3,7 @@ gametitle=Sitting Ducks (PAL-M) SLES-52116 6B8D216E
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,004677F0,word,3FE38E39
 
 [50/60 FPS]

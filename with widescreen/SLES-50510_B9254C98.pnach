@@ -3,7 +3,7 @@ gametitle=The Mummy Returns (PAL-M) SLES-50510 B9254C98
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,001f9a94,word,08030000 X-Fov
 patch=1,EE,000c0000,word,c6150064
 patch=1,EE,000c0004,word,3c013f40

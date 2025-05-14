@@ -1,0 +1,22 @@
+gametitle=Grand Theft Auto - Vice City Stories (NTSC-U) SLUS-21590 4F32A11F
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrige el recorte de pantalla a 16:9.
+patch=1,EE,01FB5830,extended,01
+patch=0,EE,002970A0,extended,3C0142AC
+patch=0,EE,0029E140,extended,3C0142AC
+patch=0,EE,002A0078,extended,3C0142AC
+patch=0,EE,0037AEE4,extended,3C0142AC
+
+[Remove Ghosting Effects]
+author=PeterDelta
+description=Elimina el efecto fantasma y devuelve una imagen limpia y nítida.
+patch=0,EE,00486548,extended,00
+patch=0,EE,0048876C,extended,00
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=0,EE,00317ACC,extended,02

@@ -7,4 +7,9 @@ patch=1,EE,2035744C,extended,00000000
 patch=1,EE,E0010005,extended,0033EC84 //fmv
 patch=1,EE,2035744C,extended,00000001
 patch=1,EE,203795E8,extended,3F99999A
-patch=1,EE,2037D318,extended,3F99999A
+patch=1,EE,2037D318,extended,3F800000
+
+[Remove Blur]
+author=PeterDelta
+description=Removes the blur effect displayed in some cutscenes.
+patch=1,EE,00521640,extended,00

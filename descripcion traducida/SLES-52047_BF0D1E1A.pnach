@@ -3,7 +3,7 @@ gametitle=Sims, The - Bustin' Out (PAL-M) SLES-52047 BF0D1E1A
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00293da0,word,3c013fe3 //3c013faa
 patch=1,EE,00293da4,word,34218e2a //3421aaab
 

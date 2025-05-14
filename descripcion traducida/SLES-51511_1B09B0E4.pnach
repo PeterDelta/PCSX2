@@ -3,7 +3,7 @@ gametitle=Crash Nitro Kart (PAL-M6) SLES-51511 1B09B0E4
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0058BF68,word,3C023F17 //3C023F00 (Increases hor. axis)
 
 [480p Mode]

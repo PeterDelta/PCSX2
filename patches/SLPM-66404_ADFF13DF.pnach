@@ -3,7 +3,7 @@ gametitle=Ultimate Spider-Man (NTSC-J) SLPM-66404 ADFF13DF
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa & PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=0,EE,0058B7A0,word,081820D4
 patch=0,EE,00608350,word,3C030074
 patch=0,EE,00608354,word,3C013FAA

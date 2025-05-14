@@ -3,7 +3,7 @@ gametitle=ObsCure (PAL-M) SLES-52508 4D4C7E9D
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 // 16:9 alternate gameplay value by nemesis2000
 patch=1,EE,003ae394,word,08101a0c // 46070202  jump to code-inject 00406830
 patch=1,EE,003ae398,word,00000000 // 24430050

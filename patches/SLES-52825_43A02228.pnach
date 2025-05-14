@@ -3,7 +3,7 @@ gametitle=Serie de Catastróficas Desdichas de Lemony Snicket, Una (PAL-S) SLES-
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa & PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,0019C130,word,3C013F1B //3C013F00 Zoom
 patch=1,EE,0019C17C,word,080EB428 //Y-Fov
 patch=1,EE,003AD0A0,word,46001082

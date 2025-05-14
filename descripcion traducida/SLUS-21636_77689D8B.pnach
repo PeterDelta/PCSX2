@@ -3,7 +3,7 @@ gametitle=Looney Tunes - ACME Arsenal (NTSC-U) SLUS-21636 77689D8B
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 //patch=1,EE,20468450,extended,40180000 //3FAAAAAB
 //patch=1,EE,20957A24,extended,40120000 //3FE38E39 Menu
 patch=1,EE,208269D0,extended,3F100000

@@ -1,0 +1,8 @@
+# Grinch, The (Europe) SLES-02974
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A7087498 00010000
+A707270c 00100000

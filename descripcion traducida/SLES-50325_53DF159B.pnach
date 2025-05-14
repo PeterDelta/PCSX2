@@ -3,7 +3,7 @@ gametitle=Max Payne (PAL-E) SLES-50325 53DF159B MAIN_P.RUN
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0050e3b0,word,3c013f40 // 00000000 hor fov
 patch=1,EE,0050e3b8,word,4481f000 // 00000000
 patch=1,EE,0050e3bc,word,0c04821c // 00000000

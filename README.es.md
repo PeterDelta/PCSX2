@@ -22,7 +22,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>4 Fantásticos, Los</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53147_F67E4351.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53147_F67E4351.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-53146_F1C96312.pnach">PAL-I</a></td>
     <td>válido para otro PAL</td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Astro Boy</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-52486_3751BD05.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52486_3751BD05.pnach">PAL-M</a> - <a href="descripcion traducida/SLPM-65551_36B523BC.pnach">JAP</a> - <a href="descripcion traducida/SLKA-25159_6BE74384.pnach">KOR</a></td>
     <td></td>
   </tr>
   <tr>
@@ -142,12 +142,12 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Black</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53886_ADDFF505.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53886_ADDFF505.pnach">PAL-M</a> - <a href="descripcion traducida/SLKA-25372_688E77CC.pnach">KOR</a></td>
     <td></td>
   </tr>
   <tr>
     <td>BloodRayne</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-51474_C81B1F33.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51474_C81B1F33.pnach">PAL-M</a> - <a href="descripcion traducida/SLPM-65665_DEA7637C.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
-    <td>Blood Will Tell - Tezuka Osamu's Dororo</td>
+    <td>Blood Will Tell</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-52755_D78D3D1F.pnach">PAL-M</a></td>
     <td></td>
   </tr>
@@ -212,7 +212,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Champions of Norrath</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-52373_D18EF711.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52373_D18EF711.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-52325_75D86958.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>
@@ -222,12 +222,12 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Chronicles of Narnia 1</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53710_F59EA4FB.pnach">PAL-S</a> - <a href="descripcion traducida/SLUS-21082_7A9723B8.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53710_F59EA4FB.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-53708_FD9FA4FC.pnach">I</a> - <a href="descripcion traducida/SLES-53707_F29FA505.pnach">G</a> - <a href="descripcion traducida/SLES-53709_D9B0B170.pnach">F</a> - <a href="descripcion traducida/SLES-53712_37718361.pnach">SC</a> - <a href="descripcion traducida/SLES-53715_81E2365F.pnach">R</a> - <a href="descripcion traducida/SLUS-21082_7A9723B8.pnach">USA</a> - <a href="descripcion traducida/SLPS-25626_285D9F42.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Chronicles of Narnia 2</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-55144_63A8E32A.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21756_E43E46E6.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-55144_63A8E32A.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-55146_D580DE00.pnach">E</a> - <a href="descripcion traducida/SLES-55143_F1FCA84F.pnach">G/I</a> - <a href="descripcion traducida/SLES-55145_A8DCE69E.pnach">F/NL</a> - <a href="descripcion traducida/SLUS-21756_E43E46E6.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Crazy Taxi</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-50215_C9C145BF.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50215_C9C145BF.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20202_F00293CA.pnach">USA</a> - <a href="descripcion traducida/SLPM-62102_8C78493E.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -303,6 +303,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Curse - The Eye of Isis</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-51934_7100A15F.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dead or Alive 2</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SCES-50003_7A51F86E.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>
@@ -326,7 +331,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td>válido para NTSC-U</td>
   </tr>
   <tr>
-    <td>Delta Force Black Hawk Down Team Sabre</td>
+    <td>Delta Force - Team Sabre</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-54115_A8DB29DF.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21414_3115A446.pnach">USA</a></td>
     <td></td>
   </tr>
@@ -336,7 +341,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
-    <td>Destroy All Humans 2 - Make War not Love</td>
+    <td>Destroy All Humans 2</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-54384_743E10C2.pnach">PAL-M</a></td>
     <td></td>
   </tr>
@@ -372,7 +377,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Disney Piglet - El Gran Juego</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-51666_1BD0A97E.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51666_1BD0A97E.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-51594_49B3396B.pnach">PAL-E</a></td>
     <td></td>
   </tr>
   <tr>
@@ -387,7 +392,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Disney Tarzan - Freeride/Untamed</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-50350_368E1540.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20076_9CF6FA75.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50350_368E1540.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20076_9CF6FA75.pnach">USA</a> - <a href="descripcion traducida/SLPS-20160_145DD6EF.pnach">JAP</a> - <a href="descripcion traducida/SLPM-67520_8CF4E374.pnach">KOR</a></td>
     <td></td>
   </tr>
   <tr>
@@ -407,7 +412,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Disney-Pixar Buscando a Nemo</td>
-    <td style="text-align:center;"><a href="patches/SLES-51870_BE44D7D5.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51870_BE44D7D5.pnach">PAL-S</a></td>
     <td></td>
   </tr>
   <tr>
@@ -429,6 +434,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td>Dr. Muto</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-50710_BA7CAA90.pnach">PAL-M</a></td>
     <td>corregir al empieza a andar</td>
+  </tr>
+  <tr>
+    <td>Dragon Ball Z - Budokai</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51233_37472BE0.pnach">PAL-M</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Dragon Quest VIII</td>
@@ -462,7 +472,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>DreamWorks Madagascar</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53246_D3051E54.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-53226_1468C474.pnach">PAL-G</a> - <a href="descripcion traducida/SLUS-21015_09052A4D.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53246_D3051E54.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-53226_1468C474.pnach">PAL-G</a> - <a href="descripcion traducida/SLUS-21015_09052A4D.pnach">USA</a> - <a href="descripcion traducida/SLPS-20426_3EEB8615.pnach">JAP</a></td>
     <td>PAL-S: válido para PAL-E</td>
   </tr>
   <tr>
@@ -492,7 +502,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>DreamWorks Shrek Tercero</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-54771_6DD4EB8D.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-54771_6DD4EB8D.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-54774_8530C252.pnach">PAL-M3</a> - <a href="descripcion traducida/SLES-54770_BE53A1AD.pnach">PAL-E</a></td>
     <td></td>
   </tr>
   <tr>
@@ -507,12 +517,12 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Driver 3</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-52153_E94FBF35.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52153_E94FBF35.pnach">PAL-S</a> - <a href="descripcion traducida/SLPM-65741_FC99AD8C.pnach">JAP</a></td>
     <td>Válido para otro PAL</td>
   </tr>
   <tr>
     <td>Driver - Parallel Lines</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53556_D720770D.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53556_D720770D.pnach">PAL-M</a> - <a href="descripcion traducida/SLPM-66567_A9075CB7.pnach">JAP</a></td>
     <td>Válido para otro PAL</td>
   </tr>
   <tr>
@@ -528,6 +538,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Enter the Matrix</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-51203_F1370E83.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Enthusia Professional Racing</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53125_5C63B5AC.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20967_81D233DC.pnach">USA</a> - <a href="descripcion traducida/SLPM-65948_5637E95B.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -547,7 +562,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Fahrenheit</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53540_8191D10A.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53540_8191D10A.pnach">PAL-M</a> - <a href="descripcion traducida/SLPM-66193_25064744.pnach">JAP</a></td>
     <td>vale para otras versiones</td>
   </tr>
   <tr>
@@ -596,8 +611,13 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
+    <td>Franklin - A Birthday Surprise</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53903_22253F9F.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21382_309FC75F.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Freedom Fighters</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-51471_6EEE06DD.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-51468_A6698B41.pnach">PAL-F</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51471_6EEE06DD.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-51468_A6698B41.pnach">PAL-F</a> - <a href="descripcion traducida/SLPM-65548_9B9EFDC3.pnach">JAP</a></td>
     <td>FF.ELF PAL-S: Válido para otro PAL</td>
   </tr>
   <tr>
@@ -683,21 +703,31 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Gran Turismo 4</td>
     <td style="text-align:center;"><a href="descripcion traducida/SCES-51719_44A61C8F.pnach">PAL-M</a></td>
-    <td>corregir velocidad de ia</td>
+    <td></td>
   </tr>
   <tr>
     <td>Grand Theft Auto III</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-50330_021396FD.pnach">PAL-v1</a> - <a href="descripcion traducida/SLES-50330_581954FC.pnach">PAL-v2</a> - <a href="descripcion traducida/SLUS-20062_5E115FB6.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50330_021396FD.pnach">PAL-v1</a> - <a href="descripcion traducida/SLES-50330_581954FC.pnach">PAL-v2</a> - <a href="descripcion traducida/SLUS-20062_5E115FB6.pnach">USA</a> - <a href="descripcion traducida/SLPM-65382_B65C316F.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Grand Theft Auto - Vice City</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-51061_C498A04F.pnach">PAL-v1</a> - <a href="descripcion traducida/SLES-51061_CFCB0D20.pnach">PAL-v2</a> - <a href="descripcion traducida/SLES-51061_26954C46.pnach">PAL-v3</a> - <a href="descripcion traducida/SLUS-20920_C16AB0E7.pnach">USA-v1</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51061_C498A04F.pnach">PAL-v1</a> - <a href="descripcion traducida/SLES-51061_CFCB0D20.pnach">PAL-v2</a> - <a href="descripcion traducida/SLES-51061_26954C46.pnach">PAL-v3</a> - <a href="descripcion traducida/SLUS-20552_20B19E49.pnach">USA-v1</a> - <a href="descripcion traducida/SLUS-20552_9E312BAF.pnach">USA-v2</a> - <a href="descripcion traducida/SLUS-20552_248E6126.pnach">USA-v3</a> - <a href="descripcion traducida/SLPM-65488_FA2726BE.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Grand Theft Auto - San Andreas</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-52541_A1B3F232.pnach">PAL-v1</a> - <a href="descripcion traducida/SLES-52541_B440A8FE.pnach">PAL-v2</a> - <a href="descripcion traducida/SLES-52927_B61F872C.pnach">PAL-Gv2</a> - <a href="descripcion traducida/SLUS-20946_399A49CA.pnach">USA-v1</a> - <a href="descripcion traducida/SLUS-20946_2C6BE434.pnach">USA-v2</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52541_A1B3F232.pnach">PAL-v1</a> - <a href="descripcion traducida/SLES-52541_B440A8FE.pnach">PAL-v2</a> - <a href="descripcion traducida/SLES-52927_B61F872C.pnach">PAL-Gv2</a> - <a href="descripcion traducida/SLUS-20946_399A49CA.pnach">USA-v1</a> - <a href="descripcion traducida/SLUS-20946_2C6BE434.pnach">USA-v2</a> - <a href="descripcion traducida/SLPM-65984_60FE139C.pnach">JAP</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Grand Theft Auto - Liberty City Stories</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-54135_D693D4CF.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-54136_1D85625C.pnach">PAL-G</a> - <a href="descripcion traducida/SLUS-21423_7EA439F5.pnach">USA</a> - <a href="descripcion traducida/SLPM-66851_7812A8FA.pnach">JAP</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Grand Theft Auto - Vice City Stories</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-54622_B3AD1EA4.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-54623_17E62113.pnach">PAL-G</a> - <a href="descripcion traducida/SLUS-21590_4F32A11F.pnach">USA</a> - <a href="descripcion traducida/SLPM-66917_7378755B.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -707,7 +737,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Gun</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53523_98D7BF5E.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53523_98D7BF5E.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21139_4B80628D.pnach">NTSC-U</a></td>
     <td></td>
   </tr>
   <tr>
@@ -757,7 +787,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Hobbit, The</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-51723_554A62A4.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-52247_36ECD588.pnach">PAL-R</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51723_554A62A4.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-52247_36ECD588.pnach">PAL-R</a> - <a href="descripcion traducida/SLUS-20655_2D29C32F.pnach">USA</a> - <a href="descripcion traducida/SLPM-65728_C33049D7.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -801,6 +831,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
+    <td>Italian Job - L.A. Heist</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51761_9A74EC41.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Jak and Daxter - El Legado de los Precursores</td>
     <td style="text-align:center;"><a href="descripcion traducida/SCES-50361_9C712FF0.pnach">PAL-M</a></td>
     <td></td>
@@ -834,6 +869,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td>Jeremy McGrath Supercross World</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-50209_05BEDF8F.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20245_B2ABEEF3.pnach">USA</a></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Jet Li - Rise to Honor</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SCES-51971_DE46C6A1.pnach">PAL-M</a></td>
+    <td>FMV not sync, gameplay ok</td>
   </tr>
   <tr>
     <td>Judge Dredd - Dredd vs. Death</td>
@@ -883,6 +923,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Kingdom Hearts II</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-54235_C398F477.pnach">PAL-S</a> - <a href="descripcion traducida/SLUS-21005_DA0535FD.pnach">USA</a> - <a href="descripcion traducida/SLPM-66675_F266B00B.pnach">JAP</a></td>
+    <td>PAL-S Válido para otro PAL</td>
+  </tr>
+  <tr>
+    <td>Klonoa 2 - Lunatea's Veil</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SCES-50354_7EBEEBBD.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20151_2F56CBC9.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -992,7 +1037,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Marc Ecko's Getting Up</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53459_F73AC0A0.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21032_1CF99B88.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53459_F73AC0A0.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21032_1CF99B88.pnach">USA</a> - <a href="descripcion traducida/SLKA-25331_068558AE.pnach">KOR</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1157,7 +1202,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Need for Speed - Underground 2</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-52725_CFB873AD.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52725_CFB873AD.pnach">PAL-M</a> - <a href="descripcion traducida/SLPM-65766_C4CD9137.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1182,8 +1227,9 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Need for Speed - Undercover</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-55351_422281E6.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-55353_A2BFF202.pnach">PAL-R</a> - <a href="descripcion traducida/SLUS-21801_7029F4DB.pnach">USA</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-55351_422281E6.pnach">PAL-S</a>-<a href="descripcion traducida/SLES-55353_A2BFF202.pnach">R</a>-<a href="descripcion traducida/SLES-55350_2FCBAB60.pnach">F/G</a>-<a href="descripcion traducida/SLES-55349_FA63D948.pnach">A</a>-<a href="descripcion traducida/SLPM-55127_50776EE1.pnach">JAP</a>-<a href="descripcion traducida/SLUS-21801_7029F4DB.pnach">USA</a></td>
     <td></td>
+  </tr>
   </tr>
   <tr>
     <td>NHL 2K7</td>
@@ -1241,6 +1287,16 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
+    <td>Pro Evolution Soccer 2010</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-55589_9E0FC9A1.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-21918_6579BD4D.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pro Evolution Soccer 2014</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-55676_6B903B81.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-55673_30C013A3.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Project - Snowblind</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-53124_821A0C40.pnach">PAL-M</a></td>
     <td></td>
@@ -1283,6 +1339,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Ratchet & Clank - Size Matters</td>
     <td style="text-align:center;"><a href="descripcion traducida/SCES-55019_FCB981D5.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rally Fusion - Race of Champions</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50997_55E708DA.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20361_925C5029.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1333,6 +1394,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Rogue Trooper</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-52921_03C8EA64.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Room Zoom - Race for Impact</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52603_7ADEE689.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1432,7 +1498,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
       <td>Simpsons, The - Hit & Run</td>
-      <td style="text-align:center;"><a href="descripcion traducida/SLES-51897_73E68475.pnach">PAL-M</a></td>
+      <td style="text-align:center;"><a href="descripcion traducida/SLES-51897_73E68475.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20624_FC99EC8C.pnach">USA</a></td>
       <td></td>
   </tr>
   <tr>
@@ -1517,17 +1583,17 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
       <td>Spider-Man</td>
-      <td style="text-align:center;"><a href="descripcion traducida/SLES-50965_CCF57297.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-50812_CB179BA2.pnach">PAL-E</a></td>
-      <td>parche ws: falta renderizado</td>
+      <td style="text-align:center;"><a href="descripcion traducida/SLES-50965_CCF57297.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-50812_CB179BA2.pnach">PAL-E</a> - <a href="descripcion traducida/SLES-50813_601B6FDF.pnach">F</a> - <a href="descripcion traducida/SLES-50814_601B6FD8.pnach">G</a> - <a href="descripcion traducida/SLUS-20336_015CB6F4.pnach">USA</a> - <a href="descripcion traducida/SLPM-65205_359EA298.pnach">JAP</a></td>
+      <td></td>
   </tr>
   <tr>
       <td>Spider-Man 2</td>
-      <td style="text-align:center;"><a href="descripcion traducida/SLES-52372_6B68932C.pnach">PAL-M</a></td>
+      <td style="text-align:center;"><a href="descripcion traducida/SLES-52372_6B68932C.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-52493_599883D4.pnach">E</a> - <a href="descripcion traducida/SLES-52447_0864B3F7.pnach">I</a> - <a href="descripcion traducida/SLUS-20776_E2DFCE12.pnach">USA</a> - <a href="descripcion traducida/SLPM-65662_078D39E3.pnach">JAP</a></td>
       <td></td>
   </tr>
   <tr>
       <td>Spider-Man 3</td>
-      <td style="text-align:center;"><a href="descripcion traducida/SLES-54724_C529B0AD.pnach">PAL-M</a></td>
+      <td style="text-align:center;"><a href="descripcion traducida/SLES-54724_C529B0AD.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-54723_0C881B25.pnach">PAL-E</a> - <a href="descripcion traducida/SLPS-25823_9295A3BE.pnach">JAP</a></td>
       <td></td>
   </tr>
   <tr>
@@ -1549,6 +1615,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
       <td>Splashdown</td>
       <td style="text-align:center;"><a href="descripcion traducida/SLES-50486_E9C544F7.pnach">PAL-M</a></td>
       <td></td>
+  </tr>
+  <tr>
+      <td>Splashdown 2</td>
+      <td style="text-align:center;"><a href="descripcion traducida/SLES-51680_9B88FA72.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-51925_59008BEF.pnach">PAL-A</a> - <a href="descripcion traducida/SLUS-20686_F7CE4DB8.pnach">USA</a></td>
+      <td>PAL-S válido para SLES-51681</td>
   </tr>
   <tr>
       <td>Spy Hunter - Nowhere to Run</td>
@@ -1576,7 +1647,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
       <td>SWBFRNT2.ELF</td>
   </tr>
   <tr>
-      <td>Star Wars Episodio III La Venganza de los Sith</td>
+      <td>Star Wars Episodio III</td>
       <td style="text-align:center;"><a href="descripcion traducida/SLES-53155_99AD19EE.pnach">PAL-M</a></td>
       <td></td>
   </tr>
@@ -1678,7 +1749,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
       <td>Test Drive Unlimited</td>
       <td style="text-align:center;"><a href="descripcion traducida/SLES-53753_C2911A79.pnach">PAL-M</a></td>
-      <td>corregir velocidad</td>
+      <td>vale para NTSC-U</td>
   </tr>
   <tr>
       <td>Thing, The</td>
@@ -1721,9 +1792,9 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
       <td></td>
   </tr>
   <tr>
-      <td>Tourist Trophy - The Real Riding Simulator</td>
+      <td>Tourist Trophy - Real Riding Simulator</td>
       <td style="text-align:center;"><a href="descripcion traducida/SCES-53372_CA9AA903.pnach">PAL-M</a></td>
-      <td>corregir velocidad de ia</td>
+      <td></td>
   </tr>
   <tr>
       <td>Torrente 3 - El Protector</td>
@@ -1791,8 +1862,18 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
-    <td>Viewtiful Joe (PAL-M) </td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-52678_2429905B.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20951_080D5356.pnach">NTSC-U</a></td>
+    <td>Vexx</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50481_A0600111.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Viewtiful Joe</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52678_2429905B.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20951_080D5356.pnach">USA</a> - <a href="descripcion traducida/SLPM-65699_634947D7.pnach">JAP</a> - <a href="descripcion traducida/SLKA-25220_9CF12158.pnach">KOR</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Virtua Cop - Elite Edition</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51229_76A68274.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1813,6 +1894,16 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   <tr>
     <td>Whirl Tour</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-51126_FB45FA8E.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Winning Eleven 2008 J. League</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLPM-55033_B0C15891.pnach">JAP</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Winning Eleven 2010</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLPM-55258_5DB219F4.pnach">JAP</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1863,8 +1954,36 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
     <th style="text-align:center; width: 40%;">Versión</th>
   </tr>
   <tr>
+    <td>Ace Combat 3 - Electrosphere<sup><b>2</b></sup></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02066.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Akumajou Dracula X - Gekka no Yasoukyoku</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLPM-86023.cht">JAP</a></td>
+  </tr>
+  <tr>
+    <td>Alone in the Dark - Jack Is Back</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-00037.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Alone in the Dark - The New Nightmare</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02804.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-12804.cht">Disc 2</a></td>
+  </tr>
+  <tr>
+    <td>Akuji the Heartless</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01298.cht">PAL-M</a></td>
+  </tr>
+  <tr>
     <td>Alundra</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-01258.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-01135.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Batman - Gotham City Racer</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02874.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Batman Forever - The Arcade Game</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-00525.cht">PAL-M</a></td>
   </tr>
   <tr>
     <td>C-12 - Final Resistance</td>
@@ -1883,8 +2002,12 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-00568.cht">PAL-E</a></td>
   </tr>
   <tr>
-    <td>Cool Boarders 2 <sup><b>4</b></sup></td>
+    <td>Cool Boarders 2 <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-00992.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Chrono Cross</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLUS-01041.cht">Disc 1</a> - <a href=".Playstation PS1/SLUS-01080.cht">Disc 2</a></td>
   </tr>
   <tr>
     <td>Croc - Legend of the Gobbos (Europe)</td>
@@ -1892,19 +2015,19 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
   </tr>
   <tr>
     <td>CTR - Crash Team Racing</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a><sup><b>1</b></sup></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a></td>
   </tr>
   <tr>
-    <td>Die Hard Trilogy <sup><b>4</b></sup></td>
+    <td>Die Hard Trilogy <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-00445.cht">PAL-M</a></td>
   </tr>
   <tr>
     <td>Dino Crisis</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02211.cht">PAL-S</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02211.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02210.cht">PAL-I</a> - <a href=".Playstation PS1/SLES-02208.cht">PAL-F</a></td>
   </tr>
   <tr>
     <td>Dino Crisis 2</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03225.cht">PAL-S</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03225.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-03224.cht">PAL-I</a> - <a href=".Playstation PS1/SLES-03222.cht">PAL-F</a></td>
   </tr>
   <tr>
     <td>Disney Atlantis - El Imperio Perdido</td>
@@ -1915,7 +2038,7 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02894.cht">PAL-S</a></td>
   </tr>
   <tr>
-    <td>Disney El planeta del tesoro (Spain)</td>
+    <td>Disney El planeta del tesoro (Spain) <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-03941.cht">PAL-S</a></td>
   </tr>
   <tr>
@@ -1947,8 +2070,25 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02997.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-12997.cht">Disc 2</a></td>
   </tr>
   <tr>
+    <td>En Busca del Valle Encantado</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02985.cht">PAL-S</a></td>
+  </tr>
+  <tr>
+    <td>Grinch, The</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02974.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Harry Potter and the Philosopher's Stone</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03663.cht">PAL-M</a></td>
+  </tr>
+  <tr>
     <td>Incredible Crisis</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02933.cht">PAL-M</a><sup><b>1</b></sup></td>
+  </tr>
+  <tr>
+    <td>Legacy of Kain - Soul Reaver</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02026.cht">PAL-S</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>MediEvil</td>
@@ -1960,14 +2100,18 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
   </tr>
   <tr>
     <td>Metal Gear Solid (Spain)</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01734.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-11734.cht">Disc 2</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01734.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-11734.cht">Disc 2</a> - <a href=".Playstation PS1/SLES-01508.cht">PAL-I</a></td>
   </tr>
   <tr>
     <td>Metal Gear Solid - Special Missions</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02136.cht">PAL-M</a> - <a href=".Playstation PS1/SLUS-00957.cht">USA</a></td>
   </tr>
   <tr>
-    <td>Legend of Dragoon, The (Spain) <sup><b>4</b></sup></td>
+    <td>Need for Speed - Porsche 2000</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02700.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Legend of Dragoon, The (Spain) <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-03047.cht">Disc 1</a> - <a href=".Playstation PS1/SCES-13047.cht">Disc 2</a> - <a href=".Playstation PS1/SCES-23047.cht">Disc 3</a> - <a href=".Playstation PS1/SCES-33047.cht">Disc 4</a></td>
   </tr>
   <tr>
@@ -1985,6 +2129,10 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
   <tr>
     <td>Silent Hill</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-01514.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Resident Evil - Director's Cut</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-00969.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-00970.cht">PAL-F</a></td>
   </tr>
   <tr>
     <td>Resident Evil 2 (Spain)</td>
@@ -2008,7 +2156,11 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
   </tr>
   <tr>
     <td>Star Wars Episode I - The Phantom Menace</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a><sup><b>2</b></sup> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLES-02036.cht">PAL-G</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+  </tr>
+  <tr>
+    <td>Star Wars - Episodio I Jedi Power Battles</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02611.cht">PAL-S</a></td>
   </tr>
   <tr>
     <td>Tenchu 2</td>
@@ -2035,12 +2187,23 @@ Estos son los únicos que actualmente no presentan errores, salvo algunas animac
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-03954.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-03956.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-01485.cht">USA</a></td>
   </tr>
   <tr>
-    <td>Overboard! (Europe)</td>
+    <td>Overboard!</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-00865.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>V-Rally - Championship Edition 2</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01907.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Wild Arms</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-01174.cht">PAL-S</a></td>
+  </tr>
+  <tr>
+    <td>Xenogears</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLUS-00664.cht">Disc 1</a> - <a href=".Playstation PS1/SLUS-00669.cht">Disc 2</a></td>
   </tr>
 	</table>
 
 <sup><b>1</b></sup> FPS patch: Animations x2, speed and timer ok   
-<sup><b>2</b></sup> Valid for PAL-G, rename to SLES-02036  
+<sup><b>2</b></sup> NTSC Mode: The timer a bit fast, but it's playable.   
 <sup><b>3</b></sup> Valid for other PAL version  
-<sup><b>4</b></sup> NTSC Mode: The timer a bit fast, but it's playable.   

@@ -1,0 +1,11 @@
+gametitle=Viewtiful Joe (NTSC-J) SLPM-65699 634947D7
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,00100E54,word,3C013FD3
+patch=0,EE,00100E58,word,34213333
+patch=0,EE,00100E88,word,3C013FD3
+patch=0,EE,00100E8C,word,34213333
+patch=0,EE,002A97B4,word,10400039

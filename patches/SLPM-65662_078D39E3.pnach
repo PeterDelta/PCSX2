@@ -1,0 +1,49 @@
+gametitle=Spider-Man 2 (NTSC-J) SLPM-65662 078D39E3
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=flameofrecca, Arapapa & PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,00691280,word,3F947AE1 //vertical fov
+patch=1,EE,00691278,word,3C28A2F7 //zoom value
+patch=1,EE,00678C30,word,3F860A8A //textures fix by PeterDelta
+patch=1,EE,00678C40,word,3F860A8A
+patch=1,EE,00678C44,word,3F800000
+
+//Map Screen HUD, text fixes
+//search the 206d**** address range for more map screen hud fixes
+patch=1,EE,20700EC8,word,41580000  // star icon fix
+patch=1,EE,20700ED4,word,41580000  // star icon fix
+patch=1,EE,20705358,word,3f400000  // "500m" text
+patch=1,EE,207050E8,word,3f400000  // "key locations" text
+patch=1,EE,207051B8,word,3f400000  // "challenges" text
+patch=1,EE,20705288,word,3f400000  // "general" text
+patch=1,EE,206FD8D4,word,425c0000  // compass size fix
+patch=1,EE,206FD8E8,word,42fa0000  // compass size fix
+
+//Onscreen HUD
+patch=1,EE,20746344,word,42340000  // health
+patch=1,EE,20747740,word,42900000  // spidey symbol
+patch=1,EE,20747754,word,42900000
+patch=1,EE,20747768,word,42f40000
+patch=1,EE,2074777C,word,42f40000
+patch=1,EE,20746058,word,43140000  //HUD perimeter
+patch=1,EE,2074606C,word,43140000
+patch=1,EE,20746044,word,42680000
+patch=1,EE,20746030,word,42680000
+patch=1,EE,2074F428,word,43140000  //HUD shadow
+patch=1,EE,2074F43C,word,43140000
+patch=1,EE,2074F4D0,word,43140000
+patch=1,EE,2074F4E4,word,43140000
+patch=1,EE,2074F4A8,word,42680000
+patch=1,EE,2074F4BC,word,42680000
+patch=1,EE,2074F414,word,42680000
+patch=1,EE,2074F400,word,42680000
+patch=1,EE,20746604,word,421c0000  //yellow jump meter
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock at 130%.
+patch=1,EE,006113A0,extended,00000001
+patch=1,EE,E0010001,extended,005EA320
+patch=1,EE,006113A0,extended,00000002

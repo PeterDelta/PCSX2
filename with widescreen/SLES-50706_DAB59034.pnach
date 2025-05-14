@@ -3,7 +3,7 @@ gametitle=Army Men - RTS (PAL-M) SLES-50706 DAB59034
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,001a37f4,word,3c013fab //3c013f80 Fov 3D Scene which is proceeding automatically
 patch=1,EE,001a3834,word,3c013f05 //3c013f00 Zoom
 patch=1,EE,001a32fc,word,3c013fab //3c013f80 Fov Game Play

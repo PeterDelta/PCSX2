@@ -3,7 +3,7 @@ gametitle=Alone in the Dark (PAL-M) SLES-55207 68FC3CF9
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0035033c,word,46000003
 patch=1,EE,00350340,word,7fb00010
 patch=1,EE,00350344,word,ffbf0000

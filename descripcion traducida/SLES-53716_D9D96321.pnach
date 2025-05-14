@@ -3,7 +3,7 @@ gametitle=Without Warning (PAL-M) SLES-53716 D9D96321
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001486ac,word,3c013f40
 patch=1,EE,001486b0,word,44810800
 patch=1,EE,001486b4,word,27bdffe0

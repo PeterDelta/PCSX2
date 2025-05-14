@@ -3,7 +3,7 @@ gametitle=Disney's Treasure Planet (PAL-M) SCES-51177 E6A57677
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,E0020000,extended,00382378
 patch=1,EE,002D0EF8,extended,00000002
 patch=1,EE,00382378,extended,00000002

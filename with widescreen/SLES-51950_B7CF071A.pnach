@@ -3,7 +3,7 @@ gametitle=Sonic Heroes (PAL-M) SLES-51950 B7CF071A
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,00167bcc,word,10000042
 patch=1,EE,00167c24,word,1000002c
 patch=1,EE,00167c40,word,10000025

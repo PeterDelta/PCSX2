@@ -3,7 +3,7 @@ gametitle=George Of The Jungle (PAL-M) SLES-54975 278B7BEA
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,00709208,word,3FE38E39 //3FAAAAA8
 
 [50/60 FPS]

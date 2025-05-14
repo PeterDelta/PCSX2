@@ -1,0 +1,9 @@
+gametitle=Franklin - A Birthday Surprise (NTSC-U) SLUS-21382 309FC75F
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,00136A2C,word,3C023FC0
+patch=0,EE,00136DA0,word,3C024415
+patch=0,EE,0014B834,word,3C034540

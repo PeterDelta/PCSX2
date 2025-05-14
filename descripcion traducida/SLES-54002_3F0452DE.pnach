@@ -3,7 +3,7 @@ gametitle=FlatOut 2 (PAL-M5) SLES-54002 3F0452DE
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001B21A0,extended,3C013F94 //gameplay
 patch=1,EE,00233F50,extended,3C013F30
 patch=1,EE,00325628,extended,3C013F30

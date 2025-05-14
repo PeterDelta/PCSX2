@@ -3,7 +3,7 @@ gametitle=Total Overdose (PAL-M) SLES-53492 4C380F8B
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,20692A2C,word,3F47AE14 // Zoom
 patch=1,EE,206C64C4,word,3F400000 // Vert fov
 

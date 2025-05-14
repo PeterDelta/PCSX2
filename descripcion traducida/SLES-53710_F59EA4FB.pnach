@@ -3,17 +3,17 @@ gametitle=Crónicas de Narnia, Las - El León, La Bruja y El Armario (PAL-S) SLE
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
-patch=1,EE,006337A8,word,00010100
-patch=1,EE,006337C4,word,00010100
-patch=1,EE,0033B0C4,word,3C013F40 //3C013F80 zoom fix
+description=Corrige el recorte de pantalla a 16:9.
+patch=1,EE,006337C5,extended,01
+patch=1,EE,21F2D350,extended,3F400000
+patch=1,EE,203E8110,extended,3F400000
 
 [Remove Blackbars]
 author=PeterDelta
-description=Elimina las barras negras en las escenas
-patch=1,EE,004032A8,word,00000000 //black bands
+description=Elimina las barras negras en las escenas.
+patch=1,EE,004032A8,word,00000000
 
 [50 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,001721D8,word,28420001 //28420002
+patch=0,EE,001721D8,word,28420001

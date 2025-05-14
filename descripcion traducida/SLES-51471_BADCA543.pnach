@@ -4,7 +4,7 @@ gametitle=Freedom Fighters (PAL-S) SLES-51471 BADCA543
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 
 [50/60 FPS]
 author=PeterDelta

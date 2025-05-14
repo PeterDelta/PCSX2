@@ -4,7 +4,7 @@ gametitle=DreamWorks Shrek 2 (PAL-S) SLES-52382 4CF48A70
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 
 [50/60 FPS]
 author=PeterDelta

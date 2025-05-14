@@ -3,7 +3,7 @@ gametitle=Jaws Unleashed (Tiburón) (PAL-M) SLES-54170 CE9883CF
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,004FF810,extended,00000001
 patch=1,EE,005DC94B,extended,00000001
 patch=1,EE,0015A738,extended,3C013F22

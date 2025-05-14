@@ -3,7 +3,7 @@ gametitle=SSX On Tour (PAL-M) SLES-53552 686B786E
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,005ADF80,word,00000002
 
 [50/60 FPS]

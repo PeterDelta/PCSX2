@@ -3,7 +3,7 @@ gametitle=Tom Clancy's Splinter Cell - Chaos Theory (PAL-M) SLES-53287 DDAEB7A6 
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=0,EE,001F2908,extended,40
 
 //[NTSC Mode]

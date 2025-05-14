@@ -3,7 +3,7 @@ gametitle=Battlefield 2 - Modern Combat (PAL-M) SLES-53729 0BC3B265
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,0022D0F0,word,3C013FA8
 patch=1,EE,0022D528,word,3C013FA8
 patch=1,EE,0022D110,word,3C013FAB

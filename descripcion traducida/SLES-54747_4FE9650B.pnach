@@ -3,7 +3,7 @@ gametitle=Disney-Pixar Ratatouille (PAL-S-P) SLES-54747 4FE9650B
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,0067FA70,word,3FE38E39 //3FAAAAAB
 
 [480p Mode]

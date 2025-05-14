@@ -3,7 +3,7 @@ gametitle=Killzone (PAL-M) SCES-52004 6624A78C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,005DAFE4,extended,00000001
 
 [50/60 FPS]

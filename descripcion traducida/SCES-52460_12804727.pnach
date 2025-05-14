@@ -3,7 +3,7 @@ gametitle=Jak 3 (PAL-M) SCES-52460 12804727
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,207D6158,extended,0014877D // 00146171 force native 16:9 mode
 
 // Disabled due to causing black texture flickering in desert areas.

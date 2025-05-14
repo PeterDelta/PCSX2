@@ -3,7 +3,7 @@ gametitle=Judge Dredd - Dredd vs. Death (PAL-M) SLES-51649 6E900957
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,0033F080,word,3FE38E39
 patch=1,EE,0033F084,word,00000001
 patch=1,EE,00340A5C,word,00010000

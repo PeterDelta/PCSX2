@@ -3,7 +3,7 @@ gametitle=Metal Arms - Glitch in the System (NTSC-U) SLUS-20786 E8C504C8
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,003dca84,word,3c013f40 //3c013f80 Zoom
 patch=1,EE,003dcb30,word,08113d44 //46073982 Y-Fov
 patch=1,EE,0044f510,word,46073982 //00000000

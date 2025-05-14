@@ -4,7 +4,7 @@ gametitle=Max Payne (PAL-M4) SLES-50326 52E0597D
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas & PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 
 [Remove Blackbars]
 author=PeterDelta

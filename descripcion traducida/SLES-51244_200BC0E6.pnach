@@ -3,7 +3,7 @@ gametitle=XIII (PAL-M) SLES-51244 200BC0E6
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001d76cc,word,14400005
 patch=1,EE,001d76d0,word,3c04003d
 patch=1,EE,001d76d4,word,0c09fcf4

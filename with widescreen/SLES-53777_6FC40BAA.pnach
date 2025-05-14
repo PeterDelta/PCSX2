@@ -3,7 +3,7 @@ gametitle=Prince of Persia - The Two Thrones (PAL-M5) SLES-53777 6FC40BAA
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,005b8cd0,word,3c013f40 // 00000000 hor fov
 patch=1,EE,005b8cec,word,34210000 // 00000000 hor fov
 patch=1,EE,005b8cf4,word,4481f000 // 00000000

@@ -1,0 +1,12 @@
+# Ace Combat 3 - Electrosphere (Europe) SCES-02066
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70B4034 00010000
+A71D6C78 00010000
+A70BB072 01000200
+A70BB086 01000200
+A70BB076 00100070
+A70BB08A 00100070

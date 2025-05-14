@@ -3,7 +3,7 @@ gametitle=Kingdom Hearts II Final Mix + (NTSC-J) SLPM-66675 F266B00B
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00106e10,word,3c013f4c // c480004c
 patch=1,EE,00106e28,word,3421cccc // 4600a7c6
 patch=1,EE,00106e2c,word,4481f800 // 00000000

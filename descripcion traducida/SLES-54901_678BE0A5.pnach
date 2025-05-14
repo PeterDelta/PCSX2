@@ -3,7 +3,7 @@ gametitle=Spider-Man - Friend or Foe (PAL-M5) SLES-54901 678BE0A5
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,003F0E54,word,00000100
 patch=1,EE,00407870,word,00000001
 

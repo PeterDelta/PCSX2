@@ -3,7 +3,7 @@ gametitle=Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,002069CC,word,E7B40010 //14E00004
 patch=1,EE,002069D0,word,8E020348 //E7B40010
 patch=1,EE,002069D4,word,AE020340 //8E020348

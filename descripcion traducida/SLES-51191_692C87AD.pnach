@@ -3,7 +3,7 @@ gametitle=Auto Modellista (PAL-M) SLES-51191 692C87AD
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0038972c,word,3fe38e38
 patch=1,EE,00277af0,word,3c023fe3
 patch=1,EE,00277af8,word,34428e38

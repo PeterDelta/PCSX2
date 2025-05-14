@@ -1,0 +1,11 @@
+gametitle=Spider-Man (NTSC-U) (v2.01) SLUS-20336 015CB6F4
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta & Arapapa
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,004D13D4,word,3FE38E2A
+patch=1,EE,002B5C64,word,3C013C28
+patch=1,EE,0036F9D0,word,3C01BFAB
+patch=1,EE,0036F9DC,word,3C013FAB
+patch=1,EE,00479790,word,14830018

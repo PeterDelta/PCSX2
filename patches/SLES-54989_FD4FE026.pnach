@@ -3,7 +3,7 @@ gametitle=Bratz - The Movie (PAL-S-I) SLES-54989 FD4FE026
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,003DDD24,word,3C013F40
 patch=1,EE,003DDD28,word,4481F000
 patch=1,EE,003DDD30,word,461EB582

@@ -3,27 +3,29 @@ gametitle=Grand Theft Auto - Vice City (NTSC-U) (v2.01) SLUS-20552 9E312BAF
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,004BA0BC,extended,00000001
-patch=1,EE,0024854C,extended,3C0242AC
-patch=1,EE,00257CC4,extended,3C0242AC
-patch=1,EE,00259DF4,extended,3C0242AC
-patch=1,EE,0025A490,extended,3C0242AC
-patch=1,EE,00334250,extended,3C044040
-patch=1,EE,003342A4,extended,3C0240D0
-patch=1,EE,003AE3E4,extended,3C013F80 //scenes zoon
-patch=1,EE,E0010001,extended,004BACB0
-patch=1,EE,003AE3E4,extended,3C013F40
-patch=1,EE,2024696C,extended,3C023FC0
+patch=0,EE,0024854C,extended,3C0242AC
+patch=0,EE,00257CC4,extended,3C0242AC
+patch=0,EE,00259DF4,extended,3C0242AC
+patch=0,EE,0025A490,extended,3C0242AC
+patch=0,EE,00259C30,extended,3C0342AC
+patch=0,EE,00334250,extended,3C044040
+patch=0,EE,003342A4,extended,3C0240D0
+//patch=1,EE,003AE3E4,extended,3C013F80 //scenes zoom
+//patch=1,EE,E0010001,extended,004BACB0
+//patch=1,EE,003AE3E4,extended,3C013F40
+//patch=1,EE,2024696C,extended,3C023FC0
 
 [Remove Blackbars]
 author=PeterDelta
-description=Elimina las barras negras en las escenas
-patch=1,EE,0024ACEC,word,3C02F060
-patch=1,EE,0024AD5C,word,3C02F060
-patch=1,EE,00278600,word,3C025380
+description=Elimina las barras negras en las escenas.
+patch=0,EE,0024ACEC,word,3C02F060
+patch=0,EE,0024AD5C,word,3C02F060
+patch=0,EE,00278600,word,3C025380
 
 [60 FPS]
-author=Snake356
+author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (180%).
-patch=1,EE,2027780C,extended,28420001
+patch=0,EE,002796C4,word,24420002
+patch=0,EE,0025C59C,word,3C024320

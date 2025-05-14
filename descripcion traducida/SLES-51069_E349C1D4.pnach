@@ -3,7 +3,7 @@ gametitle=RTX - Red Rock (PAL-E) SLES-51069 E349C1D4
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,005F1840,word,3F400000
 
 [480p Mode]

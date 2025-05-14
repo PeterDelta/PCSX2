@@ -3,7 +3,7 @@ gametitle=Tekken 5 (PAL-M5) SCES-53202 C2D29D42 "Devil Within/Arcade" TK5DATA4.B
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,E002000F,extended,0012C888 //Devil Within 000F
 patch=1,EE,2041F714,extended,3F400000
 patch=1,EE,202AEED8,extended,3FDDA51A

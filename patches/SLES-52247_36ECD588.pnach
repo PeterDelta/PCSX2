@@ -3,7 +3,7 @@ gametitle=The Hobbit (PAL-R) SLES-52247 36ECD588
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,0038B168,word,3C013ED5
 patch=1,EE,0038B27C,word,3C013F49
 patch=1,EE,00389E00,word,3C013F1D

@@ -3,7 +3,7 @@ gametitle=Tom Clancy's Ghost Recon - Jungle Storm (PAL-M) SLES-51976 FE1720F1
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Somechump
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0051d978,word,3c023f40 //sp
 patch=1,EE,0051d9b8,word,3c0243b6
 patch=1,EE,00387324,word,3c023f40 //mp

@@ -1,0 +1,9 @@
+# Star Wars - Episodio I - Jedi Power Battles (Spain) SLES-02611
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70A7CC4 00010000
+A70AF8BA 00140000
+A70B0ACE 00140000

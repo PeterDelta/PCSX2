@@ -2,10 +2,14 @@ gametitle=Max Payne 2 - The Fall of Max Payne (PAL-S) SLES-52256 D13BEF2C
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=PeterDelta
-description=Habilita pantalla panorámica nativa
+author=PeterDelta, Arapapa & CRASHARKI
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,005814C8,extended,00000010 //00000004
 patch=1,EE,005814D0,extended,00000009 //00000003
+//Zoom fix (Internal widescreen) by Arapapa & CRASHARKI
+patch=1,EE,20551EC8,extended,3FACCCCD //3EAAAAAB
+patch=1,EE,D05F8978,extended,00000000 //Check if it is Graphic Novel
+patch=1,EE,20551EC8,extended,3EAAAAAB
 
 [Remove Blackbars]
 author=PeterDelta

@@ -1,0 +1,20 @@
+gametitle=DragonBall Z - Budokai (PAL-M5) SLES-51233 37472BE0
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,00137410,word,3C013F40 // 00000000 hor fov
+patch=1,EE,0013741C,word,4481F000 // 00000000
+patch=1,EE,0013D6A4,word,461EDEC2 // 00000000
+
+[60 FPS]
+author=PeterDelta
+description=Inicia a 60 Hz. Escenas no se sincronizan, la jugabilidad es correcta.
+patch=1,EE,001015E0,word,34050052
+patch=1,EE,001015E4,word,24030002
+patch=1,EE,001015E8,word,0000000C
+patch=1,EE,001015EC,word,03E00008
+patch=1,EE,0050C9D8,word,0185027C
+patch=1,EE,0050CA00,word,0185027C
+patch=1,EE,0057A238,word,3F555555

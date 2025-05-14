@@ -3,7 +3,7 @@ gametitle=Delta Force - Black Hawk Down - Team Sabre (PAL-M) SLES-54115 A8DB29DF
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,004640F8,word,3FE38E39 //3FAAAAAB Y-Fov
 patch=1,EE,001B807C,word,08030000 //Zoom Fix
 patch=1,EE,000C0000,word,3C013F52

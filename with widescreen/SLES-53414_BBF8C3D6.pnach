@@ -3,7 +3,7 @@ gametitle=Echo Night - Beyond (PAL-E) SLES-53414 BBF8C3D6
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas and Arapapa
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,202b4001,byte,01 //Force turn on Internal Widescreen
 patch=1,EE,00146EA4,word,3C023F1F //3C023F00 Zoom Fix
 

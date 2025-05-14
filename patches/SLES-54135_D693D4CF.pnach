@@ -1,0 +1,34 @@
+gametitle=Grand Theft Auto - Liberty City Stories (PAL-M) SLES-54135 D693D4CF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrects display cropping to 16:9.
+patch=1,EE,003D8DAA,extended,01
+patch=0,EE,0027CBD4,extended,3C0142AC
+patch=0,EE,0028256C,extended,3C0142AC
+patch=0,EE,00284434,extended,3C0142AC
+patch=0,EE,00291B70,extended,3C0142AC
+patch=0,EE,002DFEE0,extended,3C013F40
+
+[Remove Ghosting Effects]
+author=PeterDelta
+description=Removes the ghosting effect returning a clean and sharp image.
+patch=1,EE,003D76B8,extended,00
+
+[Remove Color Filter]
+author=PeterDelta
+description=Removes the color filter, making the game look more natural.
+patch=1,EE,003D105C,extended,00
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,002B55EC,extended,02
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=0,EE,001449FC,word,240701E2
+patch=0,EE,00144A08,word,240A01E2
+patch=0,EE,002D9120,word,14000005

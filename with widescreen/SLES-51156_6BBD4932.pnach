@@ -3,7 +3,7 @@ gametitle=Silent Hill 2 - Director's Cut (PAL-M) SLES-51156 6BBD4932
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,002D7530,word,3F28F5C3 //hor asp
 patch=1,EE,00189d84,word,3c034455 // partial render fix
 patch=1,EE,00281118,word,24100004 //hor black border FMV's fix

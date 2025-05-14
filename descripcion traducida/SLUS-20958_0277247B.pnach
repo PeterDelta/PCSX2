@@ -3,7 +3,7 @@ gametitle=Splinter Cell - Pandora Tomorrow (NTSC-U) SLUS-20958 0277247B SC2A.ELF
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001b771c,word,14400005
 patch=1,EE,001b7720,word,3c040048
 patch=1,EE,001b7724,word,0c088178

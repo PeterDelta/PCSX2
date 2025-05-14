@@ -11,6 +11,3 @@ patch=1,EE,0061C020,extended,00000002
 author=PeterDelta
 description=Any Hz selection will output in 480p.
 patch=1,EE,0049AF94,word,00000003
-
-[Remove the red colors glitch in hardware mode]
-patch=1,EE,002ABF28,word,01E0F807 //01E0F809

@@ -1,6 +1,19 @@
-gametitle=Chronicles of Narnia - The Lion Witch and The Wardrobe (NTSC-U) SLUS-21082 7A9723B8
+gametitle=The Chronicles of Narnia - The Lion, the Witch and the Wardrobe (NTSC-U) SLUS-21082 7A9723B8
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrige el recorte de pantalla a 16:9.
+patch=1,EE,00635AC5,extended,01
+patch=1,EE,21F2FDD0,extended,3F400000
+patch=1,EE,203E7690,extended,3F400000
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas.
+patch=1,EE,00402760,word,00000000
 
 [60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,00171F18,word,28420001 //28420002
+patch=0,EE,00171F18,word,28420001

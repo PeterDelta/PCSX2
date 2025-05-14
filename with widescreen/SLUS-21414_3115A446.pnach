@@ -3,7 +3,7 @@ gametitle=Delta Force - Black Hawk Down - Team Sabre (NTSC-U) SLUS-21414 3115A44
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Widescreen fix
+description=Corrects display cropping to 16:9.
 patch=1,EE,004643F8,word,3FE38E39 //3FAAAAAB Y-Fov
 patch=1,EE,001B80FC,word,08030000 //Zoom Fix
 patch=1,EE,000C0000,word,3C013F52

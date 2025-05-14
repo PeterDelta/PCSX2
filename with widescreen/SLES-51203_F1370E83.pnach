@@ -3,7 +3,7 @@ gametitle=Enter the Matrix (PAL-M5) SLES-51203 F1370E83
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,001CFA78,word,A2740BCC //AE600BCC (Increases hor. axis)
 
 [50 FPS]

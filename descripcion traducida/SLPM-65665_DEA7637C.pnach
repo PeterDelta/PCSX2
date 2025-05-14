@@ -1,0 +1,6 @@
+gametitle=BloodRayne (NTSC-J) SLPM-65665 DEA7637C
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,002205C0,word,28420001

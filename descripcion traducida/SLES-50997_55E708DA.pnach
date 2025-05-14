@@ -1,0 +1,17 @@
+gametitle=Rally Fusion - Race of Champions (PAL-M3) SLES-50997 55E708DA
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta & Arapapa
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,001AE5A0,word,3C0140AB
+patch=0,EE,001066E0,word,3C013F06
+patch=0,EE,001066E4,word,34216666
+patch=0,EE,002F9CE8,word,3C013FAB
+
+[NTSC Mode]
+author=Gabominated
+description=Modo NTSC al iniciar.
+patch=0,EE,002D8110,word,00000000
+patch=0,EE,002D7F9C,word,10440002
+patch=1,EE,00408A50,word,43E00000

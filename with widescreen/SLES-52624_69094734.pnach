@@ -3,7 +3,7 @@ gametitle=X-Men Legends (PAL-E) SLES-52624 69094734
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=XxGaMiNGK3LLERxX
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,20D86690,word,3F666666 // HUD Height
 patch=1,EE,207214D4,word,3FA00000 // HUD & Menu Width
 patch=1,EE,20D86678,word,3F59999A // HUD Width

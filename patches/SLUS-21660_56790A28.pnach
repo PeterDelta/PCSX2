@@ -3,7 +3,7 @@ gametitle=Disney Princess - Enchanted Journey (NTSC-U) SLUS-21660 56790A28
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa & PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //patch=1,EE,002652c4,word,3c014440 //3c014480 X-Fov
 patch=1,EE,003f2490,word,40000000 //3eaaaaab Render fix
 

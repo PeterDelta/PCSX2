@@ -3,7 +3,7 @@ gametitle=Men in Black II - Alien Escape (PAL-M) SLES-50789 450D5B4F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,003aa0bc,word,3c02bf40 //3c02bf80 X-Fov
 patch=1,EE,001a6ebc,word,3c033f2b //3c033f00 Background effect fix
 patch=1,EE,001a6f28,word,3c033f2b //3c033f00

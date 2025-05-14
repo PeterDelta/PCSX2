@@ -3,7 +3,7 @@ gametitle=Freedom Fighters (PAL-S) SLES-51471 6EEE06DD FF.ELF
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,0056967C,extended,01
 
 [50/60 FPS]

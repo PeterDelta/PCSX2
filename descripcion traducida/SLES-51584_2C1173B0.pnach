@@ -3,7 +3,7 @@ gametitle=F1 Career Challenge (PAL-M) SLES-51584 2C1173B0
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,00328744,word,01010101
 
 [50 FPS]

@@ -3,7 +3,7 @@ gametitle=Tom Clancy's Splinter Cell - Pandora Tomorrow (PAL-M) SLES-52149 80FAC
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0017A200,word,3C1B3F40 //AE03008C - X-axis
 patch=1,EE,001B79F4,word,AE1B008C //AE03008C
 

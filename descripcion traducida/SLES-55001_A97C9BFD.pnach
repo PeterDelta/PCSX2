@@ -3,7 +3,7 @@ gametitle=Mercenaries 2 - World in Flames (PAL-S) SLES-55001 A97C9BFD
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0037CC14,word,3C013F40 //3C013F80
 patch=1,EE,00380F1C,word,3C013F2B //3C013F00 render fix
 patch=1,EE,00389870,word,3C013F2B //3C013F00 render fix 2

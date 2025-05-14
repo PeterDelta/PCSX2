@@ -3,7 +3,7 @@ gametitle=Black (PAL-M) SLES-53886 ADDFF505
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Some Chump
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //Ported from SLUS-21376 by No.47
 patch=1,EE,203BE8BC,word,00000001 //00000000
 patch=1,EE,204BC950,word,00000001 //00000000

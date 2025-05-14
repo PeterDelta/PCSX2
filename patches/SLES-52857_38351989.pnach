@@ -3,7 +3,7 @@ gametitle=Fairly OddParents, The - Shadow Showdown (PAL-E) SLES-52857 38351989
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //Ported from SLUS-20661 by Arapapa
 patch=1,EE,00361D8C,word,080F09E8
 patch=1,EE,003C27A0,word,46166302

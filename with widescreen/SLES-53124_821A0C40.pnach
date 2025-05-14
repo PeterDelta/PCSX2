@@ -3,7 +3,7 @@ gametitle=Project - Snowblind (PAL-M4) SLES-53124 821A0C40 (BO3GM.ELF) single-pl
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,20332BB8,extended,3C013FE3 //3C013FAA hor fov
 patch=1,EE,20332BBC,extended,34218E39 //3421AAAB hor fov
 

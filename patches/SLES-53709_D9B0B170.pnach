@@ -1,0 +1,19 @@
+gametitle=The Chronicles of Narnia - The Lion, the Witch and the Wardrobe (PAL-F) SLES-53709 D9B0B170
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrects display cropping to 16:9.
+patch=1,EE,00633DC5,extended,01
+patch=1,EE,21F31DC0,extended,3F400000
+patch=1,EE,203E8690,extended,3F400000
+
+[Remove Blackbars]
+author=PeterDelta
+description=Removes black bars in cutscenes.
+patch=1,EE,00403838,word,00000000
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=0,EE,001721D8,word,28420001

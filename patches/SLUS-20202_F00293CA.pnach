@@ -1,0 +1,7 @@
+gametitle=Crazy Taxi (NTSC-U) SLUS-20202 F00293CA
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Attempts to disable interlaced offset rendering.
+patch=0,EE,0019078C,word,30500000

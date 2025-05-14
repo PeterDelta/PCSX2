@@ -3,7 +3,7 @@ gametitle=Iron Man (PAL-M) SLES-55198 37245C3F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PsxFan107
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,20148FD0,extended,3C0C3FAA
 patch=1,EE,20148FD8,extended,358CAAAB
 

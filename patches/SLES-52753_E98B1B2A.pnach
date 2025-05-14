@@ -3,7 +3,7 @@ gametitle=FlatOut (PAL-M4) SLES-52753 E98B1B2A
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,00191084,extended,3C013F40
 patch=1,EE,00191F34,extended,3C013F40
 patch=1,EE,001D8E20,extended,3C013F40

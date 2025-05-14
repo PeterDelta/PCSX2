@@ -3,7 +3,7 @@ gametitle=Sonic Unleashed (PAL-M) SLES-55380 8C913264
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,00872D50,word,3FD21DA8 //3F9D9643
 patch=1,EE,E0020002,extended,00780A7C //avoid crashes 
 patch=1,EE,20ED1AD8,extended,00000000 //42600000 fmv

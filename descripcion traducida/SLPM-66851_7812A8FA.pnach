@@ -1,0 +1,27 @@
+gametitle=Grand Theft Auto - Liberty City Stories (NTSC-J) SLPM-66851 7812A8FA
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrige el recorte de pantalla a 16:9.
+patch=1,EE,003DFDDA,extended,01
+patch=0,EE,001C491C,extended,3C0142AC
+patch=0,EE,001CA2B4,extended,3C0142AC
+patch=0,EE,001CC17C,extended,3C0142AC
+patch=0,EE,001D98B8,extended,3C0142AC
+patch=0,EE,002C9D18,extended,3C013F40
+
+[Remove Ghosting Effects]
+author=PeterDelta
+description=Elimina el efecto fantasma y devuelve una imagen limpia y nítida.
+patch=1,EE,003DAD20,extended,00
+
+[Remove Color Filter]
+author=PeterDelta
+description=Elimina el filtro de color, haciendo que el juego se vea más natural.
+patch=1,EE,003D800C,extended,00
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=0,EE,001F2054,extended,02

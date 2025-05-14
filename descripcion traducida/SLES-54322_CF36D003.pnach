@@ -3,7 +3,7 @@ gametitle=Need for Speed - Carbon (PAL-E) SLES-54322 CF36D003
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,E0010000,extended,00A6E494
 patch=1,EE,00A6E494,extended,00000001
 patch=1,EE,2061E7F8,extended,3F400000

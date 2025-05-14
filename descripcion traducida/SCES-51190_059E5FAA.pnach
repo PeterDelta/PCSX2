@@ -3,7 +3,7 @@ gametitle=Dark Chronicle (PAL-M5) SCES-51190 059E5FAA
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00139414,word,3C023F40
 
 [50 FPS]

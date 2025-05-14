@@ -3,7 +3,7 @@ gametitle=Stock Car Speedway (PAL-E) SLES-52617 7C78DE18
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,E0020002,extended,004C4F98
 patch=1,EE,0027C744,extended,3C013F9C
 patch=1,EE,002EA044,extended,3C013F65

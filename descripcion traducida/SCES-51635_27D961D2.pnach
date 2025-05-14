@@ -3,7 +3,7 @@ gametitle=Brave - The Search for Spirit Dancer (PAL-M) SCES-51635 27D961D2
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,00465464,extended,00000001
 
 [Remove Blackbars]

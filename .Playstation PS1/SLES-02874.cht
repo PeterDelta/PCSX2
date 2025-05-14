@@ -1,0 +1,13 @@
+# Batman - Gotham City Racer (Europe) SLES-02874
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 250
+800680B0 0000
+8006F65E 0200
+8006F662 0070
+8006F672 0200
+8006F676 0070
+80066296 0000

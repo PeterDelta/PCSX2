@@ -3,7 +3,7 @@ gametitle=Largo Winch - Empire Under Threat (PAL-M) SLES-51093 1373EB26
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0028029C,word,3C013F2F //3C013F80 Zoom
 patch=1,EE,001ABC40,word,08030000 //Y-Fov
 patch=1,EE,000C0000,word,46070A02

@@ -3,7 +3,7 @@ gametitle=Tom Clancy's Ghost Recon (PAL-M) SLES-51181 11DB467D
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Somechump
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,003a89c4,word,3c023f40 //sp
 patch=1,EE,003a89e4,word,3c0243d6
 patch=1,EE,003a8ae4,word,3c023f40 //mp

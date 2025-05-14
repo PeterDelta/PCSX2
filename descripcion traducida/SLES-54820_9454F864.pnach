@@ -3,7 +3,7 @@ gametitle=Stuntman Ignition (PAL-M) SLES-54820 9454F864
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,002AA174,word,3C023F10 //3C023F40
 patch=1,EE,005AC8E0,word,3F0BC36F //3F3A59EA-3F68F065
 

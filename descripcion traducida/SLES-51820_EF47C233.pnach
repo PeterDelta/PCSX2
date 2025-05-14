@@ -3,7 +3,7 @@ gametitle=Sniper Elite (PAL-M) SLES-51820 EF47C233
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,005015d0,word,3f9faaab //3eaaaaab Zoom
 patch=1,EE,00502848,word,3fe38e2a //3faaaaab Y-FOV
 

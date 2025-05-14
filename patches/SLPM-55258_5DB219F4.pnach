@@ -1,0 +1,10 @@
+gametitle=World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen (NTSC-J) SLPM-55258 5DB219F4
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock. Unlocks FPS in all modes.
+patch=1,EE,10534E90,extended,0100
+patch=1,EE,E0010001,extended,005D9674
+patch=1,EE,10534E90,extended,0200
+patch=1,EE,101F6AC8,extended,3F80
+patch=1,EE,1026EDD4,extended,4270

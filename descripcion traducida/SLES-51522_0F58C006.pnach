@@ -3,7 +3,7 @@ gametitle=Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-515
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0012f928,word,3c0142ab //ver fov 1
 patch=1,EE,0012f92c,word,3421e328
 patch=1,EE,001302dc,word,3c0142ab //ver fov 2

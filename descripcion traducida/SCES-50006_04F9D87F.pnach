@@ -3,7 +3,7 @@ gametitle=Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Dreadmoth
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 //Ported from the SCUS-97128 by nemesis2000.
 patch=1,EE,001C2274,word,3C013F7F // 3C013F80
 patch=1,EE,001C228C,word,3C013E10 // 3C013F00
@@ -134,7 +134,7 @@ patch=1,EE,0013303C,word,46030842 // 46141082
 
 [Upscaling hack]
 author=pgert
-description=Reduce la visualización alrededor de las barras de salud y maná..
+description=Reduce la visualización alrededor de las barras de salud y maná.
 patch=1,EE,001C2274,word,3C013F7F // 3C013F80
 patch=1,EE,001C228C,word,3C013E10 // 3C013F00
 

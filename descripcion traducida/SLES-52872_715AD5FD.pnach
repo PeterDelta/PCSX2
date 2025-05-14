@@ -3,7 +3,7 @@ gametitle=Constantine (PAL-M) SLES-52872 715AD5FD
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,002B5118,word,3C013F40 //3C013F80
 
 [50/60 FPS]

@@ -3,7 +3,7 @@ gametitle=Disney Bolt (PAL-M3) SLES-55429 841CF939
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0068C3EC,word,3FE38E39 //3FAAAAAB (Increases hor. axis)
 
 [50/60 FPS]

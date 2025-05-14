@@ -1,0 +1,18 @@
+gametitle=Hobbit, The (NTSC-J) SLPM-65728 C33049D7
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa & PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,0038B9A8,word,3C013ED5
+patch=0,EE,0038BABC,word,3C013F49
+patch=0,EE,0038A640,word,3C013F1D
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,00405CFC,extended,00000001
+patch=1,EE,E0010000,extended,003E9C90
+patch=1,EE,00405CFC,extended,00000002
+patch=1,EE,E0010001,extended,00474524
+patch=1,EE,00405CFC,extended,00000002

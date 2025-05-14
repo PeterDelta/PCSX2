@@ -3,7 +3,7 @@ gametitle=NBA Live 2001 (PAL-S) SLES-50026 0D434FEC
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //Ported from SLES-54117 by Arapapa
 patch=1,EE,00112920,word,08030000
 patch=1,EE,000C0000,word,46093182

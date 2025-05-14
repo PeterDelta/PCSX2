@@ -3,7 +3,7 @@ gametitle=Smuggler's Run (PAL-M5) SLES-50061 95416482
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0023548C,word,3C013FCC //3C013F99
 patch=1,EE,00235490,word,342199CD //3421999A
 

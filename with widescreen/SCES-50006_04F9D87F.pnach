@@ -3,7 +3,7 @@ gametitle=Drakan - The Ancients Gates (PAL-M) SCES-50006 04F9D87F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Dreadmoth
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //Ported from the SCUS-97128 by nemesis2000.
 patch=1,EE,001C2274,word,3C013F7F // 3C013F80
 patch=1,EE,001C228C,word,3C013E10 // 3C013F00

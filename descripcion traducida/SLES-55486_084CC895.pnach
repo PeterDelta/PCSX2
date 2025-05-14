@@ -3,7 +3,7 @@ gametitle=DreamWorks Monsters vs. Aliens (PAL-M) SLES-55486 084CC895
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00179ED0,word,3C023FAB //3C023F80
 
 [50/60 FPS]

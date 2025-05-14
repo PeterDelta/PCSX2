@@ -3,7 +3,7 @@ gametitle=Ratchet - Deadlocked (NTSC-U) SCUS-97465 9BFBCD42
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PsxFan107
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,200C0000,extended,3C1B000C //Code patching routine DWORD
 patch=1,EE,200C0004,extended,DF7101A0
 patch=1,EE,200C0008,extended,14510005

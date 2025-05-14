@@ -1,12 +1,4 @@
 # Driver (Spain) SLES-01978
-[Music fix]
-Type = Gameshark
-Activation = EndFrame
-Author = jellysoap
-Description = Fixes underflow in the music sequencer making the bass notes play as intended.
-80096AAC 1CB6
-3007275C 0008
-
 [NTSC Mode]
 Type = Gameshark
 Activation = EndFrame

@@ -1,0 +1,20 @@
+gametitle=Fantastic 4 (PAL-I) SLES-53146 F1C96312
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,0031DB70,word,3FAAAAAB
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,00177A9C,word,24020000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=0,EE,0026AD7C,word,24110000
+patch=0,EE,0026AD80,word,24120050
+patch=0,EE,0026AD8C,word,24130001

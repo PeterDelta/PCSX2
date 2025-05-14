@@ -3,7 +3,7 @@ gametitle=Prince of Persia - The Sands of Time (PAL-M5) SLES-51918 4B58A7A8
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,004b4fc0,word,3c013f40 // 00000000 hor fov
 patch=1,EE,004b4fd8,word,34210000 // 00000000 hor fov
 patch=1,EE,004b4fe4,word,4481f000 // 00000000

@@ -3,7 +3,7 @@ gametitle=25 to Life (PAL-E) SLES-53199 A6786A05
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00319794,word,3c013f40 //X-Fov
 patch=1,EE,00319798,word,4481f000
 patch=1,EE,003197bc,word,461e6b43

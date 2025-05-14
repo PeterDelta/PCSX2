@@ -3,7 +3,7 @@ gametitle=BloodRayne (PAL-M) SLES-51474 C81B1F33
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //Ported from the SLUS-20461 by pelvicthrustman
 patch=1,EE,001EF6D4,word,3c040001 //10800020 widescreen
 patch=1,EE,0020BD04,word,3c0141d0 //3c014270 X scalar "Face hud"

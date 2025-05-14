@@ -3,7 +3,7 @@ gametitle=Harry Potter - Quidditch World Cup (PAL-M) SLES-51787 62AB6416
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,00464C88,word,00000001
 patch=1,EE,004B5D54,word,00464C80
 patch=1,EE,00358BF0,word,24020000

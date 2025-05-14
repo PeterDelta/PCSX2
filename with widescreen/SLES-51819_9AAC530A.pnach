@@ -3,7 +3,7 @@ gametitle=Final Fantasy X-2 (PAL-S) SLES-51819 9AAC530A
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,001b49cc,word,3c013f19
 patch=1,EE,001b49d0,word,3421999a
 patch=1,EE,0012369c,word,3c014440 //Render-Fix

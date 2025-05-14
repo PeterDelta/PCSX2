@@ -3,7 +3,7 @@ gametitle=Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,007B0170,word,00000001
 patch=1,EE,00A50618,word,CDCD0001
 

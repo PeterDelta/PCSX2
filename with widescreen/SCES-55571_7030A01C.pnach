@@ -3,7 +3,7 @@ gametitle=Ghostbusters (PAL-M) SCES-55571 7030A01C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,0037e54c,word,3c013fdb //3c013fa4 hor fov gameplay / ver fov cut-scenes
 patch=1,EE,0037e550,word,3421a5ef //3421bc76 hor fov gameplay / ver fov cut-scenes
 patch=1,EE,002d1594,word,3c014158 //3c014190 zoom cut-scenes
@@ -24,4 +24,4 @@ patch=1,EE,203194C0,extended,00000000 //1440FFF5
 [NTSC Mode]
 author=PeterDelta
 description=NTSC mode at start.
-patch=1,EE,0058A9B4,extended,00000022
+patch=0,EE,0058A9B4,word,00000022

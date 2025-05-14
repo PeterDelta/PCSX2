@@ -1,0 +1,12 @@
+# Chrono Cross (USA) (Disc 1) SLUS-01041
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A7027A9E 14431043
+D006B394 00000001
+80027A9E 1443
+D00DAE54 00000001
+80027A9E 1443

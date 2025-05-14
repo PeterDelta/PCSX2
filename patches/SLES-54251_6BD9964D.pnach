@@ -3,7 +3,7 @@ gametitle=NBA Live 07 (PAL-S) SLES-54251 6BD9964D
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,2085A028,extended,3FE38E32
 patch=1,EE,0085FC5C,extended,00000000
 

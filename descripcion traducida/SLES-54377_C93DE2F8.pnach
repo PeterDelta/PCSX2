@@ -3,7 +3,7 @@ gametitle=Nickelodeon Barnyard (PAL-G) SLES-54377 C93DE2F8
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,005459E8,word,3FB58000 //3F8889A0
 patch=1,EE,00542318,word,3FD50000 //3EAAAAAB
 

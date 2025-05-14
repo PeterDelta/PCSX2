@@ -4,7 +4,7 @@ gametitle=Tom Clancy's Splinter Cell - Chaos Theory (PAL-M) SLES-53287 4C4D7873
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 
 [50 FPS]
 author=PeterDelta

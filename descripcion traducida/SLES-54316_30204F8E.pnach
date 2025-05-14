@@ -3,7 +3,7 @@ gametitle=DreamWorks Open Season (Colegas en el bosque in Spain) (PAL-M) SLES-54
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,003f9d2c,word,08153acc X-Fov
 patch=1,EE,0054eb30,word,46001002
 patch=1,EE,0054eb34,word,3c013f40

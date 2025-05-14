@@ -3,7 +3,7 @@ gametitle=Kingdom Hearts II (PAL-S) SLES-54235 C398F477
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00106d30,word,3c013f4c //c480004c
 patch=1,EE,00106d48,word,3421cccc //4600a7c6
 patch=1,EE,00106d4c,word,4481f800 //00000000
@@ -32,7 +32,12 @@ patch=1,EE,2035744C,extended,00000000
 patch=1,EE,E0010005,extended,0033EC84 //fmv
 patch=1,EE,2035744C,extended,00000001
 patch=1,EE,203795E8,extended,3F99999A
-patch=1,EE,2037D318,extended,3F99999A
+patch=1,EE,2037D318,extended,3F800000
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto de desenfoque que se muestra en algunas escenas.
+patch=1,EE,00521640,extended,00
 
 [Subtitles off]
 description=Deshabilita los subtitulos durante las escenas

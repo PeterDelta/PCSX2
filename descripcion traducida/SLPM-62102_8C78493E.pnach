@@ -1,0 +1,14 @@
+gametitle=Crazy Taxi (NTSC-J) SLPM-62102 8C78493E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,00185084,word,3C013F40
+patch=0,EE,0015B740,word,3C013F40
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Intenta deshabilitar la representación entrelazada.
+patch=0,EE,00190EA4,word,30500000

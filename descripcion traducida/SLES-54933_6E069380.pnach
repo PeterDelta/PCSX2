@@ -3,7 +3,7 @@ gametitle=NBA Live 08 (PAL-S) SLES-54933 6E069380
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,10F63DA8,extended,01230101
 patch=1,EE,20890B88,extended,3FE38E32
 patch=1,EE,0089685C,extended,00000000

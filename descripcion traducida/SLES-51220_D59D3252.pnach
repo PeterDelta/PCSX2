@@ -3,7 +3,7 @@ gametitle=TY the Tasmanian Tiger (PAL-M) SLES-51220 D59D3252
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00228FC8,word,3C013F40 //3C013F80
 //patch=1,EE,004024F4,word,3C013FA0 //3C013F80 zoom
 

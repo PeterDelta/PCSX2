@@ -3,7 +3,7 @@ gametitle=Conspiracy - Weapons of Mass Destruction (PAL-M) SLES-53098 D11B52FD
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,003AD8CC,word,00000001
 patch=1,EE,002360D0,word,3C043F40
 

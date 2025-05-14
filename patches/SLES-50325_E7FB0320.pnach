@@ -4,7 +4,7 @@ gametitle=Max Payne (PAL-E) SLES-50325 E7FB0320
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 
 [Remove Blackbars]
 author=PeterDelta

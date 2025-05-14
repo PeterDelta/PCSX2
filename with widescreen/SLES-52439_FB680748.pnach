@@ -3,7 +3,7 @@ gametitle=Suffering, The (PAL-M) SLES-52439 FB680748
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,001E766C,word,E7B40010 //14E00004
 patch=1,EE,001E7670,word,8E020338 //E7B40010
 patch=1,EE,001E7674,word,AE020330 //8E020338

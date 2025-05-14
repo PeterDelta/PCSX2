@@ -3,7 +3,7 @@ gametitle=Silent Hill 2 (PAL-M) SLES-50382 6B149273
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,210E4C14,extended,43A8F5C3 // 43E147AE X-RES
 
 [50 FPS]

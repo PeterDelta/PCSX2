@@ -3,7 +3,7 @@ gametitle=DreamWorks Bee Movie Game (PAL-M) SLES-55016 9D6AA1B8
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,001E2660,word,3C023FAB //3C023F80
 
 [50/60 FPS]

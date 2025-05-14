@@ -3,7 +3,7 @@ gametitle=DreamWorks Open Season (NTSC-U) SLUS-21467 06BBB610
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,003f993c,word,08150c04 X-Fov
 patch=1,EE,00543010,word,46001002
 patch=1,EE,00543014,word,3c013f40

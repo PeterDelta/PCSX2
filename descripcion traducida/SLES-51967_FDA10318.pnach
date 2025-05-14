@@ -3,7 +3,7 @@ gametitle=Need for Speed - Underground (PAL-M7) SLES-51967 FDA10318
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000, ElHecht & PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00438adc,word,3f400000 // 3f800000
 patch=1,EE,00438a14,word,3f400000 // 3f800000
 patch=1,EE,004ff628,word,3f2aaaab // 3f000000
@@ -28,7 +28,7 @@ patch=1,EE,2011060C,extended,2C420001 //2C420002
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
-patch=1,EE,002C5FC4,word,0000102D
+patch=0,EE,002C5FC4,word,0000102D
 
 [Remove Blur/Bloom]
 author=PeterDelta

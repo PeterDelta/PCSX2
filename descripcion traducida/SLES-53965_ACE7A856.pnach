@@ -3,7 +3,7 @@ gametitle=Plan, Th3 (PAL-E) SLES-53965 ACE7A856
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0010E3F4,word,3C033F40 //3C033F80
 patch=1,EE,00172068,word,3C013F40 //hud cross x-fov
 patch=1,EE,0025E6AC,word,3C023F40 //hud cross y-fov

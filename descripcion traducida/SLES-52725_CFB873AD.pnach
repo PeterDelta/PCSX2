@@ -3,7 +3,7 @@ gametitle=Need for Speed - Underground 2 (PAL-M) SLES-52725 CFB873AD
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,004F12DC,byte,01
 
 [50/60 FPS]

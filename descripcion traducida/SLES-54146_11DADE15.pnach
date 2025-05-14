@@ -3,7 +3,7 @@ gametitle=Crusty Demons (PAL-M) SLES-54146 11DADE15
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,008C4C68,word,3FE38E39
 
 [50/60 FPS]

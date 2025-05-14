@@ -1,0 +1,27 @@
+gametitle=Grand Theft Auto - Vice City (NTSC-J) SLPM-65488 FA2726BE
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrige el recorte de pantalla a 16:9.
+patch=1,EE,004BA2B8,extended,00000001
+patch=0,EE,00247F1C,extended,3C0242AC
+patch=0,EE,002575F4,extended,3C0242AC
+patch=0,EE,00259724,extended,3C0242AC
+patch=0,EE,00259DC0,extended,3C0242AC
+patch=0,EE,00259560,extended,3C0342AC
+patch=0,EE,00332D10,extended,3C044000
+patch=0,EE,00332D64,extended,3C024080
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas.
+patch=0,EE,0024A65C,word,3C02F360
+patch=0,EE,0024A6CC,word,3C02F360
+patch=0,EE,00277740,word,3C02F360
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (180%).
+patch=0,EE,00278914,word,24420002
+patch=0,EE,0025BE5C,word,3C024320

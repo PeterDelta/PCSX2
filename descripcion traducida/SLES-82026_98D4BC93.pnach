@@ -3,7 +3,7 @@ gametitle=Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,20203FAC,extended,3F400000
 patch=1,EE,E00367C8,extended,004B6640
 patch=1,EE,204B6638,extended,3FB00000

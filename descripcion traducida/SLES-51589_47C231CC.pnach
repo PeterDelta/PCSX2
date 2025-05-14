@@ -3,7 +3,7 @@ gametitle=Resident Evil - Outbreak (PAL-M) SLES-51589 47C231CC
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht & nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0034D0F8,word,3fe38e39
 patch=1,EE,001b34d4,word,00000000 //FMV's fix by nemesis2000
 patch=1,EE,0033a57c,word,24060015

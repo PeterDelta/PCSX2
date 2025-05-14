@@ -3,7 +3,7 @@ gametitle=Space Chimps (PAL-M) SLES-55340 C423A2DC
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,00600188,word,00000000 //0000004B
 patch=1,EE,00600190,word,00000200 //00000169
 

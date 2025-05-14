@@ -1,0 +1,11 @@
+gametitle=Spider-Man (NTSC-J) SLPM-65205 359EA298
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta & Arapapa
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,0058C6D4,word,3FE38E2A
+patch=1,EE,002EBE64,word,3C013C28
+patch=1,EE,003C9370,word,3C01BFAB
+patch=1,EE,003C937C,word,3C013FAB
+patch=1,EE,0051EEF0,word,14830018

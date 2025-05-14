@@ -3,7 +3,7 @@ gametitle=Need for Speed - Carbon (NTSC-U) SLUS-21493 7841A89E
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,E0010000,extended,00A6E994
 patch=1,EE,00A6E994,extended,00000001
 patch=1,EE,2061E4F8,extended,3F400000

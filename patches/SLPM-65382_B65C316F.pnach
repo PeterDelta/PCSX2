@@ -1,0 +1,34 @@
+gametitle=Grand Theft Auto III (NTSC-J) SLPM-65382 B65C316F
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrects display cropping to 16:9.
+patch=1,EE,0040DE58,extended,00000001
+patch=0,EE,00256BCC,extended,3C0342AC
+patch=0,EE,00261D78,extended,3C0242AC
+patch=0,EE,002650D4,extended,3C0242AC
+patch=0,EE,002697D8,extended,3C0242AC
+patch=0,EE,0026B158,extended,3C0442AC
+
+[Remove Blackbars]
+author=PeterDelta
+description=Removes black bars in cutscenes.
+patch=0,EE,0024A03C,word,3C023420
+patch=0,EE,0024A080,word,3C0244E0
+patch=0,EE,00281ADC,word,3C024160
+patch=0,EE,00281B00,word,3C0244E0
+
+[Remove Blur]
+author=PeterDelta
+description=Removes the blur effect.
+patch=1,EE,0040E894,extended,00
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,00282964,word,24420002
+patch=0,EE,0025B8AC,word,3C024320
+patch=0,EE,0025F248,word,3C024320
+patch=0,EE,0025E9D0,word,3C033D00
+patch=0,EE,0025E9AC,word,3C034316

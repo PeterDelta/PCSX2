@@ -4,7 +4,7 @@ gametitle=Star Wars - Battlefront 2 (PAL-M) SLES-53501 02F4B541
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000 and Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 
 [50 FPS]
 author=PeterDelta

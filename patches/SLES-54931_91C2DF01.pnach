@@ -3,7 +3,7 @@ gametitle=Looney Tunes - ACME Arsenal (PAL-M) SLES-54931 91C2DF01
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 //patch=1,EE,20467E00,extended,40180000 //3FAAAAAB
 //patch=1,EE,20957924,extended,40120000 //3FE38E39 Menu
 patch=1,EE,208268D0,extended,3F100000

@@ -3,7 +3,7 @@ gametitle=Shox - Rally Reinvented (PAL-M) SLES-51144 78FFA39F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,0035B978,extended,16280001
 
 [NTSC Mode]

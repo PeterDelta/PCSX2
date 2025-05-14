@@ -3,7 +3,7 @@ gametitle=Final Armada (PAL-M) SLES-54467 FD9B2DA7
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001421D0,word,3C023F1F
 
 [50 FPS]

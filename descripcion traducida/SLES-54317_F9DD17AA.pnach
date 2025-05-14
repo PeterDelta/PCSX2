@@ -3,7 +3,7 @@ gametitle=Ghost Rider (PAL-M) SLES-54317 F9DD17AA
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Habilita pantalla panorámica nativa
+description=Habilita pantalla panorámica nativa.
 patch=1,EE,006CE4C0,extended,00000001
 
 [Remove Blackbars]

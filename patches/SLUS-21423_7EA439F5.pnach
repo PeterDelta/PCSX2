@@ -1,0 +1,27 @@
+gametitle=Grand Theft Auto - Liberty City Stories (NTSC-U) SLUS-21423 7EA439F5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Corrects display cropping to 16:9.
+patch=1,EE,003D8B8A,extended,01
+patch=0,EE,0027CB14,extended,3C0142AC
+patch=0,EE,002824AC,extended,3C0142AC
+patch=0,EE,00284374,extended,3C0142AC
+patch=0,EE,00291AB0,extended,3C0142AC
+patch=0,EE,002DFE20,extended,3C013F40
+
+[Remove Ghosting Effects]
+author=PeterDelta
+description=Removes the ghosting effect returning a clean and sharp image.
+patch=1,EE,003D7498,extended,00
+
+[Remove Color Filter]
+author=PeterDelta
+description=Removes the color filter, making the game look more natural.
+patch=1,EE,003D0E5C,extended,00
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=0,EE,002B552C,extended,02

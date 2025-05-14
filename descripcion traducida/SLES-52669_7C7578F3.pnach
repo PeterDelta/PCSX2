@@ -3,7 +3,7 @@ gametitle=Forgotten Realms - Demon Stone (PAL-M) SLES-52669 7C7578F3
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001a50d0,word,3c013f40
 patch=1,EE,001a50d4,word,44810000
 patch=1,EE,001a50dc,word,46006b43

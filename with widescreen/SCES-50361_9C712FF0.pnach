@@ -3,7 +3,7 @@ gametitle=Jak and Daxter - The Precursor Legacy (PAL-M) SCES-50361 9C712FF0
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Widescreen fix
+description=Corrects display cropping to 16:9.
 patch=1,EE,0079F728,word,0015130C //0014E5C4
 patch=1,EE,002AF8B0,word,3F1F3000 //3F000000
 patch=1,EE,002AF85C,word,BF1F3000 //BF000000

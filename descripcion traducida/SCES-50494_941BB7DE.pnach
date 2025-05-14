@@ -3,16 +3,21 @@ gametitle=Final Fantasy X (PAL-S) SCES-50494 941BB7DE
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,001A5974,word,3C013F19
 patch=1,EE,001A5978,word,3421999A
 patch=1,EE,0011973C,word,3C014440 //Render-Fix
 patch=1,EE,00176144,word,3C01442B
-patch=1,EE,002649c4,word,3c013f40 //3c013f80 sphere grid
+patch=1,EE,002649C4,word,3C013F40 //3C013f80 sphere grid
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto blur en el fondo de los combates.
+patch=1,EE,00580444,extended,00
 
 [50 FPS]
 author=PeterDelta
-description=Puede requerir aumentar la frecuencia del EE (130%).
+description=Puede requerir aumentar la frecuencia del EE (130%). Jugable pero incompleto
 patch=1,EE,0011B940,extended,24040002
 patch=1,EE,2057C7D8,extended,3D4CCCCD //move npc and tidus
 patch=1,EE,2058D448,extended,40400000 //text
@@ -21,3 +26,12 @@ patch=1,EE,0011B940,extended,24040001
 patch=1,EE,2057C7D8,extended,3CCCCCCD
 patch=1,EE,2058D448,extended,3FC00000
 //patch=1,EE,203038EC,word,00000002 //00000001 speed global
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar. Se acelera un 17%
+patch=0,EE,002F8020,word,34050050
+patch=0,EE,002F8024,word,24030002
+patch=0,EE,002F8028,word,0000000C
+patch=0,EE,002F802C,word,03E00008
+patch=0,EE,002D98BC,word,00050000

@@ -3,7 +3,7 @@ gametitle=Dukes of Hazzard, The - Return of the General Lee (PAL-E) SLES-52747 C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=sergx12
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,003F8EF8,word,3C013FBA
 patch=1,EE,003F8EFC,word,34210C2C
 

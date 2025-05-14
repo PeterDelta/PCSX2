@@ -3,7 +3,7 @@ gametitle=Knight Rider - The Game (PAL-M) SLES-51011 989192FE
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ThirteenAG
-description=Corrección de pantalla panorámica
+description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,003E3600,short,3FE3
 patch=1,EE,003E3604,short,8E39
 patch=1,EE,003EB864,short,3FE3

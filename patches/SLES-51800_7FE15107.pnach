@@ -3,7 +3,7 @@ gametitle=Smash Cars (PAL-M) SLES-51800 7FE15107
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=sergx12 & PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,0012696C,word,3C023CAC //3C023C8E fov singleplayer
 patch=1,EE,00126974,word,3442A2D8 //3442FA35
 patch=1,EE,001269B4,word,3C023CAC

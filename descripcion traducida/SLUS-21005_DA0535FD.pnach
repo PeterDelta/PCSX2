@@ -3,7 +3,7 @@ gametitle=Kingdom Hearts II (NTSC-U) SLUS-21005 DA0535FD
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,00106c70,word,3c013f4c // c480004c
 patch=1,EE,00106c88,word,3421cccc // 4600a7c6
 patch=1,EE,00106c8c,word,4481f800 // 00000000
@@ -34,6 +34,11 @@ patch=1,EE,E0010005,extended,0033E784
 patch=1,EE,00356F4C,extended,00000001
 patch=1,EE,20379178,extended,3F800000
 patch=1,EE,2037CE98,extended,3F800000
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto de desenfoque que se muestra en algunas escenas.
+patch=1,EE,00521140,extended,00
 
 [Subtitles off]
 author=ElHecht

@@ -3,7 +3,7 @@ gametitle=Surf's Up (PAL-M) SLES-54583 904A9089
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,006056a4,word,3c033ec0 //3c033f00
 patch=1,EE,0060e678,word,3c033ec0 //3c033f00
 

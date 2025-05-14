@@ -3,7 +3,7 @@ gametitle=Medal of Honor - European Assault (PAL-S) SLES-53336 BB70FFB9
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-description=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio.
 patch=1,EE,0012927c,word,00000000
 
 [50/60 FPS]

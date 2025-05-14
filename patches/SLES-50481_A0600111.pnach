@@ -1,0 +1,6 @@
+gametitle=Vexx (PAL-M) SLES-50444 802EBFF7
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00434CC6,extended,94 //00434CC4

@@ -3,7 +3,7 @@ gametitle=DreamWorks Madagascar (PAL-G) SLES-53226 1468C474
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,0014A0E0,word,3C013F1F
 patch=1,EE,00288520,word,08045CA0
 patch=1,EE,00117280,word,46010043

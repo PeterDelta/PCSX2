@@ -1,0 +1,14 @@
+gametitle=Crazy Taxi (NTSC-J) SLPM-62102 8C78493E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,00185084,word,3C013F40
+patch=0,EE,0015B740,word,3C013F40
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Attempts to disable interlaced offset rendering.
+patch=0,EE,00190EA4,word,30500000

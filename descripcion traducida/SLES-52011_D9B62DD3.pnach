@@ -3,7 +3,7 @@ gametitle=Tak and The Power of Juju (PAL-E) SLES-52011 D9B62DD3
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renderiza el juego en proporción de 16:9
+description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,002511C0,word,3C013FE3 //3C013FAA
 patch=1,EE,002511C4,word,3421388E //3421AAAB
 
