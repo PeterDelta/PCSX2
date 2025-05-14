@@ -1,0 +1,10 @@
+# Alone in the Dark - Jack Is Back (Europe) SLES-00037
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 200
+A707E56C 00010000
+A70A07FE 00170000
+A70A0876 00170000

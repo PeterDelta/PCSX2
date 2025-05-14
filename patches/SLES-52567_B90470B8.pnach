@@ -1,10 +1,10 @@
 gametitle=Catwoman (PAL-M) SLES-52567 B90470B8
 
-[50 FPS]
-author=PeterDelta
-description=BETA missing speeds.
-patch=1,EE,E0010001,extended,0012A3D0
-patch=1,EE,0012A3D0,extended,02
+[50/60 FPS]
+author=PeterDelta & Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0012A3D0,word,24420002
+patch=0,EE,001763EC,word,46000843
 
 [NTSC Mode]
 author=PeterDelta
