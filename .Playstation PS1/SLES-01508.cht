@@ -1,0 +1,24 @@
+# Metal Gear Solid (Italy) SLES-01508 | SLES-11508
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+OverrideCPUOverclock = 180
+A409E45C 80082334
+A70AC280 00000001
+A70B16C2 000A0000
+A709172C 00000000
+00000000 FFFF
+A409E45C 8001D25C
+A70AC280 00010000
+A70B16C2 0000000A
+A709172C 00100000
+00000000 FFFF
+
+[Subtitles off]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Disable subtitles during scenes
+A80B5E5D 0040

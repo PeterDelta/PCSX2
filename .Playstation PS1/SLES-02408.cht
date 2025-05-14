@@ -1,4 +1,4 @@
-# Disney-Pixar Toy Story 2 - Buzz Lightyear al Rescate! (Spain) SLES-02408
+# Disney-Pixar Toy Story 2 - ¡Buzz Lightyear al Rescate! (Spain) SLES-02408
 [50/60 FPS]
 Type = Gameshark
 Activation = EndFrame
@@ -6,14 +6,15 @@ Author = PeterDelta
 Description = Unlocks internal FPS.
 OverrideCPUOverclock = 180
 A707B24C 00020001
+D009AA8C 0029
+8007B24C 0002
 
 [NTSC Mode]
 Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
-Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+Description = Runs NTSC video mode.
 A70A01C4 00010000
-A71BC83E 01000200
-A71DDB2A 01000200
-A71BC842 00170070
-A71DDB2E 00170070
+A71BC842 00170000
+A71DDB2E 00170000
+A708685C 00100000

@@ -4,5 +4,35 @@ Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
 Description = Unlocks internal FPS.
-OverrideCPUOverclock = 180
+OverrideCPUOverclock = 200
 A7037D80 00020001
+A70219CC 00002843
+A70219CE 00000005
+A70B5C1C 00000001
+A70B5C1E 0000240B
+A70B5C2C 00000018
+A70B5C2E 0000A08B
+A704C7B4 00400020
+A704C708 00800040
+A704DDAC 00020004
+A70AFBB0 00400020
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A708C434 00010000
+A7073858 00100000
+
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Renders the game in 16:9 aspect ratio.
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A706C410 10000C00
+A706C406 12603000
+A7042F2C 00200400
+A7042F2E 96E42404

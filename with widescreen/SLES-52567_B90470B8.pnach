@@ -7,11 +7,11 @@ description=Renders the game in 16:9 aspect ratio
 patch=1,EE,00116C64,word,3C013F80 //3C013F59 Zoom fix (Internal Widescreen)
 patch=1,EE,00116C68,word,00000000 //3421999A
 
-[50 FPS]
-author=PeterDelta
-description=BETA missing speeds.
-patch=1,EE,E0010001,extended,0012A3D0
-patch=1,EE,0012A3D0,extended,02
+[50/60 FPS]
+author=PeterDelta & Gabominated
+description=Might need EE overclock (130%).
+patch=0,EE,0012A3D0,word,24420002
+patch=0,EE,001763EC,word,46000843
 
 [NTSC Mode]
 author=PeterDelta

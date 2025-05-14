@@ -32,8 +32,13 @@ patch=1,EE,2035744C,extended,00000000
 patch=1,EE,E0010005,extended,0033EC84 //fmv
 patch=1,EE,2035744C,extended,00000001
 patch=1,EE,203795E8,extended,3F99999A
-patch=1,EE,2037D318,extended,3F99999A
+patch=1,EE,2037D318,extended,3F800000
 
 [Subtitles off]
 description=Deshabilita los subtitulos durante las escenas
 patch=1,EE,00227774,word,11e00019 //15e00019
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto blur que se muestra en algunas escenas.
+patch=1,EE,00521640,extended,00

@@ -1,0 +1,22 @@
+# Star Wars - Episode I - Die dunkle Bedrohung (Germany) SLES-02036
+[50/60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 300
+A707791C 00020001
+D0077754 0004
+8007791C 0002
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 300
+A707C8DC 00010000
+A7088C3E 01000200
+A7088C42 00140070
+A7088C52 01000200
+A7088C56 00140070
