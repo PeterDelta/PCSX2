@@ -5,21 +5,25 @@ gsaspectratio=16:9
 author=PeterDelta
 description=Widescreen fix
 patch=1,EE,007004EF,extended,01
-patch=1,EE,0021E040,extended,3C0242A2
-patch=1,EE,0020A4F8,extended,3C0242AC
-patch=1,EE,002081DC,extended,3C0342AC
-patch=1,EE,002ECAF0,extended,3C044040
-patch=1,EE,002ECB40,extended,3C0440D0
+patch=0,EE,0021E040,extended,3C0242A2
+patch=0,EE,0020A4F8,extended,3C0242AC
+patch=0,EE,002081DC,extended,3C0342AC
+patch=0,EE,002ECAF0,extended,3C044040
+patch=0,EE,002ECB40,extended,3C0440D0
 //patch=1,EE,0033DB54,extended,3C013F80 //scenes zoom cause problems
 //patch=1,EE,E0020001,extended,0066C174
 //patch=1,EE,0033DB54,extended,3C013F40
 //patch=1,EE,2021EE14,extended,3C023FC0
 //patch=1,EE,2021EE14,extended,3C024000
 
-[Remove ghosting effects]
-author=PeterDelta
-description=Removes the ghosting effect without affecting the lighting
-patch=1,EE,00668C5C,extended,00000000
-patch=1,EE,00668CE8,extended,00000000
-patch=1,EE,E0010100,extended,007004E0
-patch=1,EE,007004E0,extended,00000130
+[Remove Ghosting Effects]
+author=Silent, PeterDelta
+description=Removes the ghosting effect from radiosity and color filter post effects, preserving the slight bloom effect. Also disables the seam remover post effect.
+patch=0,EE,00668C5C,extended,00 // CPostEffects::m_bSeamRemover
+patch=0,EE,20668CE4,extended,00000000 // CPostEffects::m_RadiosityFilterPasses
+// These values are read from stream.ini from the init overlay, so we have to patch them every frame
+patch=1,EE,20668D28,extended,00000000 // CPostEffects::m_colourLeftUOffset
+patch=1,EE,20668D2C,extended,00000000 // CPostEffects::m_colourRightUOffset
+patch=1,EE,20668D30,extended,00000000 // CPostEffects::m_colourTopVOffset
+patch=1,EE,20668D34,extended,00000000 // CPostEffects::m_colourBottomVOffset
+

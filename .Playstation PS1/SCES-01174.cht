@@ -1,0 +1,9 @@
+# Wild Arms (Spain) SCES-01174
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70D1AC8 00010000
+A70D307E 00180000
+A70D30EE 00180000

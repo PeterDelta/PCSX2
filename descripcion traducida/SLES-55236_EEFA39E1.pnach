@@ -11,6 +11,11 @@ author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
 patch=1,EE,0062B1D4,word,00000001 //00000002
 
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar. FMVs se bloquean al finalizar pero se pueden salar sin problema.
+patch=1,EE,00575FE4,word,10820008
+
 [Disable Filter]
 author=PeterDelta
 description=Desactiva el filtro marrón y reducir el desenfoque.

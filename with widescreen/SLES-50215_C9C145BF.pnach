@@ -22,7 +22,9 @@ patch=1,EE,0015e8b8,word,461ea502 // e7809da8
 author=PeterDelta
 description=NTSC mode at start.
 patch=0,EE,001A342C,word,24060002
-patch=2,EE,00389FAC,word,001BF9FF
-patch=2,EE,00389FD4,word,001BF9FF
-patch=2,EE,003B411C,word,001BF9FF
-patch=2,EE,003B4164,word,00007890
+patch=1,EE,003B45F4,word,00000215
+//old
+//patch=1,EE,00389FAC,word,001BF9FF
+//patch=1,EE,00389FD4,word,001BF9FF
+//patch=1,EE,003B411C,word,001BF9FF
+//patch=1,EE,003B4164,word,00007890

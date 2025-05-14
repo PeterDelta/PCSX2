@@ -1,0 +1,10 @@
+# Alone in the Dark - The New Nightmare (Spain) (Disc 2) SLES-12804
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 300
+A70BA340 00010000
+A70CBBB2 00150000
+A70CBBC6 00150000

@@ -1,0 +1,12 @@
+# Xenogears (USA) (Disc 1) SLUS-00664
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A70758E4 00020001
+A7059198 00010000
+A704B5FC 00010000
+D01CA280 0000
+8004B5FC 0001

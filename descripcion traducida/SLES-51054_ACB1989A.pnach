@@ -4,19 +4,29 @@ gametitle=Midnight Club II (PAL-M) SLES-51054 ACB1989A
 gsaspectratio=16:9
 author=PeterDelta
 description=Renderiza el juego en proporción de 16:9
-patch=1,EE,0042F134,word,3FC71C65 //3F955553
+patch=1,EE,0042F134,word,3FC71C65
 //patch=1,EE,001C74E0,word,3C013F77 //3C013F80 map zoom
 //patch=1,EE,001C7E80,word,3C013EC0 //3C013F00 map size
 //patch=1,EE,001C81F4,word,3C013EC5 //3C013F00 map size
 
-[50 FPS]
+[50/60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,00106F64,word,24070001
-patch=1,EE,00431804,word,3F000000 //3F800000 speed
+//patch=1,EE,0042F138,word,00000001
+patch=0,EE,00106F64,word,24070001
+patch=0,EE,001FFB3C,word,3C013E19
+patch=0,EE,001FFB68,word,3C010EC0
+patch=1,EE,00431804,word,3F000000
 
 [NTSC Mode]
 author=PeterDelta
-description=Modo NTSC al iniciar. FMV se congela, gameplay ok
-patch=1,EE,0042F784,word,00000000
-patch=1,EE,0042F1A8,word,000001C0
+description=Modo NTSC al iniciar.
+patch=0,EE,0036D1FC,word,240201C0
+patch=0,EE,0037F4C4,word,24020000
+patch=1,EE,0042C34C,word,00000001
+
+[Remove Brume]
+author=PeterDelta
+description=Removes background brume effect
+patch=0,EE,004274E8,word,00000000
+patch=0,EE,004274F4,word,00000000

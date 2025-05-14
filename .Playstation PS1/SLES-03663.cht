@@ -1,0 +1,14 @@
+# Harry Potter and the Philosopher's Stone (Europe) SLES-03663
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+OverrideCPUOverclock = 170
+A705D1A6 8C420040
+A7078B8E 01000200
+A7078B92 00120070
+A7078BA2 01000200
+A7078BA6 00120070
+A7078B92 001A0070
+A7078BA6 001A0070

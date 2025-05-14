@@ -4,10 +4,17 @@ gametitle=Midnight Club 3 - DUB Edition (NTSC-U) SLUS-21029 4A0E5B3A v1.0
 gsaspectratio=16:9
 author=PeterDelta
 description=Renderiza el juego en proporción de 16:9
-patch=1,EE,00617AB0,word,3FC71C66 //3F955554
+//patch=1,EE,00617AB0,word,3FC71C66 //old
+patch=0,EE,00524564,word,3C013FE3
+patch=0,EE,00524568,word,34218E39
 
 [60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (180%).
 patch=1,EE,001A7A74,word,24020001
 //patch=1,EE,00617AB4,word,00000001 //00000002
+
+[Remove Bloom]
+author=PeterDelta
+description=Elimina el efecto bloom
+patch=1,EE,001D0CE0,extended,00

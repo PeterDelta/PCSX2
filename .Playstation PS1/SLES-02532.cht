@@ -4,11 +4,14 @@ Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
 Description = Runs NTSC video mode.
-A70A4DC8 00010000
 A70D649E 00180000
 A70D655E 00180000
-D00A5332 1B15 #for scenes that do not sync
-800A4DC8 0001
+A70A4DC8 00010000
+A40CC8E0 000D64E8
+A70D649E 00000018
+A70D655E 00000018
+A70A4DC8 00000001
+00000000 FFFF
 
 [Skip Door Transition]
 Type = Gameshark

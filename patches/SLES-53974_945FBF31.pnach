@@ -19,3 +19,11 @@ patch=1,EE,201703C0,extended,3C023F00 //3C023F80 camera
 patch=1,EE,20947814,extended,3D19999A //3D99999A camera speed
 patch=1,EE,203DF8D0,extended,3DCCCCCD //3E4CCCCD wind trees
 patch=1,EE,203DF388,extended,3E99999A //3F19999A speed velocidad flecha inventario
+patch=1,EE,203DF42C,extended,3F19999A
+patch=1,EE,203760F4,extended,3C043E80
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start. Global speed needs to fix
+patch=1,EE,0014559C,word,24130002
+patch=1,EE,003EE158,word,000001C0

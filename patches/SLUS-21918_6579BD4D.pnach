@@ -1,0 +1,19 @@
+gametitle=Pro Evolution Soccer 2010 (NTSC-U) SLUS-21918 6579BD4D
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,001043FC,word,3C013F40 //00000000
+patch=1,EE,00104400,word,44810000 //00000000
+patch=1,EE,00104408,word,4600C602 //00000000
+patch=1,EE,00125DDC,word,3C053FAB //3C053F80 Render fix
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock. Unlocks FPS in all modes.
+patch=1,EE,10527090,extended,0100
+patch=1,EE,E0010001,extended,005CA4F4
+patch=1,EE,10527090,extended,0200
+patch=0,EE,101F5B14,extended,3F80
+patch=0,EE,1026C904,extended,4270

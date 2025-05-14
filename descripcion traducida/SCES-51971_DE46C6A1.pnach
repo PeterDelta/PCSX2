@@ -1,0 +1,9 @@
+gametitle=Jet Li - Rise to Honor (PAL-M) SCES-51971 DE46C6A1
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar. FMV no sincronizado, gameplay perfecto
+patch=0,EE,001001F4,word,3C060002
+patch=0,EE,002624E0,word,240700E0
+patch=0,EE,002CB1C4,word,000000E0
+patch=0,EE,002DEFE4,word,3F555556

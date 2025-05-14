@@ -11,6 +11,11 @@ author=PeterDelta
 description=Might need EE Overclock (130%).
 patch=1,EE,0062B1D4,word,00000001 //00000002
 
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start. FMVs are blocked at the end, but they can be skipped without any problem.
+patch=1,EE,00575FE4,word,10820008
+
 [Disable Filter]
 author=PeterDelta
 description=Disable brown filter and reducing blur.

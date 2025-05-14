@@ -1,0 +1,7 @@
+# Resident Evil - Director's Cut (Europe) SLES-00969
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70AD9B0 00010000
