@@ -1,10 +1,22 @@
 # Star Wars - Episode I - The Phantom Menace (Europe) SLES-02034
-[50 FPS]
+[50/60 FPS]
 Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
 Description = Unlocks internal FPS.
-OverrideCPUOverclock = 200
+OverrideCPUOverclock = 300
 A7077940 00020001
 D0077778 0004
 80077940 0002
+
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+OverrideCPUOverclock = 300
+A707C8E0 00010000
+A70888FA 01000200
+A70888FE 00140070
+A708890E 01000200
+A7088912 00140070

@@ -18,7 +18,9 @@ patch=1,EE,001832d4,word,3c010000 //3c014220
 [50 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,006B3974,extended,04000001 //04000002
+patch=1,EE,006B3974,extended,04000001
+patch=1,EE,E0010001,extended,006BFF48 //0033A268 incluye pausa
+patch=1,EE,006B3974,extended,02
 
 [Disable Noise Effect]
 author=PeterDelta

@@ -1,0 +1,8 @@
+# En Busca del Valle Encantado - El Retorno al Gran Valle (Spain) SLES-02985
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A707A220 00010000
+A70140B4 00100000

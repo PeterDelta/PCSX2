@@ -1,0 +1,9 @@
+gametitle=Enthusia Professional Racing (NTSC-U) SLUS-20967 81D233DC
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=No.47 & PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00383708,word,3F400000
+patch=1,EE,00383728,word,3F400000
+patch=1,EE,00383A58,word,3F400000

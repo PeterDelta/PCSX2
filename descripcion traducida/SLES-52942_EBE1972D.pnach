@@ -6,6 +6,11 @@ author=PeterDelta
 description=Renderiza el juego en proporción de 16:9
 patch=1,EE,00617D30,word,3FC71C66 //3F955554
 
+[Remove Bloom]
+author=PeterDelta
+description=Elimina el efecto bloom
+patch=1,EE,001D0D40,extended,00
+
 [50 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (180%).
@@ -17,8 +22,3 @@ description=Modo NTSC al iniciar.
 patch=1,EE,00617EC4,word,00000000
 patch=1,EE,00617DA8,word,000001C0
 patch=1,EE,001BE4B8,word,14A0002F
-
-[Remove Bloom]
-author=PeterDelta
-description=Elimina el efecto bloom del posprocesamiento
-patch=1,EE,001D0D98,word,3C013FFF

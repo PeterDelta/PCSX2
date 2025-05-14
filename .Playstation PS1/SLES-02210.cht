@@ -1,0 +1,9 @@
+# Dino Crisis (Italy) SLES-02210
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A70A3F0C 00010000
+A70AD95C 00180000
+A70AD8D8 00180000

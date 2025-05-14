@@ -6,6 +6,11 @@ author=PeterDelta
 description=Renderiza el juego en proporción de 16:9
 patch=1,EE,00617AB0,word,3FC71C66 //3F955554
 
+[Remove Bloom]
+author=PeterDelta
+description=Elimina el efecto bloom
+patch=1,EE,001D0CE0,extended,00
+
 [60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (180%).
