@@ -1,0 +1,9 @@
+# Legacy of Kain - Soul Reaver (Spain) SLES-02026
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A70D19A4 00010000
+A70300BC 00210011

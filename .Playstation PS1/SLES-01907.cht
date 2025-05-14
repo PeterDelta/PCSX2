@@ -1,0 +1,9 @@
+# V-Rally - Championship Edition 2 (Europe) SLES-01907
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Enable native widescreen.
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A80C5559 0001

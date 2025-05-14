@@ -1,0 +1,9 @@
+# Batman Forever - The Arcade Game (Europe) SLES-00525
+[NTSC Mode]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Runs NTSC video mode.
+A702E41C 00010000
+A7069B06 00180000
+A707A21A 00180000
