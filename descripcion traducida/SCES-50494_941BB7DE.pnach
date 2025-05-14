@@ -10,6 +10,11 @@ patch=1,EE,0011973C,word,3C014440 //Render-Fix
 patch=1,EE,00176144,word,3C01442B
 patch=1,EE,002649c4,word,3c013f40 //3c013f80 sphere grid
 
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto blur en el fondo de los combates
+patch=1,EE,00580444,extended,00
+
 [50 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).

@@ -1,0 +1,12 @@
+# Need for Speed - Porsche 2000 (Europe) SLES-02700
+[Widescreen 16:9]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Native Widescreen Fix.
+OverrideAspectRatio = 16:9
+DisableWidescreenRendering = True
+A70BD526 00000100
+A70B6060 0BE00C30 ;race
+A70B6060 1B331466 ;select cars
+A70B6060 12200D98 ;multi

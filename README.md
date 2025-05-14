@@ -326,7 +326,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td>Valid for NTSC-U</td>
   </tr>
   <tr>
-    <td>Delta Force Black Hawk Down Team Sabre</td>
+    <td>Delta Force - Team Sabre</td>
     <td style="text-align:center;"><a href="patches/SLES-54115_A8DB29DF.pnach">PAL-M</a> - <a href="patches/SLUS-21414_3115A446.pnach">USA</a></td>
     <td></td>
   </tr>
@@ -336,7 +336,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
-    <td>Destroy All Humans 2 - Make War not Love</td>
+    <td>Destroy All Humans 2</td>
     <td style="text-align:center;"><a href="patches/SLES-54384_743E10C2.pnach">PAL-M</a></td>
     <td></td>
   </tr>
@@ -372,7 +372,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Disney Piglet - El Gran Juego</td>
-    <td style="text-align:center;"><a href="patches/SLES-51666_1BD0A97E.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-51666_1BD0A97E.pnach">PAL-S</a> - <a href="patches/SLES-51594_49B3396B.pnach">PAL-E</a></td>
     <td></td>
   </tr>
   <tr>
@@ -516,7 +516,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td>Valid for other PAL</td>
   </tr>
   <tr>
-    <td>Dukes of Hazzard - Return of General Lee</td>
+    <td>Dukes of Hazzard Return of General Lee</td>
     <td style="text-align:center;"><a href="patches/SLES-52747_C46D7708.pnach">PAL-E</a> - <a href="patches/SLUS-20959_FF2F701F.pnach">USA</a></td>
     <td></td>
   </tr>
@@ -528,6 +528,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
     <td>Enter the Matrix</td>
     <td style="text-align:center;"><a href="patches/SLES-51203_F1370E83.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Enthusia Professional Racing</td>
+    <td style="text-align:center;"><a href="patches/SLES-53125_5C63B5AC.pnach">PAL-M</a> - <a href="patches/SLUS-20967_81D233DC.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -683,7 +688,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
     <td>Gran Turismo 4</td>
     <td style="text-align:center;"><a href="patches/SCES-51719_44A61C8F.pnach">PAL-M</a></td>
-    <td>Need: speed IA more exact</td>
+    <td></td>
   </tr>
   <tr>
     <td>Grand Theft Auto III</td>
@@ -692,7 +697,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Grand Theft Auto - Vice City</td>
-    <td style="text-align:center;"><a href="patches/SLES-51061_C498A04F.pnach">PAL-v1</a> - <a href="patches/SLES-51061_CFCB0D20.pnach">PAL-v2</a> - <a href="patches/SLES-51061_26954C46.pnach">PAL-v3</a> - <a href="patches/SLUS-20920_C16AB0E7.pnach">USA-v1</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-51061_C498A04F.pnach">PAL-v1</a> - <a href="patches/SLES-51061_CFCB0D20.pnach">PAL-v2</a> - <a href="patches/SLES-51061_26954C46.pnach">PAL-v3</a> - <a href="patches/SLUS-20552_20B19E49.pnach">USA-v1</a> - <a href="patches/SLUS-20552_9E312BAF.pnach">USA-v2</a> - <a href="patches/SLUS-20552_248E6126.pnach">USA-v3</a></td>
     <td></td>
   </tr>
   <tr>
@@ -883,7 +888,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
     <td>Kingdom Hearts II</td>
     <td style="text-align:center;"><a href="patches/SLES-54235_C398F477.pnach">PAL-S</a> - <a href="patches/SLUS-21005_DA0535FD.pnach">USA</a> - <a href="patches/SLPM-66675_F266B00B.pnach">JAP</a></td>
-    <td></td>
+    <td>PAL-S Valid for other PAL</td>
   </tr>
   <tr>
     <td>Knight Rider</td>
@@ -1308,12 +1313,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
     <td>Resident Evil - Outbreak</td>
     <td style="text-align:center;"><a href="patches/SLES-51589_47C231CC.pnach">PAL-M</a></td>
-    <td>Need: fix timers, gameplay ok</td>
+    <td>Need: fix timers, game ok</td>
   </tr>
   <tr>
     <td>Resident Evil - Outbreak - File #2</td>
     <td style="text-align:center;"><a href="patches/SLES-53319_A8505479.pnach">PAL-M</a></td>
-    <td>Need: fix timers, gameplay ok</td>
+    <td>Need: fix timers, game ok</td>
   </tr>
   <tr>
     <td>Return to Castle Wolfenstein</td>
@@ -1576,7 +1581,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
       <td>SWBFRNT2.ELF</td>
   </tr>
   <tr>
-      <td>Star Wars - Episode III - Revenge of the Sith</td>
+      <td>Star Wars - Episode III</td>
       <td style="text-align:center;"><a href="patches/SLES-53155_99AD19EE.pnach">PAL-M</a></td>
       <td></td>
   </tr>
@@ -1678,7 +1683,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
       <td>Test Drive Unlimited</td>
       <td style="text-align:center;"><a href="patches/SLES-53753_C2911A79.pnach">PAL-M</a></td>
-      <td>Need: more speeds</td>
+      <td>Valid to NTSC-U</td>
   </tr>
   <tr>
       <td>Thing, The</td>
@@ -1721,9 +1726,9 @@ I publish those that are more advanced, exposing what remains and what I am inve
       <td></td>
   </tr>
   <tr>
-      <td>Tourist Trophy - The Real Riding Simulator</td>
+      <td>Tourist Trophy - Real Riding Simulator</td>
       <td style="text-align:center;"><a href="patches/SCES-53372_CA9AA903.pnach">PAL-M</a></td>
-      <td>Need: speed IA more exact</td>
+      <td></td>
   </tr>
   <tr>
       <td>Torrente 3 - El Protector</td>
@@ -1791,7 +1796,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
-    <td>Viewtiful Joe (PAL-M) </td>
+    <td>Vexx (PAL-M)</td>
+    <td style="text-align:center;"><a href="patches/SLES-50481_A0600111.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Viewtiful Joe (PAL-M)</td>
     <td style="text-align:center;"><a href="patches/SLES-52678_2429905B.pnach">PAL-M</a> - <a href="patches/SLUS-20951_080D5356.pnach">NTSC-U</a></td>
     <td></td>
   </tr>
@@ -1863,8 +1873,36 @@ These are the only ones that are currently bug-free, except for some object anim
     <th style="text-align:center; width: 40%;">Version</th>
   </tr>
   <tr>
+    <td>Ace Combat 3 - Electrosphere<sup><b>2</b></sup></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02066.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Akumajou Dracula X - Gekka no Yasoukyoku</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLPM-86023.cht">JAP</a></td>
+  </tr>
+  <tr>
+    <td>Alone in the Dark - Jack Is Back</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-00037.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Alone in the Dark - The New Nightmare</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02804.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-12804.cht">Disc 2</a></td>
+  </tr>
+  <tr>
+    <td>Akuji the Heartless</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01298.cht">PAL-M</a></td>
+  </tr>
+  <tr>
     <td>Alundra</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-01258.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-01135.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Batman - Gotham City Racer</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02874.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Batman Forever - The Arcade Game</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-00525.cht">PAL-M</a></td>
   </tr>
   <tr>
     <td>C-12 - Final Resistance</td>
@@ -1883,8 +1921,12 @@ These are the only ones that are currently bug-free, except for some object anim
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-00568.cht">PAL-E</a></td>
   </tr>
   <tr>
-    <td>Cool Boarders 2 <sup><b>4</b></sup></td>
+    <td>Cool Boarders 2 <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-00992.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Chrono Cross</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLUS-01041.cht">Disc 1</a> - <a href=".Playstation PS1/SLUS-01080.cht">Disc 2</a></td>
   </tr>
   <tr>
     <td>Croc - Legend of the Gobbos (Europe)</td>
@@ -1892,19 +1934,19 @@ These are the only ones that are currently bug-free, except for some object anim
   </tr>
   <tr>
     <td>CTR - Crash Team Racing</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a><sup><b>1</b></sup></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a></td>
   </tr>
   <tr>
-    <td>Die Hard Trilogy <sup><b>4</b></sup></td>
+    <td>Die Hard Trilogy <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-00445.cht">PAL-M</a></td>
   </tr>
   <tr>
     <td>Dino Crisis</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02211.cht">PAL-S</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02211.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02210.cht">PAL-I</a> - <a href=".Playstation PS1/SLES-02208.cht">PAL-F</a></td>
   </tr>
   <tr>
     <td>Dino Crisis 2</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03225.cht">PAL-S</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03225.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-03224.cht">PAL-I</a> - <a href=".Playstation PS1/SLES-03222.cht">PAL-F</a></td>
   </tr>
   <tr>
     <td>Disney Atlantis - El Imperio Perdido</td>
@@ -1915,7 +1957,7 @@ These are the only ones that are currently bug-free, except for some object anim
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02894.cht">PAL-S</a></td>
   </tr>
   <tr>
-    <td>Disney El planeta del tesoro (Spain)</td>
+    <td>Disney El planeta del tesoro (Spain) <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-03941.cht">PAL-S</a></td>
   </tr>
   <tr>
@@ -1947,8 +1989,25 @@ These are the only ones that are currently bug-free, except for some object anim
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02997.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-12997.cht">Disc 2</a></td>
   </tr>
   <tr>
+    <td>En Busca del Valle Encantado</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02985.cht">PAL-S</a></td>
+  </tr>
+  <tr>
+    <td>Grinch, The</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02974.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Harry Potter and the Philosopher's Stone</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03663.cht">PAL-M</a></td>
+  </tr>
+  <tr>
     <td>Incredible Crisis</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02933.cht">PAL-M</a><sup><b>1</b></sup></td>
+  </tr>
+  <tr>
+    <td>Legacy of Kain - Soul Reaver</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02026.cht">PAL-S</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>MediEvil</td>
@@ -1960,14 +2019,18 @@ These are the only ones that are currently bug-free, except for some object anim
   </tr>
   <tr>
     <td>Metal Gear Solid (Spain)</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01734.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-11734.cht">Disc 2</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01734.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-11734.cht">Disc 2</a> - <a href=".Playstation PS1/SLES-01508.cht">PAL-I</a></td>
   </tr>
   <tr>
     <td>Metal Gear Solid - Special Missions</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02136.cht">PAL-M</a> - <a href=".Playstation PS1/SLUS-00957.cht">USA</a></td>
   </tr>
   <tr>
-    <td>Legend of Dragoon, The (Spain) <sup><b>4</b></sup></td>
+    <td>Need for Speed - Porsche 2000</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02700.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Legend of Dragoon, The (Spain) <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-03047.cht">Disc 1</a> - <a href=".Playstation PS1/SCES-13047.cht">Disc 2</a> - <a href=".Playstation PS1/SCES-23047.cht">Disc 3</a> - <a href=".Playstation PS1/SCES-33047.cht">Disc 4</a></td>
   </tr>
   <tr>
@@ -2008,7 +2071,11 @@ These are the only ones that are currently bug-free, except for some object anim
   </tr>
   <tr>
     <td>Star Wars Episode I - The Phantom Menace</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a><sup><b>2</b></sup> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLES-02036.cht">PAL-G</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+  </tr>
+  <tr>
+    <td>Star Wars - Episodio I Jedi Power Battles</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02611.cht">PAL-S</a></td>
   </tr>
   <tr>
     <td>Tenchu 2</td>
@@ -2035,12 +2102,23 @@ These are the only ones that are currently bug-free, except for some object anim
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-03954.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-03956.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-01485.cht">USA</a></td>
   </tr>
   <tr>
-    <td>Overboard! (Europe)</td>
+    <td>Overboard!</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-00865.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>V-Rally - Championship Edition 2</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01907.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Wild Arms</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-01174.cht">PAL-S</a></td>
+  </tr>
+  <tr>
+    <td>Xenogears</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLUS-00664.cht">Disc 1</a> - <a href=".Playstation PS1/SLUS-00669.cht">Disc 2</a></td>
   </tr>
 	</table>
 
 <sup><b>1</b></sup> FPS patch: Animations x2, speed and timer ok   
-<sup><b>2</b></sup> Valid for PAL-G, rename to SLES-02036  
+<sup><b>2</b></sup> NTSC Mode: The timer a bit fast, but it's playable.   
 <sup><b>3</b></sup> Valid for other PAL version  
-<sup><b>4</b></sup> NTSC Mode: The timer a bit fast, but it's playable.   
