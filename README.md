@@ -1868,8 +1868,12 @@ These are the only ones that are currently bug-free, except for some object anim
     <th style="text-align:center; width: 40%;">Version</th>
   </tr>
   <tr>
-    <td>Ace Combat 3 - Electrosphere <sup><b>2</b></sup></td>
+    <td>Ace Combat 3 - Electrosphere<sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-02066.cht">PAL-M</a></td>
+  </tr>
+  <tr>
+    <td>Akumajou Dracula X - Gekka no Yasoukyoku</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLPM-86023.cht">JAP</a></td>
   </tr>
   <tr>
     <td>Alone in the Dark - Jack Is Back</td>
@@ -1914,6 +1918,10 @@ These are the only ones that are currently bug-free, except for some object anim
   <tr>
     <td>Cool Boarders 2 <sup><b>2</b></sup></td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-00992.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Chrono Cross</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLUS-01041.cht">Disc 1</a> - <a href=".Playstation PS1/SLUS-01080.cht">Disc 2</a></td>
   </tr>
   <tr>
     <td>Croc - Legend of the Gobbos (Europe)</td>
@@ -2099,6 +2107,10 @@ These are the only ones that are currently bug-free, except for some object anim
   <tr>
     <td>Wild Arms</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SCES-01174.cht">PAL-S</a></td>
+  </tr>
+  <tr>
+    <td>Xenogears</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLUS-00664.cht">Disc 1</a> - <a href=".Playstation PS1/SLUS-00669.cht">Disc 2</a></td>
   </tr>
 	</table>
 

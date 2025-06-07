@@ -5,4 +5,6 @@ Activation = EndFrame
 Author = PeterDelta
 Description = Unlocks internal FPS.
 OverrideCPUOverclock = 180
-A707AF20 00020001
+A707AF08 00020001
+D009A74C 0039
+8007AF08 0002

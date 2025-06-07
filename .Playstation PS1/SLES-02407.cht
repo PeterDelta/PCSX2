@@ -6,14 +6,15 @@ Author = PeterDelta
 Description = Unlocks internal FPS.
 OverrideCPUOverclock = 180
 A707B248 00020001
+D009AA88 0029
+8007B248 0002
 
 [NTSC Mode]
 Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
-Description = Runs NTSC video mode. Select All borders (Aspect Uncorrected)
+Description = Runs NTSC video mode.
 A70A0194 00010000
-A71BC7FE 01000200
-A71DDAEA 01000200
-A71BC802 00170070
-A71DDAEE 00170070
+A71BC802 00170000
+A71DDAEE 00170000
+A7086858 00100000
