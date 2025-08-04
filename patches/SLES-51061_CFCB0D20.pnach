@@ -1,14 +1,11 @@
 //------------------------------------------------
 // ---- Notes by TKBS: ----
-// * Add Original Values 
-// * Add Original & New Instructions 
-// * Attempt to Port to 2002/2003 Hybrid Version: https://www.moddb.com/mods/gta-vice-city-mods
-// Current WiP == Cheat Table == 
-// Current WiP == Pnach  == https://github.com/SomeGTAVCCodes/GTA-Vice-City-PS2/blob/main/pnach/pcsx2%201.6/cheats/CFCB0D20%20-%20GTA%20Vice%20City%20%5BPAL%5D%20(2003).pnach
-
-i fucking hate github so thought i try this dumb fork shit and the wrose file management system ever.
-
-Absioultely no way ill be able to port hafl the instructions address or values but whatever lets go1!
+// * Add Original Values & Old --> New Instructions 
+// * Attempt to Port to 2002/2003 Beta & Hybrid Version: https://www.moddb.com/mods/gta-vice-city-mods
+// * Implement "Super Widescreen" & try to fix Upside Down issue.  
+// * Current WiP == https://github.com/PeterDelta/PCSX2/pull/33
+// ---- Changes by TKBS: ----
+* none: Just added documentation  of values & instructions
 //------------------------------------------------
 
 
