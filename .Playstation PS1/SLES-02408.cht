@@ -4,9 +4,11 @@ Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
 Description = Unlocks internal FPS.
-OverrideCPUOverclock = 180
+OverrideCPUOverclock = 200
 A707B24C 00020001
 D009AA8C 0029
+8007B24C 0002
+D00AA418 837C #fix level 12
 8007B24C 0002
 
 [NTSC Mode]
