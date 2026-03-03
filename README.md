@@ -531,6 +531,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
+    <td>Enthusia Professional Racing</td>
+    <td style="text-align:center;"><a href="patches/SLES-53125_5C63B5AC.pnach">PAL-M</a> - <a href="patches/SLUS-20967_81D233DC.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Everblue</td>
     <td style="text-align:center;"><a href="patches/SLES-50639_3832F5E0.pnach">PAL-E</a></td>
     <td></td>

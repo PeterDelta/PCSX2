@@ -531,6 +531,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
+    <td>Enthusia Professional Racing</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53125_5C63B5AC.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20967_81D233DC.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Everblue</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-50639_3832F5E0.pnach">PAL-E</a></td>
     <td></td>

@@ -4,17 +4,23 @@ Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
 Description = Unlocks internal FPS.
-OverrideCPUOverclock = 300
+OverrideCPUOverclock = 350
 A7077920 00020001
 D0077758 0004
 80077920 0002
+
+D00B72DC 0001
+80077920 0002
+A4077958 000A
+D00B7270 0001
+80077920 0002
+00000000 FFFF
 
 [NTSC Mode]
 Type = Gameshark
 Activation = EndFrame
 Author = PeterDelta
 Description = Runs NTSC video mode.
-OverrideCPUOverclock = 300
 A707C8E0 00010000
 A7088D0E 01000200
 A7088D12 00140070
