@@ -1,0 +1,7 @@
+gametitle=Ben 10 - Protector of Earth (USA) [SLUS-21661] [8FCCB5D9]
+comment=60 FPS Unlock (High Voltage Engine)
+author=Harutyun Soghomonyan
+
+// 60 FPS Hack
+// Changes frame divisor from 2 (30fps) to 1 (60fps)
+patch=1,EE,00268558,word,00000001
