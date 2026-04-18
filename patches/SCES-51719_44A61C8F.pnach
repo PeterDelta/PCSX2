@@ -79,5 +79,5 @@ patch=1,EE,003C3BEC,extended,87
 
 [Photo Mode]
 author=PeterDelta
-description=Unlocks FPS in Photo session.
+description=Unlocks FPS in Photo Session.
 patch=1,EE,006186E4,extended,01

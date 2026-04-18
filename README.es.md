@@ -1341,6 +1341,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
+    <td>Room Zoom - Race for Impact</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-52603_7ADEE689.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>RTX - Red Rock</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-51073_8AEE00C6.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-51069_E349C1D4.pnach">PAL-E</a></td>
     <td></td>
