@@ -15,15 +15,13 @@ patch=1,EE,000c0014,word,0804d281
 [NTSC Mode]
 author=PeterDelta
 description=NTSC mode at start.
-patch=0,EE,00331678,word,14000002
-patch=0,EE,0032122C,word,240701C0 //24070200 corrige imagen pero tiembla un poco
-//patch=0,EE,0032121C,word,24050001 //otro ntsc
-//patch=1,EE,0044BED8,word,000001C0 //no tiembla pero falta corregir fmv
+patch=0,EE,0032121C,word,24050001 //00331678 other
+patch=0,EE,0032122C,word,240701C2 //0044BED8
 
 [480p Mode]
 gsinterlacemode=1
 author=PeterDelta
 description=SDTV 480p mode at start. Might need EE Overclock (130%).
-patch=1,EE,0010DB9C,word,24110000
-patch=1,EE,0010DBA0,word,24120050
-patch=1,EE,0010DBAC,word,24130001
+patch=0,EE,0010DB9C,word,24110000
+patch=0,EE,0010DBA0,word,24120050
+patch=0,EE,0010DBAC,word,24130001

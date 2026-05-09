@@ -13,13 +13,22 @@ author=PeterDelta
 description=Might need EE Overclock (180%).
 patch=0,EE,001A7A74,word,24020001
 
+[NTSC Mode Spain]
+author=PeterDelta
+description=NTSC mode at start in spanish.
+patch=0,EE,001BE4B8,word,14A0002F
+patch=0,EE,00529F5C,word,24020000 //other 00529F54
+patch=1,EE,00615520,word,00000001 //0 English, 2 French, 3 German, 4 Italian
+
 [NTSC Mode]
 author=PeterDelta
 description=NTSC mode at start.
 patch=0,EE,001BE4B8,word,14A0002F
+patch=1,EE,00617EC4,word,00000000
 patch=0,EE,0052452C,word,240201C0
-patch=0,EE,00529F5C,word,24020000
-patch=1,EE,00615520,word,00000001
+patch=0,EE,00529F70,word,3C013C88
+patch=0,EE,00529F74,word,34218889
+patch=0,EE,00529F80,word,2402003C
 
 [Remove Bloom]
 author=PeterDelta

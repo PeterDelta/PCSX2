@@ -287,7 +287,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Crazy Taxi</td>
-    <td style="text-align:center;"><a href="patches/SLES-50215_C9C145BF.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-50215_C9C145BF.pnach">PAL-M</a> - <a href="patches/SLUS-20202_F00293CA.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -896,6 +896,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td>PAL-S Valid for other PAL</td>
   </tr>
   <tr>
+    <td>Klonoa 2 - Lunatea's Veil</td>
+    <td style="text-align:center;"><a href="patches/SCES-50354_7EBEEBBD.pnach">PAL-M</a> - <a href="patches/SLUS-20151_2F56CBC9.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Knight Rider</td>
     <td style="text-align:center;"><a href="patches/SLES-51011_989192FE.pnach">PAL-M</a></td>
     <td></td>
@@ -1457,7 +1462,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
       <td>Simpsons, The - Hit & Run</td>
-      <td style="text-align:center;"><a href="patches/SLES-51897_73E68475.pnach">PAL-M</a></td>
+      <td style="text-align:center;"><a href="patches/SLES-51897_73E68475.pnach">PAL-M</a> - <a href="patches/SLUS-20624_FC99EC8C.pnach">USA</a></td>
       <td></td>
   </tr>
   <tr>
@@ -1816,13 +1821,18 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
-    <td>Vexx (PAL-M)</td>
+    <td>Vexx</td>
     <td style="text-align:center;"><a href="patches/SLES-50481_A0600111.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Viewtiful Joe (PAL-M)</td>
+    <td>Viewtiful Joe</td>
     <td style="text-align:center;"><a href="patches/SLES-52678_2429905B.pnach">PAL-M</a> - <a href="patches/SLUS-20951_080D5356.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Virtua Cop - Elite Edition</td>
+    <td style="text-align:center;"><a href="patches/SLES-51229_76A68274.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>

@@ -12,13 +12,22 @@ author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (180%).
 patch=0,EE,001A730C,word,24020001
 
+[NTSC Mode Spain]
+author=PeterDelta
+description=Modo NTSC al iniciar en español.
+patch=0,EE,001BE694,word,14A0002F
+patch=0,EE,0052D504,word,24020000 //other 0052D4FC
+patch=1,EE,00619AF8,word,00000001 //0 English, 2 French, 3 German, 4 Italian
+
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
 patch=0,EE,001BE694,word,14A0002F
+patch=1,EE,0061C4A4,word,00000000
 patch=0,EE,0038CA58,word,240201C0
-patch=0,EE,0052D504,word,24020000
-patch=1,EE,00619AF8,word,00000001
+patch=0,EE,0052D518,word,3C013C88
+patch=0,EE,0052D51C,word,34218889
+patch=0,EE,0052D528,word,2402003C
 
 [Remove Bloom]
 author=PeterDelta

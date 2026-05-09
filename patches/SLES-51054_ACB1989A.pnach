@@ -5,25 +5,30 @@ gsaspectratio=16:9
 author=PeterDelta
 description=Renders the game in 16:9 aspect ratio
 patch=1,EE,0042F134,word,3FC71C65
-//patch=1,EE,001C74E0,word,3C013F77 //3C013F80 map zoom
-//patch=1,EE,001C7E80,word,3C013EC0 //3C013F00 map size
-//patch=1,EE,001C81F4,word,3C013EC5 //3C013F00 map size
 
 [50/60 FPS]
 author=PeterDelta
-description=Might need EE Overclock (130%).
+description=Might need EE Overclock (180%).
 //patch=1,EE,0042F138,word,00000001
 patch=0,EE,00106F64,word,24070001
 patch=0,EE,001FFB3C,word,3C013E19
 patch=0,EE,001FFB68,word,3C010EC0
 patch=1,EE,00431804,word,3F000000
 
+[NTSC Mode Spain]
+author=PeterDelta
+description=NTSC mode at start in spanish. 
+patch=0,EE,0037F4C4,word,24020000
+patch=1,EE,0042C34C,word,00000001 //0 English, 2 French, 3 German, 4 Italian
+
 [NTSC Mode]
 author=PeterDelta
-description=NTSC mode at start.
+description=NTSC mode at start. 
+patch=1,EE,0042F784,word,00000000
 patch=0,EE,0036D1FC,word,240201C0
-patch=0,EE,0037F4C4,word,24020000
-patch=1,EE,0042C34C,word,00000001
+patch=0,EE,0037F4D8,word,3C013C88
+patch=0,EE,0037F4DC,word,34218889
+patch=0,EE,0037F4E8,word,2402003C
 
 [Remove Brume]
 author=PeterDelta

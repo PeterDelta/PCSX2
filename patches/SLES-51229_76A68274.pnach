@@ -1,0 +1,10 @@
+gametitle=Virtua Cop - Elite Edition (PAL-M) SLES-51229 76A68274
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,001008A0,word,240500E0
+patch=0,EE,00114334,word,3C013F82
+patch=0,EE,00114700,word,3C013F82
+patch=0,EE,00114734,word,3C013F82
+patch=0,EE,00191700,word,14E3000D

@@ -69,10 +69,10 @@ patch=0,EE,002A8A18,word,03E00008
 patch=0,EE,002A8A1C,word,E42D2FA8
 
 [Remove ghosting effects]
-author=PeterDelta
+author=PeterDelta, Silent
 description=Elimina el efecto fantasma manteniendo la radiosidad.
-patch=1,EE,00668D5C,extended,00
-patch=1,EE,00668DE4,extended,00
+patch=0,EE,00668D5C,extended,00
+patch=0,EE,00668DE4,extended,00
 patch=1,EE,00668E28,extended,00
 patch=1,EE,00668E2C,extended,00
 patch=1,EE,00668E30,extended,00
@@ -81,7 +81,7 @@ patch=1,EE,00668E34,extended,00
 [Remove Color Filter]
 author=Silent
 description=Elimina el filtro de color, haciendo que el juego se parezca más a la versión para PC, sin el tinte amarillo.
-patch=1,EE,20515D58,extended,00000000 // NOP CPostEffects::ColourFilter
+patch=0,EE,20515D58,extended,00000000 // NOP CPostEffects::ColourFilter
 
 [50 FPS]
 author=PeterDelta
@@ -92,5 +92,5 @@ patch=0,EE,0039B7BC,extended,24040001 //native
 gsinterlacemode=1
 author=PeterDelta
 description=Modo SDTV 480p al iniciar.
-patch=1,EE,00358B1C,extended,24020050
-patch=1,EE,0054A06C,extended,00000000
+patch=0,EE,00358B1C,extended,24020050 //00358AD0 other, 00358AC8 ntsc, 005122E4 res
+patch=0,EE,0054A06C,extended,00000000

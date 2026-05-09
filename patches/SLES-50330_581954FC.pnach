@@ -82,4 +82,6 @@ patch=1,EE,20112FA0,extended,34050050
 patch=1,EE,20112FA4,extended,24030002
 patch=1,EE,20112FA8,extended,0000000C
 patch=1,EE,20112FAC,extended,03E00008
-patch=1,EE,0011299C,extended,00000000
+patch=0,EE,0011299C,extended,00000000
+patch=1,EE,003F5BB8,extended,00000002
+patch=1,EE,003F5BE0,extended,00000002

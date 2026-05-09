@@ -287,7 +287,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Crazy Taxi</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-50215_C9C145BF.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50215_C9C145BF.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20202_F00293CA.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -407,7 +407,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Disney-Pixar Buscando a Nemo</td>
-    <td style="text-align:center;"><a href="patches/SLES-51870_BE44D7D5.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51870_BE44D7D5.pnach">PAL-S</a></td>
     <td></td>
   </tr>
   <tr>
@@ -894,6 +894,11 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td>Kingdom Hearts II</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-54235_C398F477.pnach">PAL-S</a> - <a href="descripcion traducida/SLUS-21005_DA0535FD.pnach">USA</a> - <a href="descripcion traducida/SLPM-66675_F266B00B.pnach">JAP</a></td>
     <td>PAL-S Válido para otro PAL</td>
+  </tr>
+  <tr>
+    <td>Klonoa 2 - Lunatea's Veil</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SCES-50354_7EBEEBBD.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20151_2F56CBC9.pnach">USA</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Knight Rider</td>
@@ -1457,7 +1462,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
       <td>Simpsons, The - Hit & Run</td>
-      <td style="text-align:center;"><a href="descripcion traducida/SLES-51897_73E68475.pnach">PAL-M</a></td>
+      <td style="text-align:center;"><a href="descripcion traducida/SLES-51897_73E68475.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20624_FC99EC8C.pnach">USA</a></td>
       <td></td>
   </tr>
   <tr>
@@ -1816,13 +1821,18 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
     <td></td>
   </tr>
   <tr>
-    <td>Vexx (PAL-M)</td>
-    <td style="text-align:center;"><a href="patches/SLES-50481_A0600111.pnach">PAL-M</a></td>
+    <td>Vexx</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-50481_A0600111.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Viewtiful Joe (PAL-M)</td>
+    <td>Viewtiful Joe</td>
     <td style="text-align:center;"><a href="descripcion traducida/SLES-52678_2429905B.pnach">PAL-M</a> - <a href="descripcion traducida/SLUS-20951_080D5356.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Virtua Cop - Elite Edition</td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-51229_76A68274.pnach">PAL-M</a></td>
     <td></td>
   </tr>
   <tr>

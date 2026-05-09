@@ -24,4 +24,4 @@ patch=1,EE,203194C0,extended,00000000 //1440FFF5
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
-patch=1,EE,0058A9B4,extended,00000022
+patch=0,EE,0058A9B4,word,00000022

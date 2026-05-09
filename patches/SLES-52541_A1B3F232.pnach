@@ -69,19 +69,19 @@ patch=0,EE,002A8908,word,03E00008
 patch=0,EE,002A890C,word,E42D2418
 
 [Remove ghosting effects]
-author=PeterDelta
+author=PeterDelta, Silent
 description=Removes the ghosting effect keeping radiosity.
-patch=1,EE,006685DC,extended,00
-patch=1,EE,00668664,extended,00
+patch=0,EE,006685DC,extended,00
+patch=0,EE,00668664,extended,00
 patch=1,EE,006686A8,extended,00
 patch=1,EE,006686AC,extended,00
 patch=1,EE,006686B0,extended,00
 patch=1,EE,006686B4,extended,00
 
-[Remove Radiosity Filter]
-author=refractionpcsx2
-description=Removes the radiosity filter which causes a ghosting effect on the people and environment.
-patch=1,EE,2051A0C8,extended,00000000
+[Remove Color Filter]
+author=Silent
+description=Removes the color filter, making the game look more like the PC version, without the yellow tint.
+patch=0,EE,20515658,extended,00000000 // NOP CPostEffects::ColourFilter
 
 [50 FPS]
 author=PeterDelta
@@ -92,9 +92,12 @@ patch=0,EE,0039B62C,extended,24040001 //native
 gsinterlacemode=1
 author=PeterDelta
 description=SDTV 480p mode at start.
-patch=1,EE,E0040001,extended,0066CC58
-patch=1,EE,2053B4A0,extended,34050050
-patch=1,EE,2053B4A4,extended,24030002
-patch=1,EE,2053B4A8,extended,0000000C
-patch=1,EE,2053B4AC,extended,03E00008
-patch=1,EE,0054996C,extended,00000000
+patch=0,EE,0035898C,extended,24020050
+patch=0,EE,0054996C,extended,00000000
+
+//patch=1,EE,E0040001,extended,0066CC58 //old
+//patch=1,EE,2053B4A0,extended,34050050
+//patch=1,EE,2053B4A4,extended,24030002
+//patch=1,EE,2053B4A8,extended,0000000C
+//patch=1,EE,2053B4AC,extended,03E00008
+//patch=1,EE,0054996C,extended,00000000

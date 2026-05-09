@@ -1,0 +1,22 @@
+gametitle=The Simpsons - Hit & Run (NTSC-U) SLUS-20624 FC99EC8C
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,00138990,word,3C013FE3
+patch=0,EE,00138994,word,34218E39
+patch=0,EE,0014B32C,word,3C013FE3
+patch=0,EE,0014B330,word,34218E39
+patch=0,EE,001ED69C,word,3C013F00
+patch=0,EE,0031C9EC,word,3C013F00
+patch=0,EE,0031C990,word,3C013F40
+patch=0,EE,0032B5D4,word,3C013F88
+patch=0,EE,00354208,word,3C013F92
+patch=0,EE,0037E9DC,word,3C013F1D
+patch=0,EE,00416D50,word,3C01BFC7
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0064F2D0,word,00000001

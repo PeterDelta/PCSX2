@@ -1,9 +1,23 @@
 gametitle=The Simpsons - Hit & Run (PAL-M) SLES-51897 73E68475
 
-[480p Mode]
-gsinterlacemode=1
+[Widescreen 16:9]
+gsaspectratio=16:9
 author=PeterDelta
-description=SDTV 480p mode at start. Might need EE Overclock (130%)
-patch=1,EE,00406524,word,24110000
-patch=1,EE,00406528,word,24120050
-patch=1,EE,00406534,word,24130001
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,001389C0,word,3C013FE3
+patch=0,EE,001389C4,word,34218E39
+patch=0,EE,0014B374,word,3C013FE3
+patch=0,EE,0014B378,word,34218E39
+patch=0,EE,001EE7C4,word,3C013F00
+patch=0,EE,0031E21C,word,3C013F00
+patch=0,EE,0031E1C0,word,3C013F40
+patch=0,EE,0032CE04,word,3C013F88
+patch=0,EE,003559F8,word,3C013F92
+patch=0,EE,0036FB0C,word,3C013F1D
+patch=0,EE,00418790,word,3C01BFC7
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start.
+patch=1,EE,006511D0,word,00000001 //00373458 other but incomplete
+patch=0,EE,003734B4,word,240401E0

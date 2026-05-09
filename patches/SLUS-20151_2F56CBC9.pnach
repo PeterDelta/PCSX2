@@ -1,0 +1,9 @@
+gametitle=Klonoa 2 - Lunatea's Veil (PAL-M) SLUS-20151 2F56CBC9
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio
+patch=0,EE,10104A68,extended,4560
+patch=0,EE,0018ADDC,extended,40
+patch=0,EE,002FB48C,extended,40

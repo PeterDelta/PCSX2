@@ -5,8 +5,14 @@ author=PeterDelta
 description=NTSC mode at start.
 patch=0,EE,001A342C,word,24060002
 patch=1,EE,003B45F4,word,00000215
-//old
-//patch=1,EE,00389FAC,word,001BF9FF
+
+//patch=1,EE,00389FAC,word,001BF9FF //old
 //patch=1,EE,00389FD4,word,001BF9FF
 //patch=1,EE,003B411C,word,001BF9FF
 //patch=1,EE,003B4164,word,00007890
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Attempts to disable interlaced offset rendering.
+patch=0,EE,00193F4C,word,30500000

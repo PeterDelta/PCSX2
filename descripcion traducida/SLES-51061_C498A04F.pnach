@@ -73,3 +73,10 @@ patch=1,EE,20113124,extended,24030002
 patch=1,EE,20113128,extended,0000000C
 patch=1,EE,2011312C,extended,03E00008
 patch=1,EE,00112B24,extended,00000000
+patch=1,EE,004455D8,extended,00000002
+patch=1,EE,00445600,extended,00000002
+
+//patch=0,EE,003BC200,extended,24060050 //new, but in this version not work
+//patch=0,EE,00112B24,extended,00000000
+//patch=1,EE,004455D8,extended,00000002
+//patch=1,EE,00445600,extended,00000002

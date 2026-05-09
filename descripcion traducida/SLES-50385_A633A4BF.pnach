@@ -11,3 +11,9 @@ author=PeterDelta
 description=Desbloquea FPS internos en escenas.
 patch=1,EE,E0010002,extended,0018DB74
 patch=1,EE,0018DB74,extended,00000000
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=0,EE,0011DB0C,word,24060050

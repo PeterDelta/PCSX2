@@ -11,4 +11,4 @@ patch=1,EE,206828DC,extended,3F8CCCCD //Vertical: 1.10f
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
-patch=1,EE,0041900C,word,0000102D
+patch=0,EE,0041900C,word,0000102D

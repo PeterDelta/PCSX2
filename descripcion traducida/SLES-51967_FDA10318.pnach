@@ -28,7 +28,7 @@ patch=1,EE,2011060C,extended,2C420001 //2C420002
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
-patch=1,EE,002C5FC4,word,0000102D
+patch=0,EE,002C5FC4,word,0000102D
 
 [Remove Blur/Bloom]
 author=PeterDelta
