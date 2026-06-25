@@ -7,7 +7,7 @@ description=Renderiza el juego en proporción de 16:9.
 patch=1,EE,20148FD0,extended,3C0C3FAA
 patch=1,EE,20148FD8,extended,358CAAAB
 
-[60 FPS]
+[50/60 FPS]
 author=asasega
 description=Puede requerir aumentar la frecuencia del EE (180%).
 patch=1,EE,00159354,word,2C620000

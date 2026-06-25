@@ -6,6 +6,11 @@ author=PeterDelta
 description=Enable native widescreen
 patch=1,EE,004F12DC,byte,01
 
+[50/60 FPS]
+author=asasega
+description=Might need EE Overclock (130%).
+patch=1,EE,201D7FBC,extended,2C420001
+
 [NTSC Mode]
 author=PeterDelta
 description=NTSC mode at start.

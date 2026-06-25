@@ -1,5 +1,12 @@
 gametitle=Alias (PAL-M) SLES-51821 83466553
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,00248138,word,3c013ec0 // 3c013f00 hor fov
+patch=1,EE,001f3c70,word,3c013f40 // 3c013f80 renderfix
+
 [50 FPS]
 author=PeterDelta
 description=Might need EE Overclock (130%).

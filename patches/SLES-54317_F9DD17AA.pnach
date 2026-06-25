@@ -4,7 +4,7 @@ gametitle=Ghost Rider (PAL-M) SLES-54317 F9DD17AA
 gsaspectratio=16:9
 author=PeterDelta
 description=Enable native widescreen
-patch=1,EE,006CE4C0,extended,00000001
+patch=1,EE,006CE4C0,extended,01
 
 [Remove Blackbars]
 author=PeterDelta

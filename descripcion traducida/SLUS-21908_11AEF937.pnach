@@ -1,0 +1,6 @@
+gametitle=NBA 2K10 (PAL-M) SLUS-21908 11AEF937
+
+[60 FPS]
+author=PeterDelta
+description=Desbloquea los FPS en todos los modos.
+patch=1,EE,00B1938C,word,00000001

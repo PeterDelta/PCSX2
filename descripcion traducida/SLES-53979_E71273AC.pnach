@@ -2,7 +2,7 @@ gametitle=Torrente 3 - El Protector (PAL-S) SLES-53979 E71273AC
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=PeterDelta
+author=PeterDelta, Arapapa
 description=Renderiza el juego en proporción de 16:9.
 //Ported from SLES-54117 by Arapapa
 patch=1,EE,00253B28,word,08123684

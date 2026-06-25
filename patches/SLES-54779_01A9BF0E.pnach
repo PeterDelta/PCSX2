@@ -1,5 +1,12 @@
 gametitle=Harry Potter and the Order of the Phoenix (PAL-M) SLES-54779 01A9BF0E
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Corrects display cropping to 16:9.
+patch=1,EE,004C42C8,word,24020002 //30420003
+patch=1,EE,00354528,word,3C013F20 //3C013F00 zoom fix
+
 [50 FPS]
 author=PeterDelta
 description=Might need EE Overclock (130%).

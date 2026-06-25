@@ -1,5 +1,10 @@
 gametitle=Gun (NTSC-U) SLUS-21139 4B80628D
 
+[60 FPS]
+author=asasega
+description=Might need EE Overclock (180%).
+patch=1,EE,0028ED08,word,1000000B
+
 [Remove Bloom]
 author=PeterDelta
 description=Removes the bloom effect.

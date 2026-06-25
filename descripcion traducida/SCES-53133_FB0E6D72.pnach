@@ -151,5 +151,5 @@ patch=1,EE,2029D284,extended,3F555550
 
 [Skip Cutscenes]
 author=Ezedequias
-description=With Any Action button
+description=Con cualquier botón de acción.
 patch=1,EE,0029D47C,byte,01

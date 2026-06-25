@@ -11,6 +11,6 @@ patch=1,EE,202D1FBC,extended,3FE66666 //4019999A Viewport Width
 [50 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,00373978,word,00000002 //00000002
+patch=1,EE,00373978,word,00000002
 patch=1,EE,E0010001,extended,003673F0
 patch=1,EE,20373978,extended,00000001

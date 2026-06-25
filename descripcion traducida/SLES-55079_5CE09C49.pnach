@@ -1,5 +1,17 @@
 gametitle=CID the Dummy (PAL-M) SLES-55079 5CE09C49
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,00228a58,word,080997d8 //X-Fov
+patch=1,EE,00265f60,word,46000586
+patch=1,EE,00265f64,word,3c013faa
+patch=1,EE,00265f68,word,3421aaab
+patch=1,EE,00265f6c,word,4481f000
+patch=1,EE,00265f70,word,461eb582
+patch=1,EE,00265f74,word,0808a297
+
 [480p Mode]
 author=PeterDelta
 description=Modo SDTV 480p al iniciar.

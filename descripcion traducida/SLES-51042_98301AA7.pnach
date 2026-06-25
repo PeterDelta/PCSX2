@@ -1,0 +1,16 @@
+gametitle=Disney Golf (PAL-E) SLES-51042 98301AA7
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,002B8670,word,3F400000
+
+[50 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%). Algunas animaciones van el doble de rápido.
+patch=0,EE,00141110,word,240312B1
+patch=0,EE,00142BE0,word,3C033F19
+patch=0,EE,0023F588,word,3C034170
+patch=1,EE,002DFB14,word,3F19999A
+patch=1,EE,002DFB18,word,3F19999A

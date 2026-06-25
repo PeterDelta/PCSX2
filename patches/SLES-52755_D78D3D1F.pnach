@@ -1,5 +1,12 @@
 gametitle=Blood Will Tell - Tezuka Osamu's Dororo (PAL-M) SLES-52755 D78D3D1F
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=sergx12
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,001b8e0c,word,3c023f06
+patch=1,EE,001b8e14,word,34426666
+
 [50/60 FPS]
 author=PeterDelta
 description=Might need EE Overclock (180%).

@@ -7,6 +7,11 @@ description=Corrects display cropping to 16:9.
 patch=1,EE,00AAFDD4,word,00000001
 patch=1,EE,0054BA38,word,3F400000
 
+[Remove Brown Filter]
+author=fobes
+description=Disables the brownish yellow post processing filter
+patch=1,EE,00550D58,extended,20000001
+
 [Remove Blur]
 author=PeterDelta
 description=Removes the blur effect

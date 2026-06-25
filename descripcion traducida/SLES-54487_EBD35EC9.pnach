@@ -8,5 +8,5 @@ patch=1,EE,001238AC,extended,3C013F40
 
 [Remove Blackbars]
 author=PeterDelta
-description=Elimina las barras negras en las escenas
+description=Elimina las barras negras en las escenas.
 patch=1,EE,002C823C,extended,00000000

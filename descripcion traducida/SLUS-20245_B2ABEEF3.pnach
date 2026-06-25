@@ -8,3 +8,14 @@ patch=0,EE,001BE8EC,word,3C0243D6
 patch=0,EE,001BE904,word,3C0243D6
 patch=0,EE,00232AB0,word,3C023F40
 //patch=0,EE,00232DB8,word,3C023F40 //hud queda feo en 4:3
+
+[60 FPS]
+author=Gabominated
+description=Puede requerir aumentar la frecuencia del EE.
+patch=1,EE,004FF114,word,00000000 //00000001 fps asDisplayFrameLimitMax
+patch=1,EE,0015CD3C,word,3C033C08 //3C033C88 CMotionView::setCurrentFrame(float)
+patch=1,EE,00165F9C,word,3C033C08 //3C033C88 updateGlobalTime
+patch=1,EE,00168000,word,3C023C08 //3C023C88 CRiderView::checkTransition(HavokBike *)
+patch=1,EE,001685D4,word,3C023C08 //3C023C88 CRiderView::checkStops(HavokBike *)
+patch=1,EE,0013F940,word,3C0243FF //3C02437F CCamera::panCam(unsigned int, unsigned int)
+patch=1,EE,001F3C78,word,3C023C08 //3C023C88 CHavokPhysicsView::UpdateFrame(C3DView *, unsigned int)

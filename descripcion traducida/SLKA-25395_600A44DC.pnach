@@ -1,0 +1,27 @@
+gametitle=NBA Live 07 (NTSC-K) SLKA-25395 600A44DC
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,007C96C0,word,3FE38E39
+patch=0,EE,007C96F0,word,3FE38E39
+patch=0,EE,007C9B48,word,3FE38E39
+patch=0,EE,007CA5DC,word,3FE38E39
+patch=0,EE,007AF498,word,3F638E39
+patch=0,EE,007C96B8,word,3F638E39
+patch=0,EE,007C96E8,word,3F638E39
+patch=0,EE,004149FC,word,3C01BF40
+patch=0,EE,00414990,word,3C013FC0
+patch=0,EE,0046D9B0,word,3C01BF40
+patch=1,EE,007EF2FC,extended,00
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto blur.
+patch=1,EE,0085FC5C,extended,00
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE. Missing fix speeds
+patch=1,EE,0085FC34,word,00000001

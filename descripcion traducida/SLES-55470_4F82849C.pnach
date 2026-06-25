@@ -4,24 +4,25 @@ gametitle=Coraline (PAL-M) SLES-55470 4F82849C
 gsaspectratio=16:9
 author=El_Patas
 description=Renderiza el juego en proporción de 16:9.
-patch=1,EE,0026432C,word,3C014440 //3C014480 (Increases horiz. axis)
-patch=1,EE,001A6548,word,3C013C2E //3C013C0E Render fix
+patch=0,EE,0026432C,word,3C014440 //3C014480 (Increases horiz. axis)
+patch=0,EE,001A6548,word,3C013C2E //3C013C0E Render fix
 
 [Remove Blackbars]
 author=El_Patas
 description=Elimina las barras negras en las escenas
-patch=1,EE,00225ea8,word,3c014000 //3c014299
-patch=1,EE,00225eac,word,00000000 //3421999a
+patch=0,EE,00225ea8,word,3c014000 //3c014299
+patch=0,EE,00225eac,word,34210000 //3421999a
 
 [50/60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,001002EC,word,00000000 //46000834
+patch=0,EE,001002DC,word,3C013C75
+patch=0,EE,001002E0,word,3421F28B
 
 [480p Mode]
 gsinterlacemode=1
 author=PeterDelta
 description=Modo SDTV 480p al iniciar.
-patch=1,EE,003F2B34,word,24110000
-patch=1,EE,003F2B38,word,24120050
-patch=1,EE,003F2B44,word,24130001
+patch=0,EE,003F2B14,word,3C050000
+patch=0,EE,003F2B1C,word,3C060050
+patch=0,EE,003F2B24,word,3C070001

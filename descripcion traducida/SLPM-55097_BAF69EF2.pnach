@@ -1,0 +1,34 @@
+gametitle=NBA Live 09 (NTSC-J) SLPM-55097 BAF69EF2
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,00FEF97D,extended,00
+patch=1,EE,0084E2B0,extended,00
+patch=0,EE,0038122C,word,3C013FE3
+patch=0,EE,00381230,word,34218E39
+patch=0,EE,0038723C,word,3C013FE3
+patch=0,EE,00387240,word,34218E39
+patch=0,EE,0065490C,word,3C013FE3
+patch=0,EE,00654910,word,34218E39
+patch=0,EE,00381128,word,3C013F63
+patch=0,EE,0038112C,word,34218E39
+patch=0,EE,00387174,word,3C013F63
+patch=0,EE,00387178,word,34218E39
+patch=0,EE,0065D5A8,word,3C013F63
+patch=0,EE,0065D5AC,word,34218E39
+patch=0,EE,0044EC1C,word,3C01BF40
+patch=0,EE,0044EBB0,word,3C013FC0
+patch=0,EE,003A4118,word,3C014040
+patch=0,EE,004A7EC0,word,3C01BF40
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto blur.
+patch=1,EE,008C005C,extended,00
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE. Missing fix speeds
+patch=1,EE,008C0034,word,00000001

@@ -1,5 +1,11 @@
 gametitle=Wallace & Gromit in Project Zoo (PAL-M) SLES-51989 BF45EFF4
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Bigdemon
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,002394c8,word,3c014080 //3c014040
+
 [50 FPS]
 author=PeterDelta
 description=Might need EE Overclock (130%).
