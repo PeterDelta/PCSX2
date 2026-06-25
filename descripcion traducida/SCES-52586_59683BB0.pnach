@@ -1,0 +1,28 @@
+gametitle=Death by Degrees (PAL-E/S) (SCES-52586) 59683BB0
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=ElHecht & PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,00188170,word,3C023FE3 //Gameplay
+patch=0,EE,00188178,word,34438E38
+patch=0,EE,00185F8C,word,3C023FE3 //Cut-Scenes
+patch=0,EE,00185F90,word,34438E38
+patch=0,EE,003BAAC8,word,3C023FA0
+patch=1,EE,005394E0,word,3FA00000
+
+[50 FPS]
+author=felixthecat1970
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=0,EE,003BFE5C,extended,24040001
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas.
+patch=0,EE,0032C548,word,3C024000
+
+[Remove Blur]
+author=PeterDelta
+description=Elimina el efecto blur.
+patch=0,EE,001B3AAC,word,240601C0
+patch=0,EE,00102A84,word,34021000

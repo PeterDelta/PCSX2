@@ -306,11 +306,6 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
-    <td>Dead or Alive 2</td>
-    <td style="text-align:center;"><a href="patches/SCES-50003_7A51F86E.pnach">PAL-M</a></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Dark Angel</td>
     <td style="text-align:center;"><a href="patches/SLES-51333_5BE3F481.pnach">PAL-M</a> - <a href="patches/SLUS-20379_29BA2F04.pnach">USA</a></td>
     <td></td>
@@ -318,6 +313,16 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
     <td>Dark Chronicle</td>
     <td style="text-align:center;"><a href="patches/SCES-51190_059E5FAA.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dead or Alive 2</td>
+    <td style="text-align:center;"><a href="patches/SCES-50003_7A51F86E.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Death by Degrees</td>
+    <td style="text-align:center;"><a href="patches/SCES-52586_59683BB0.pnach">PAL-E/S</a> - <a href="patches/SCES-53053_59683BB0.pnach">PAL-I/F</a> - <a href="patches/SCES-53054_59683BB0.pnach">PAL-E/G</a></td>
     <td></td>
   </tr>
   <tr>
@@ -724,7 +729,6 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td>Grand Theft Auto - Liberty City Stories</td>
     <td style="text-align:center;"><a href="patches/SLES-54135_D693D4CF.pnach">PAL-M</a> - <a href="patches/SLES-54136_1D85625C.pnach">PAL-G</a> - <a href="patches/SLUS-21423_7EA439F5.pnach">USA</a> - <a href="patches/SLPM-66851_7812A8FA.pnach">JAP</a></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Grand Theft Auto - Vice City Stories</td>
@@ -803,12 +807,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Incredibles, The</td>
-    <td style="text-align:center;"><a href="patches/SLES-52816_197641AA.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-52816_197641AA.pnach">PAL-S</a> - <a href="patches/SLES-52814_4B76DE8B.pnach">PAL-I</a> - <a href="patches/SLES-52812_EBDB6E4B.pnach">PAL-E</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Incredibles 2, The</td>
-    <td style="text-align:center;"><a href="patches/SLES-53474_F3AE68FC.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-53474_F3AE68FC.pnach">PAL-M</a> - <a href="patches/SLES-53658_1DCA5871.pnach">PAL-R</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1163,32 +1167,87 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>NBA Live 2001</td>
-    <td style="text-align:center;"><a href="patches/SLES-50026_0D434FEC.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-50026_0D434FEC.pnach">PAL-S</a> - <a href="patches/SLPS-20073_2A126B9C.pnach">JAP</a></td>
     <td>Valid for other PAL</td>
   </tr>
   <tr>
-    <td>NBA Live 2005</td>
-    <td style="text-align:center;"><a href="patches/SLES-52727_3DF16621.pnach">PAL-S</a></td>
+    <td>NBA Live 2002</td>
+    <td style="text-align:center;"><a href="patches/SLES-50538_78A4222C.pnach">PAL-S</a></td>
+    <td>Valid for other PAL</td>
+  </tr>
+  <tr>
+    <td>NBA Live 2003</td>
+    <td style="text-align:center;"><a href="patches/SLES-51198_D682A8B8.pnach">PAL-S</a> - <a href="patches/SLUS-20536_0BBDBE84.pnach">USA</a> - <a href="patches/SLPS-25168_767799C1.pnach">JAP</a></td>
+    <td>Valid for other PAL</td>
+  </tr>
+  <tr>
+    <td>NBA Live 2004</td>
+    <td style="text-align:center;"><a href="patches/SLES-52008_5EAC167B.pnach">PAL-M</a> - <a href="patches/SLUS-20755_09F914F1.pnach">USA</a> - <a href="patches/SLPS-25297_CD543590.pnach">JAP</a> - <a href="patches/SLKA-25086_3E26A38A.pnach">KOR</a></td>
     <td></td>
   </tr>
   <tr>
+    <td>NBA Live 2005</td>
+    <td style="text-align:center;"><a href="patches/SLES-52727_3DF16621.pnach">PAL-S</a> - <a href="patches/SLKA-25110_0167915E.pnach">KOR</a> - <a href="patches/SLPM-65787_2E80F9FC.pnach">JAP</a> - <a href="patches/SLUS-21058_3DF2B0BE.pnach">USA</a></td>
+    <td>Valid for other PAL</td>
+  </tr>
+  <tr>
     <td>NBA Live 06</td>
-    <td style="text-align:center;"><a href="patches/SLES-53581_3FA0F2FB.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-53581_3FA0F2FB.pnach">PAL-S</a> - <a href="patches/SLES-53547_B9D8F1B7.pnach">M</a> - <a href="patches/SLES-53546_BAC92C25.pnach">E</a> - <a href="patches/SLES-53580_72E332DE.pnach">F</a> - <a href="patches/SLUS-21279_10118EC4.pnach">USA</a> - <a href="patches/SLPM-66171_0981E2C5.pnach">J</a> - <a href="patches/SLKA-25315_FC04B01D.pnach">K</a> - <a href="patches/SLAJ-25069_AA8CA8A6.pnach">A</a></td>
     <td></td>
   </tr>
   <tr>
     <td>NBA Live 07</td>
-    <td style="text-align:center;"><a href="patches/SLES-54251_6BD9964D.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-54251_6BD9964D.pnach">PAL-S</a> - <a href="patches/SLES-54252_B411977A.pnach">M</a> - <a href="patches/SLES-54250_44D1E823.pnach">F</a> - <a href="patches/SLUS-21460_DCBB6A9C.pnach">USA</a> - <a href="patches/SLPM-66589_EAB205BC.pnach">J</a> - <a href="patches/SLKA-25395_600A44DC.pnach">K</a> - <a href="patches/SLAJ-25087_0125BD72.pnach">A</a></td>
     <td></td>
   </tr>
   <tr>
     <td>NBA Live 08</td>
-    <td style="text-align:center;"><a href="patches/SLES-54933_6E069380.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-54933_6E069380.pnach">PAL-S</a> - <a href="patches/SLES-54895_9AE0BD48.pnach">M</a> - <a href="patches/SLES-54896_4F381411.pnach">F</a> - <a href="patches/SLUS-21649_AFF6D434.pnach">USA</a> - <a href="patches/SLPM-66884_6C5FE57B.pnach">J</a> - <a href="patches/SLKA-25404_287950DE.pnach">K</a> - <a href="patches/SLAJ-25099_47154A0A.pnach">A</a></td>
     <td></td>
   </tr>
   <tr>
     <td>NBA Live 09</td>
-    <td style="text-align:center;"><a href="patches/SLES-55337_0F174CC9.pnach">PAL-S</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-55337_0F174CC9.pnach">PAL-S</a> - <a href="patches/SLES-55334_3F7B01B7.pnach">E</a> - <a href="patches/SLES-55336_2E37BC09.pnach">F</a> - <a href="patches/SLUS-21777_1A085E7C.pnach">USA</a> - <a href="patches/SLPM-55097_BAF69EF2.pnach">JAP</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K5</td>
+    <td style="text-align:center;"><a href="patches/SLES-53022_CA37B42E.pnach">PAL-M</a> - <a href="patches/SLUS-20920_903C7BC5.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K6</td>
+    <td style="text-align:center;"><a href="patches/SLES-53687_04808D11.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K7</td>
+    <td style="text-align:center;"><a href="patches/SLES-54210_04808D11.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K8</td>
+    <td style="text-align:center;"><a href="patches/SLES-54880_59A48117.pnach">PAL-M</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K9</td>
+    <td style="text-align:center;"><a href="patches/SLES-55253_59A48117.pnach">PAL-M</a> - <a href="patches/SLUS-21745_903A8BF7.pnach">USA</a> - <a href="patches/SLPS-25924_99B1A994.pnach">JAP</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K10</td>
+    <td style="text-align:center;"><a href="patches/SLES-55576_4A9A8374.pnach">PAL-M</a> - <a href="patches/SLUS-21908_11AEF937.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K11</td>
+    <td style="text-align:center;"><a href="patches/SLES-55645_4A9A8374.pnach">PAL-M</a> - <a href="patches/SLUS-21936_D9EF78F2.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NBA 2K12</td>
+    <td style="text-align:center;"><a href="patches/SLES-55659_4A9A8374.pnach">PAL-M</a> - <a href="patches/SLUS-21950_8442B88C.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1240,6 +1299,21 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td>Nickelodeon Barnyard</td>
     <td style="text-align:center;"><a href="patches/SLES-54378_5267A845.pnach">PAL-M</a> - <a href="patches/SLES-54376_6953CC66.pnach">PAL-A</a> - <a href="patches/SLES-54377_C93DE2F8.pnach">PAL-G</a> - <a href="patches/SLUS-21277_EC8EF2DE.pnach">USA</a></td>
     <td>480p: fmv speeds up</td>
+  </tr>
+  <tr>
+    <td>Nickelodeon Go Diego Go!</td>
+    <td style="text-align:center;"><a href="patches/SLES-55284_76C3BA25.pnach">PAL-M</a> - <a href="patches/SLUS-21794_4D6B5DE5.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Nickelodeon Jimmy Neutron - Boy Genius</td>
+    <td style="text-align:center;"><a href="patches/SLES-51298_C60BA9E7.pnach">PAL-E</a> - <a href="patches/SLUS-20537_AE8AC8F2.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Nickelodeon The Naked Brothers Band</td>
+    <td style="text-align:center;"><a href="patches/SLES-55404_199D843C.pnach">PAL-M</a> - <a href="patches/SLUS-21802_19884D15.pnach">USA</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>ObsCure</td>
@@ -1757,6 +1831,51 @@ I publish those that are more advanced, exposing what remains and what I am inve
       <td></td>
   </tr>
   <tr>
+      <td>Tiger Woods PGA Tour 2002</td>
+      <td style="text-align:center;"><a href="patches/SLES-50728_02BC0382.pnach">PAL-M3</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 2003</td>
+      <td style="text-align:center;"><a href="patches/SLES-51282_A33DFB28.pnach">PAL-E</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 2004</td>
+      <td style="text-align:center;"><a href="patches/SLES-51887_28D84E68.pnach">PAL-E</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 2005</td>
+      <td style="text-align:center;"><a href="patches/SLES-52509_10A6294C.pnach">PAL-M4</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 06</td>
+      <td style="text-align:center;"><a href="patches/SLES-53541_2DC78AE7.pnach">PAL-M4</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 07</td>
+      <td style="text-align:center;"><a href="patches/SLES-54253_9D09177F.pnach">PAL-M3</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 08</td>
+      <td style="text-align:center;"><a href="patches/SLES-54867_E311E570.pnach">PAL-M4</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 09</td>
+      <td style="text-align:center;"><a href="patches/SLES-55218_B7844AE2.pnach">PAL-E</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>Tiger Woods PGA Tour 10</td>
+      <td style="text-align:center;"><a href="patches/SLES-55528_6F1D83D1.pnach">PAL-E</a></td>
+      <td></td>
+  </tr>
+  <tr>
       <td>Tokobot Plus - Mysteries of the Karakuri</td>
       <td style="text-align:center;"><a href="patches/SLES-54487_EBD35EC9.pnach">PAL-M</a></td>
       <td></td>
@@ -2088,7 +2207,6 @@ These are the only ones that are currently bug-free, except for some object anim
   <tr>
     <td>Legacy of Kain - Soul Reaver</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-02026.cht">PAL-S</a></td>
-    <td></td>
   </tr>
   <tr>
     <td>MediEvil</td>

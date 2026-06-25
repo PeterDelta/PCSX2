@@ -1,0 +1,27 @@
+gametitle=NBA 2K5 (PAL-E) SLES-53022 CA37B42E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Corrige el recorte de pantalla a 16:9.
+patch=1,EE,00376c60,word,3c013f40 //3c013f80 Zoom (Gameplay)
+patch=1,EE,0012cf20,word,3c013f40 //3c013f80 Zoom (Menu and Cutscene)
+patch=1,EE,0036e8ac,word,3c013f40 //3c013f80
+patch=1,EE,003b4348,word,3c013f40 //3c013f80
+patch=1,EE,00111e28,word,08030000 //Y-Fov (All)
+patch=1,EE,000c0000,word,460039c3
+patch=1,EE,000c0004,word,3c013faa
+patch=1,EE,000c0008,word,3421aaab
+patch=1,EE,000c000c,word,4481f000
+patch=1,EE,000c0010,word,461e39c2
+patch=1,EE,000c0014,word,0804478b
+
+[50/60 FPS]
+author=PeterDelta
+description=Desbloquea los FPS en todos los modos.
+patch=1,EE,007AF614,word,00000001
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,001098F4,word,240501C0
