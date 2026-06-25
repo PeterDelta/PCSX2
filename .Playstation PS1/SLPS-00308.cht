@@ -1,0 +1,8 @@
+# Doom (Japan) SLPS-00308
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A7033478 00020001

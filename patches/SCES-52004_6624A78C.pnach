@@ -3,7 +3,7 @@ gametitle=Killzone (PAL-M) SCES-52004 6624A78C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Enable native widescreen
+description=Enable native widescreen.
 patch=1,EE,005DAFE4,extended,00000001
 
 [50/60 FPS]
@@ -15,9 +15,14 @@ patch=1,EE,E0020000,extended,0055A7C4
 patch=1,EE,00152014,extended,24420001
 patch=1,EE,205DB004,extended,3F800000
 
+[NTSC Mode]
+author=Gabominated
+description=NTSC mode at start.
+patch=1,EE,001BD6B4,word,38420001
+
 [Disable Noise Effect]
 author=PeterDelta
-description=Disable noise filter in gameplay
+description=Disable noise filter in gameplay.
 patch=1,EE,0055EBE8,extended,00000001
 patch=1,EE,E0010004,extended,0057C708
 patch=1,EE,0055EBE8,extended,00000002

@@ -1,0 +1,8 @@
+# Final Doom (Japan) SLPS-00727
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A7033774 00020001

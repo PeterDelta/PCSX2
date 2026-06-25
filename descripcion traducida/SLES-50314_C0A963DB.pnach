@@ -1,0 +1,14 @@
+gametitle=Giants - Citizen Kabuto (PAL-M5) SLES-50314 C0A963DB
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=sergx12
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,003BC7C0,word,3FE38E39
+patch=0,EE,003BC978,word,3FE38E39
+
+[NTSC Mode]
+author=PeterDelta
+description=Modo NTSC al iniciar.
+patch=0,EE,0018E0FC,word,240A00E0
+patch=0,EE,0021047C,word,24060002

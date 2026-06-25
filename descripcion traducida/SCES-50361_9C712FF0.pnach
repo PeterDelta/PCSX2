@@ -1,4 +1,4 @@
-gametitle=Jak and Daxter - The Precursor Legacy (PAL-M) SCES-50361 9C712FF0
+gametitle=Jak and Daxter - The Precursor Legacy (PAL-M6) SCES-50361 9C712FF0
 
 [Widescreen 16:9]
 gsaspectratio=16:9
@@ -10,6 +10,7 @@ patch=1,EE,002AF85C,word,BF1F3000 //BF000000
 
 [No-Interlacing]
 gsinterlacemode=1
+author=gladiator
 description=No Interlacing & No Blur
 patch=1,EE,202B2174,extended,24060000 //No Interlacing
 patch=1,EE,20878A04,extended,AEE0ED00

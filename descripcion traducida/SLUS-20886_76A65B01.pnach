@@ -4,7 +4,16 @@ gametitle=Sitting Ducks (NTSC-U) SLUS-20886 76A65B01
 gsaspectratio=16:9
 author=PeterDelta
 description=Habilita pantalla panorámica nativa.
-patch=1,EE,00469CE8,word,3FE38E39
+patch=0,EE,003E662C,word,3C033FE3
+patch=0,EE,003E6630,word,34638E39
+patch=0,EE,003E6698,word,3C033FE3
+patch=0,EE,003E669C,word,34638E39
+//patch=1,EE,00469CE8,word,3FE38E39 //old
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas.
+patch=0,EE,003C4B08,word,3C023B00
 
 [60 FPS]
 author=PeterDelta

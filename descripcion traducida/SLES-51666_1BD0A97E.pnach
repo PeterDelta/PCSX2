@@ -4,13 +4,13 @@ gametitle=Disney Piglet - El Gran Juego (PAL-S) SLES-51666 1BD0A97E
 gsaspectratio=16:9
 author=PeterDelta
 description=Renderiza el juego en proporción de 16:9.
-patch=1,EE,00291A7C,word,3C024081 //3C024049
-patch=1,EE,002D4C64,word,3C023FE3 //3C023FAA
-patch=1,EE,002D4C68,word,34428E32 //3442AAAB
-patch=1,EE,003257C4,word,3C023FE3 //3C023FAA
-patch=1,EE,003257C8,word,34428E32 //3442AAAB
+patch=0,EE,00291A7C,word,3C024081
+patch=0,EE,002D4C64,word,3C023FE3
+patch=0,EE,002D4C68,word,34428E39
+patch=0,EE,003257C4,word,3C023FE3
+patch=0,EE,003257C8,word,34428E39
 
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
-patch=1,EE,00438A74,word,000001C0
+patch=0,EE,00438A74,word,000001C0

@@ -1,0 +1,17 @@
+gametitle=XIII (NTSC-J) SLPS-25375 D4ECB62E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=nemesis2000 & Arapapa
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,001D6AC8,word,3C013F40 //00000000
+patch=1,EE,001D6B20,word,AE4100A8 //ae4300a8
+patch=1,EE,00356E48,word,260276b0 //26027900 FMV fix
+patch=1,EE,00356F80,word,260276b0 //26027900
+patch=1,EE,00356E98,word,24420951 //24420701
+patch=1,EE,00356FCC,word,24420951 //24420701
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=0,EE,00191CB4,word,28420001

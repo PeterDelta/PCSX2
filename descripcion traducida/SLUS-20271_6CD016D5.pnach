@@ -1,5 +1,11 @@
 gametitle=Shifters (NTSC-U) SLUS-20271 6CD016D5
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,204c4ed0,extended,3F81DE4A
+patch=1,EE,204c4f50,extended,3F81DE4A
+
 [60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).

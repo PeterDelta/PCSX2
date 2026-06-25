@@ -1,0 +1,15 @@
+gametitle=Disney Golf (NTSC-J) SLPM-62168 FEB19D59
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,002B68F0,word,3F400000
+
+[60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%). Some animations run at double speed.
+patch=0,EE,00140EB0,word,240312B1
+patch=0,EE,0014297C,word,3C033F00
+patch=1,EE,002DE114,word,3F000000
+patch=1,EE,002DE118,word,3F000000

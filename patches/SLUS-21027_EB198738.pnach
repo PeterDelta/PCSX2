@@ -1,5 +1,13 @@
 gametitle=The Lord of the Rings - The Third Age (NTSC-U) SLUS-21027 EB198738
 
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,20C37580,word,3F400000 //fov
+patch=1,EE,20C37590,word,3FB00000 //render fix 1
+patch=1,EE,20C37598,word,3FB00000 //render fix 2
+
 [60 FPS]
 author=PeterDelta
 description=Might need EE Overclock (130%).

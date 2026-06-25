@@ -1,0 +1,13 @@
+gametitle=Astro Boy (NTSC-U) SLUS-20867 D88FCB86
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9.
+patch=1,EE,002cb778,word,3c013fd5 //3c013fa0 Fov
+patch=1,EE,0037f2f8,word,3c013ec0 //3c013f00 Zoom
+
+[60 FPS]
+author=PeterDelta
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=0,EE,002CC040,word,24050001

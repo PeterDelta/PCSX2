@@ -4,12 +4,13 @@ gametitle=Dark Angel - James Cameron's (NSTC-U) SLUS-20379 29BA2F04
 gsaspectratio=16:9
 author=PeterDelta
 description=Renderiza el juego en proporción de 16:9.
-patch=1,EE,0024EAA4,word,3C013F30
-patch=1,EE,00349120,word,3C013F1A
-patch=1,EE,0027EE78,word,3C013FE3
-patch=1,EE,00289188,word,3C013F22
+patch=0,EE,0024EAA4,word,3C013F30
+patch=0,EE,00349120,word,3C013F1A
+patch=0,EE,0027EE78,word,3C013FE3
+patch=0,EE,0027EE7C,word,34217FA9
+patch=0,EE,00289188,word,3C013F22
 
 [60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,0027F154,word,10400012
+patch=0,EE,0027F154,word,10400012

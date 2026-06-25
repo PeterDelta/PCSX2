@@ -14,12 +14,12 @@ patch=0,EE,001C1794,extended,74
 patch=0,EE,101C1D18,extended,4426
 patch=0,EE,001C17FC,extended,6A
 patch=0,EE,101C1D50,extended,C424
-patch=0,EE,1018AAB4,extended,999A
-patch=0,EE,101952B8,extended,999A
-patch=0,EE,1019A510,extended,FC96
-patch=0,EE,1019A910,extended,FC96
-patch=0,EE,1019A544,extended,FC96
-patch=0,EE,1019ADF8,extended,FC96
+patch=0,EE,1018AAB4,extended,9999
+patch=0,EE,101952B8,extended,9999
+patch=0,EE,1019A510,extended,FC95
+patch=0,EE,1019A910,extended,FC95
+patch=0,EE,1019A544,extended,FC95
+patch=0,EE,1019ADF8,extended,FC95
 
 [No-Interlacing]
 gsinterlacemode=1

@@ -10,12 +10,12 @@ patch=1,EE,00338784,extended,00000001
 
 [Remove Blackbars]
 author=PeterDelta
-description=Elimina las barras negras en las escenas
+description=Elimina las barras negras en las escenas.
 patch=1,EE,003217B4,extended,00000001
 
-[50 FPS]
+[50/60 FPS]
 author=PeterDelta
-description=Puede requerir aumentar la frecuencia del EE (130%).
+description=Puede requerir aumentar la frecuencia del EE (130%). Mantener △+X al iniciar para modo NTSC.
 patch=0,EE,00227CB0,word,24020001 //24020002
 //patch=1,EE,002F1158,word,00000001 //real time
 
@@ -29,5 +29,5 @@ patch=1,EE,00337E90,word,0182227C
 
 [Remove Blur/Bloom]
 author=PeterDelta
-description=Elimina el efecto blur/bloom del posprocesamiento
+description=Elimina el efecto blur/bloom del posprocesamiento.
 patch=1,EE,001269CC,word,00000000

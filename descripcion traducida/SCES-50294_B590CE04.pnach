@@ -1,14 +1,14 @@
-gametitle=Gran Turismo 3 (PAL-M) SCES-50294 B590CE04
+gametitle=Gran Turismo 3 - A-Spec (PAL-M) SCES-50294 B590CE04
 
 [No-Interlacing]
 gsinterlacemode=1
 author=PeterDelta
-description=Entrelazado progresivo
+description=Entrelazado progresivo.
 patch=1,EE,0028F81C,word,3C050000
 
 [60 FPS]
 author=PeterDelta
-description=Modo HDTV 720p al iniciar
+description=Modo HDTV 720p al iniciar. La música del menú principal va un poco rápido.
 patch=1,EE,2028F840,extended,24120052
 patch=1,EE,2035163C,extended,3C888889 //3CA3D70A speed flags 
 patch=1,EE,20351F1C,extended,3C888889 //3CA3D70A speed cars

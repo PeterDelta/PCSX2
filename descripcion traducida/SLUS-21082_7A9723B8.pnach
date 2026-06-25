@@ -5,8 +5,10 @@ gsaspectratio=16:9
 author=PeterDelta
 description=Corrige el recorte de pantalla a 16:9.
 patch=1,EE,00635AC5,extended,01
-patch=1,EE,21F2FDD0,extended,3F400000
-patch=1,EE,203E7690,extended,3F400000
+patch=0,EE,002400A4,word,3C013F40
+patch=0,EE,002426F0,word,3C013F40
+patch=0,EE,00243888,word,3C013F40
+patch=0,EE,003E7690,word,3F400000
 
 [Remove Blackbars]
 author=PeterDelta

@@ -10,5 +10,7 @@ patch=1,EE,004f6ef0,word,34630000
 [NTSC Mode]
 author=PeterDelta
 description=Modo NTSC al iniciar.
-patch=1,EE,0075158C,word,000001C0
-patch=1,EE,00752880,word,00067800
+patch=0,EE,00235298,word,10830006
+
+//patch=1,EE,0075158C,word,000001C0 //old
+//patch=1,EE,00752880,word,00067800

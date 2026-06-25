@@ -3,7 +3,7 @@ gametitle=Monster House (PAL-M) SLES-54215 1AFD7469
 [50/60 FPS]
 author=asasega
 description=Puede requerir aumentar la frecuencia del EE (130%).
-patch=1,EE,003D2530,word,00000000
+patch=1,EE,0015BCC4,word,2C620000
 
 [480p Mode]
 gsinterlacemode=1

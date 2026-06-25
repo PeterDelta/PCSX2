@@ -1,6 +1,12 @@
-gametitle=Vexx (PAL-M) SLES-50444 802EBFF7
+gametitle=Vexx (PAL-M) SLES-50444 A0600111
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,0035D87C,word,3C033F40 //3C033F80 (Increases hor. axis)
 
 [50 FPS]
 author=PeterDelta
-description=Might need EE Overclock (130%).
+description=Might need EE Overclock (180%).
 patch=1,EE,00434CC6,extended,94 //00434CC4

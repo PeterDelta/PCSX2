@@ -11,7 +11,7 @@ patch=0,EE,001A559C,word,3C023F40
 [50 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE (180%).
-patch=0,EE,001FE2FC,word,00000000
+patch=0,EE,001FE284,word,14400022 //001FE2FC old
 
 [NTSC Mode]
 author=PeterDelta

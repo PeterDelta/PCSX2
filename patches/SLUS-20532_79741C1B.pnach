@@ -1,0 +1,15 @@
+gametitle=Disney Golf (NTSC-U) SLUS-20532 79741C1B
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,002B7D70,word,3F400000
+
+[60 FPS]
+author=PeterDelta & Gabominated
+description=Might need EE Overclock (130%). Some animations run at double speed.
+patch=0,EE,00141100,word,240312B1
+patch=0,EE,00142BCC,word,3C033F00
+patch=1,EE,002DF114,word,3F000000
+patch=1,EE,002DF118,word,3F000000

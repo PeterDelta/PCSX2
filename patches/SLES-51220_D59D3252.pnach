@@ -8,9 +8,14 @@ patch=1,EE,00228FC8,word,3C013F40 //3C013F80
 //patch=1,EE,004024F4,word,3C013FA0 //3C013F80 zoom
 
 [50 FPS]
-author=PeterDelta
+author=Gabominated
 description=Might need EE Overclock (130%).
-patch=1,EE,003F205C,word,28420001 //28420002
+patch=1,EE,00496E80,word,00000000
+
+//[50 FPS]
+//author=PeterDelta
+//description=Might need EE Overclock (130%).
+//patch=1,EE,003F205C,word,28420001 //28420002
 //patch=1,EE,00228374,word,3C013F00 //3C013F80 speed mov ty salta la mitad
 //patch=1,EE,00215D0C,word,3C013F00 //3C013F80 speed animation mov
 //patch=1,EE,0020A934,word,3C013F00 //3C013F80 speed mov avance

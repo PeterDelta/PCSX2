@@ -9,6 +9,7 @@ patch=1,EE,001A5978,word,3421999A
 patch=1,EE,0011973C,word,3C014440 //Render-Fix
 patch=1,EE,00176144,word,3C01442B
 patch=1,EE,002649C4,word,3C013F40 //3C013f80 sphere grid
+//patch=1,EE,00263068,word,3c013f40 //3c013f80 world map (haven't tested)
 
 [Remove Blur]
 author=PeterDelta

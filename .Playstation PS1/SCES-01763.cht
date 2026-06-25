@@ -1,0 +1,8 @@
+# Speed Freaks (Europe) SCES-01763
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+A70337D8 00020001

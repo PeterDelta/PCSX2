@@ -14,9 +14,20 @@ patch=0,EE,001B2F5C,extended,74
 patch=0,EE,101B3480,extended,4426
 patch=0,EE,001B2F80,extended,6A
 patch=0,EE,101B34BC,extended,C424
-patch=0,EE,1017F324,extended,999A
-patch=0,EE,1018A078,extended,999A
-patch=0,EE,101911C0,extended,FC96
-patch=0,EE,10191500,extended,FC96
-patch=0,EE,101911F4,extended,FC96
-patch=0,EE,101919BC,extended,FC96
+patch=0,EE,1017F324,extended,9999
+patch=0,EE,1018A078,extended,9999
+patch=0,EE,101911C0,extended,FC95
+patch=0,EE,10191500,extended,FC95
+patch=0,EE,101911F4,extended,FC95
+patch=0,EE,101919BC,extended,FC95
+
+[No-Interlacing]
+gsinterlacemode=1
+author=Agrippa
+description=Force frame mode.
+patch=0,EE,20392EC0,extended,00000000
+patch=0,EE,20392EC4,extended,00000001
+patch=0,EE,20392F30,extended,00000001
+patch=0,EE,20195734,extended,10000010
+patch=0,EE,2019579C,extended,10000006
+//patch=0,EE,2019634C,extended,24030001 //causes slowdowns

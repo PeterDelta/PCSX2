@@ -3,7 +3,7 @@ gametitle=Black (NTSC-K) (SLKA-25372) 688E77CC
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=No.47 & Arapapa
-description=Renders the game in 16:9 aspect ratio.
+description=Corrects display cropping to 16:9.
 patch=1,EE,203BE8BC,extended,00000001
 patch=1,EE,204BC950,extended,00000001
 patch=1,EE,204BD98C,extended,00000001
@@ -13,10 +13,20 @@ patch=1,EE,204CADF4,extended,3FE38E39
 patch=1,EE,204CAE94,extended,3FE38E39
 patch=1,EE,205BCB90,extended,3F400000
 
+[Video Mode]
+author=Gabominated & PeterDelta
+description=Always display Standard-480p video selector.
+patch=0,EE,0020E610,word,AEB3E824 //003BE824
+
 [60 FPS]
-author=PeterDelta
+author=Gabominated & PeterDelta
 description=Might need EE Overclock (180%).
-patch=1,EE,00125104,word,24040001
-patch=1,EE,001C5B88,word,24040001
-patch=1,EE,00102638,word,24040032
-patch=1,EE,001250F0,word,2410003C
+patch=0,EE,00125104,word,24040001
+patch=0,EE,001C5B88,word,24040001
+patch=0,EE,00102648,word,2404003C
+patch=0,EE,001250F0,word,2410003C
+
+[No Blur While Reload]
+author=Gabominated & PeterDelta
+description=No blur while reloading weapons.
+patch=0,EE,001C2818,word,24020000

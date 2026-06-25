@@ -3,8 +3,8 @@ gametitle=J. League Winning Eleven 2008 - Club Championship (NTSC-J) SLPM-55033 
 [60 FPS]
 author=PeterDelta
 description=Puede requerir aumentar la frecuencia del EE. Desbloquea los FPS en todos los modos.
-patch=1,EE,10526190,extended,0100
-patch=1,EE,E0010001,extended,005CBF64
-patch=1,EE,10526190,extended,0200
+patch=1,EE,00526191,extended,01
+patch=1,EE,E0010000,extended,00548B94
+patch=1,EE,00526191,extended,02
 patch=1,EE,10280D84,extended,4270
 patch=1,EE,101F3350,extended,3F80
