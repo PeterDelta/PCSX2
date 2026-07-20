@@ -5,8 +5,10 @@ gsaspectratio=16:9
 author=PeterDelta
 description=Corrects display cropping to 16:9.
 patch=1,EE,006337C5,extended,01
-patch=1,EE,21F2D350,extended,3F400000
-patch=1,EE,203E8110,extended,3F400000
+patch=0,EE,0024036C,word,3C013F40
+patch=0,EE,002429C0,word,3C013F40
+patch=0,EE,00243B58,word,3C013F40
+patch=0,EE,003E8110,word,3F400000
 
 [Remove Blackbars]
 author=PeterDelta

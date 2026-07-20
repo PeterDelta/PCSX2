@@ -227,8 +227,8 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Chronicles of Narnia 1</td>
-    <td style="text-align:center;"><a href="patches/SLES-53710_F59EA4FB.pnach">PAL-S</a> - <a href="patches/SLES-53708_FD9FA4FC.pnach">I</a> - <a href="patches/SLES-53707_F29FA505.pnach">G</a> - <a href="patches/SLES-53709_D9B0B170.pnach">F</a> - <a href="patches/SLES-53712_37718361.pnach">SC</a> - <a href="patches/SLES-53715_81E2365F.pnach">R</a> - <a href="patches/SLUS-21082_7A9723B8.pnach">USA</a> - <a href="patches/SLPS-25626_285D9F42.pnach">JAP</a></td>
-    <td></td>
+    <td style="text-align:center;"><a href="patches/SLES-53710_F59EA4FB.pnach">PAL-S</a> - <a href="patches/SLES-53709_D9B0B170.pnach">F</a> - <a href="patches/SLES-53712_37718361.pnach">SC</a> - <a href="patches/SLES-53715_81E2365F.pnach">R</a> - <a href="patches/SLUS-21082_7A9723B8.pnach">USA</a> - <a href="patches/SLPS-25626_285D9F42.pnach">JAP</a></td>
+    <td>PAL-S: valid to I/G</td>
   </tr>
   <tr>
     <td>Chronicles of Narnia 2</td>

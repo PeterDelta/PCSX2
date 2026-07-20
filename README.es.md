@@ -227,8 +227,8 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Chronicles of Narnia 1</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-53710_F59EA4FB.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-53708_FD9FA4FC.pnach">I</a> - <a href="descripcion traducida/SLES-53707_F29FA505.pnach">G</a> - <a href="descripcion traducida/SLES-53709_D9B0B170.pnach">F</a> - <a href="descripcion traducida/SLES-53712_37718361.pnach">SC</a> - <a href="descripcion traducida/SLES-53715_81E2365F.pnach">R</a> - <a href="descripcion traducida/SLUS-21082_7A9723B8.pnach">USA</a> - <a href="descripcion traducida/SLPS-25626_285D9F42.pnach">JAP</a></td>
-    <td></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-53710_F59EA4FB.pnach">PAL-S</a> - <a href="descripcion traducida/SLES-53709_D9B0B170.pnach">F</a> - <a href="descripcion traducida/SLES-53712_37718361.pnach">SC</a> - <a href="descripcion traducida/SLES-53715_81E2365F.pnach">R</a> - <a href="descripcion traducida/SLUS-21082_7A9723B8.pnach">USA</a> - <a href="descripcion traducida/SLPS-25626_285D9F42.pnach">JAP</a></td>
+    <td>PAL-S: válido para I/G</td>
   </tr>
   <tr>
     <td>Chronicles of Narnia 2</td>
