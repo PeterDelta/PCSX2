@@ -377,7 +377,7 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
   <tr>
     <td>Disney G-Force</td>
-    <td style="text-align:center;"><a href="descripcion traducida/SLES-55499_AB761209.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-55502_09BF522A.pnach">PAL-R</a></td>
+    <td style="text-align:center;"><a href="descripcion traducida/SLES-55499_AB761209.pnach">PAL-M</a> - <a href="descripcion traducida/SLES-55502_09BF522A.pnach">PAL-R</a> - <a href="descripcion traducida/SLES-55500_53CB531E.pnach">PAL-G/I</a></td>
     <td></td>
   </tr>
   <tr>

@@ -1,0 +1,16 @@
+gametitle=Disney G-Force (PAL-G/I) SLES-55500 53CB531E
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,004B5B08,extended,00000032
+patch=1,EE,E0010001,extended,004D6014
+patch=1,EE,004B5B08,extended,00000019
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode on startup at 60 FPS.
+patch=0,EE,0014A5F0,word,1400000F
+patch=1,EE,004B5B08,extended,0000003C
+patch=1,EE,E0010001,extended,004D6014
+patch=1,EE,004B5B08,extended,0000001E

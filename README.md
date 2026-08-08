@@ -377,7 +377,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Disney G-Force</td>
-    <td style="text-align:center;"><a href="patches/SLES-55499_AB761209.pnach">PAL-M</a> - <a href="patches/SLES-55502_09BF522A.pnach">PAL-R</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-55499_AB761209.pnach">PAL-M</a> - <a href="patches/SLES-55502_09BF522A.pnach">PAL-R</a> - <a href="patches/SLES-55500_53CB531E.pnach">PAL-G/I</a></td>
     <td></td>
   </tr>
   <tr>
