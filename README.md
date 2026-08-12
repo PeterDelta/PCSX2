@@ -826,6 +826,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
+    <td>Hot Wheels - World Race</td>
+    <td style="text-align:center;"><a href="patches/SLES-51879_080807DE.pnach">PAL-M</a> - <a href="patches/SLUS-20737_FA9157AC.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Ice Age 2</td>
     <td style="text-align:center;"><a href="patches/SLES-53984_2EC49E65.pnach">PAL-M</a></td>
     <td></td>
@@ -1298,6 +1303,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
   <tr>
     <td>Need for Speed - Most Wanted</td>
     <td style="text-align:center;"><a href="patches/SLES-53559_CA2A1B04.pnach">PAL-M</a> - <a href="patches/SLUS-21267_270F8C03.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Need for Speed - MW Black Edition</td>
+    <td style="text-align:center;"><a href="patches/SLUS-21351_0518D274.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1794,6 +1804,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
       <td>Suffering, The - Ties that Bind</td>
       <td style="text-align:center;"><a href="patches/SLES-53527_AC4B758C.pnach">PAL-M</a></td>
       <td>Valid for same crc</td>
+  </tr>
+  <tr>
+      <td>Supercar Street Challenge</td>
+      <td style="text-align:center;"><a href="patches/SLES-50419_DA009310.pnach">PAL-M</a> - <a href="patches/SLUS-20012_80E9B7EF.pnach">USA</a></td>
+      <td>CCRG.ELF</td>
   </tr>
   <tr>
       <td>Surf's Up</td>
