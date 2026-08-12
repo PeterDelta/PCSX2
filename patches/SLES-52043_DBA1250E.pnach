@@ -1,0 +1,14 @@
+gametitle=MX Unleashed (PAL-E) SLES-52043 DBA1250E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas & PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,00112E40,word,3C033CAA //3C033C8E Zoom
+patch=0,EE,00112E44,word,3463A21D //3463FA34
+patch=0,EE,00112E38,word,3C023FAB //3C023F80 Y-FOV
+patch=0,EE,001ACBD4,word,3C03BFAB //3C03BF80 Render fix
+patch=0,EE,001ACBD8,word,3C023FAB //3C023F80
+patch=0,EE,0021D720,word,3C023CA8
+patch=0,EE,002AE824,word,C6200040
+patch=0,EE,002AE94C,word,3C023C82

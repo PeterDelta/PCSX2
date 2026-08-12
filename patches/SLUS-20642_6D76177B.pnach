@@ -1,0 +1,10 @@
+gametitle=Auto Modellista (NTSC-U) SLUS-20642 6D76177B
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=nemesis2000 & PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=1,EE,0039B80C,word,3FE38E38
+patch=1,EE,0022BE20,word,3C023FE3
+patch=1,EE,0022BE28,word,34428E38
+patch=1,EE,0039B94C,word,3FE38E38
