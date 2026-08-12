@@ -1,0 +1,9 @@
+gametitle=Supercar Street Challenge (NTSC-U) SLUS-20012 6AEABF4E CCRG
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,002798B4,word,3C013F48
+patch=0,EE,0027A1A0,word,3C013F20
+patch=0,EE,003B3F90,word,3C013F22

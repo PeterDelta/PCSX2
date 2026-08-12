@@ -1,0 +1,8 @@
+gametitle=Supercar Street Challenge (Europe) SLES-50419 DA009310
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,00335234,word,3C013F40
+patch=0,EE,00335B20,word,3C013F20

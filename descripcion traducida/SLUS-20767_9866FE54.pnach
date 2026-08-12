@@ -1,0 +1,14 @@
+gametitle=MX Unleashed (NTSC-U) SLUS-20767 9866FE54
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas & PeterDelta
+description=Renderiza el juego en proporción de 16:9.
+patch=0,EE,00112E60,word,3C033CAA //3C033C8E Zoom
+patch=0,EE,00112E64,word,3463A21D //3463FA34
+patch=0,EE,00112E58,word,3C023FAB //3C023F80 Y-FOV
+patch=0,EE,001ACB64,word,3C03BFAB //3C03BF80 Render fix
+patch=0,EE,001ACB68,word,3C023FAB //3C023F80
+patch=0,EE,0021CEF0,word,3C023CA8
+patch=0,EE,002ACD90,word,C6200040
+patch=0,EE,002ACEBC,word,3C023C82

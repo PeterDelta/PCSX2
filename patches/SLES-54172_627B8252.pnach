@@ -2,11 +2,12 @@ gametitle=Garfield 2 - Tale of Two Kitties (PAL-M) SLES-54172 627B8252
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-author=Arapapa
-description=Renders the game in 16:9 aspect ratio.
-patch=1,EE,002b124c,word,3c023eca //3c023f00 Zoom fix
-patch=1,EE,002b1274,word,3c023f80 //3c023faa X-fov + Zoom
-patch=1,EE,002b1278,word,34420000 //3442aaab
+author=PeterDelta
+description=Enable native widescreen.
+patch=0,EE,003B557C,word,3C033FE3
+patch=0,EE,003B5580,word,34638E39
+patch=0,EE,003B55E8,word,3C033FE3
+patch=0,EE,003B55EC,word,34638E39
 
 [50 FPS]
 author=PeterDelta

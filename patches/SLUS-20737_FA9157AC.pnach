@@ -1,0 +1,8 @@
+gametitle=Hot Wheels - World Race (NTSC-U) SLUS-20737 FA9157AC
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa & PeterDelta
+description=Renders the game in 16:9 aspect ratio.
+patch=0,EE,0028BA2C,word,3C013FAB
+patch=0,EE,00345530,word,3FAB0000

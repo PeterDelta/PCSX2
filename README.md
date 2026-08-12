@@ -92,7 +92,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Auto Modellista</td>
-    <td style="text-align:center;"><a href="patches/SLES-51191_692C87AD.pnach">PAL-M</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-51191_692C87AD.pnach">PAL-M</a> - <a href="patches/SLUS-20642_6D76177B.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -826,6 +826,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
+    <td>Hot Wheels - World Race</td>
+    <td style="text-align:center;"><a href="patches/SLES-51879_080807DE.pnach">PAL-M</a> - <a href="patches/SLUS-20737_FA9157AC.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Ice Age 2</td>
     <td style="text-align:center;"><a href="patches/SLES-53984_2EC49E65.pnach">PAL-M</a></td>
     <td></td>
@@ -1176,6 +1181,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
+    <td>MX Unleashed</td>
+    <td style="text-align:center;"><a href="patches/SLES-52043_DBA1250E.pnach">PAL-M</a> - <a href="patches/SLUS-20767_9866FE54.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>NASCAR '06</td>
     <td style="text-align:center;"><a href="patches/SLES-53635_CF3A1D37.pnach">PAL-E</a></td>
     <td></td>
@@ -1301,13 +1311,18 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td></td>
   </tr>
   <tr>
+    <td>Need for Speed - MW Black Edition</td>
+    <td style="text-align:center;"><a href="patches/SLUS-21351_0518D274.pnach">USA</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Need for Speed - Carbono</td>
     <td style="text-align:center;"><a href="patches/SLES-54323_4078F8F1.pnach">PAL-S</a> - <a href="patches/SLES-54322_CF36D003.pnach">PAL-E</a> - <a href="patches/SLES-54324_26DFEE66.pnach">PAL-R</a> - <a href="patches/SLUS-21493_7841A89E.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Need for Speed - Carbon Collector's</td>
-    <td style="text-align:center;"><a href="patches/SLES-54492_C2909885.pnach">PAL-E</a> - <a href="patches/SLES-54402_2BB7BA40.pnach">PAL-F</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-54492_C2909885.pnach">PAL-E</a> - <a href="patches/SLES-54402_2BB7BA40.pnach">PAL-F</a> - <a href="patches/SLUS-21494_52565480.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -1794,6 +1809,11 @@ I publish those that are more advanced, exposing what remains and what I am inve
       <td>Suffering, The - Ties that Bind</td>
       <td style="text-align:center;"><a href="patches/SLES-53527_AC4B758C.pnach">PAL-M</a></td>
       <td>Valid for same crc</td>
+  </tr>
+  <tr>
+      <td>Supercar Street Challenge</td>
+      <td style="text-align:center;"><a href="patches/SLES-50419_DA009310.pnach">PAL-M</a> - <a href="patches/SLUS-20012_80E9B7EF.pnach">USA</a></td>
+      <td>CCRG.ELF</td>
   </tr>
   <tr>
       <td>Surf's Up</td>
