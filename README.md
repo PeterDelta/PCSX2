@@ -1317,7 +1317,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
   </tr>
   <tr>
     <td>Need for Speed - Carbon Collector's</td>
-    <td style="text-align:center;"><a href="patches/SLES-54492_C2909885.pnach">PAL-E</a> - <a href="patches/SLES-54402_2BB7BA40.pnach">PAL-F</a></td>
+    <td style="text-align:center;"><a href="patches/SLES-54492_C2909885.pnach">PAL-E</a> - <a href="patches/SLES-54402_2BB7BA40.pnach">PAL-F</a> - <a href="patches/SLUS-21494_52565480.pnach">USA</a></td>
     <td></td>
   </tr>
   <tr>
